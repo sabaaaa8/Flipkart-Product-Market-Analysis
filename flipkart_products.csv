@@ -1,0 +1,1101 @@
+Product_ID,Product_Name,Brand,Category,Sub_Category,Price,Original_Price,Discount_Percentage,Rating,Review_Count,Availability,Seller,Delivery_Days,Product_Popularity,Stock_Status
+FLP1000,Dove Serum,Dove,Beauty,Skincare,1170.0,1300.0,10,3.8,234,Limited Stock,BestDeals,1,35.1,Low Stock
+FLP1001,Samsung Earbuds 30,Samsung,Electronics,Headphones,34552.0,86380.0,60,3.4,1505,In Stock,PrimeSeller,3,44.7,Available
+FLP1002,Zara Blouse,Zara,Fashion,Women's Clothing,1260.0,1800.0,30,5.0,658,In Stock,SmartBuy,5,87.1,Available
+FLP1003,H&M Handbag,H&M,Fashion,Bags,6869.5,12490.0,45,4.4,456,In Stock,BrandHub,1,52.5,Available
+FLP1004,Sony Tab,Sony,Electronics,Tablets,72877.5,97170.0,25,4.2,84,In Stock,MegaMart,5,81.0,Available
+FLP1005,Westland Biography 39,Westland,Books,Non-Fiction,315.0,630.0,50,3.7,84,In Stock,ValueStore,5,52.0,Available
+FLP1006,Van Heusen Saree,Van Heusen,Fashion,Women's Clothing,9885.0,13180.0,25,4.1,29,Limited Stock,SuperStore,3,87.9,Low Stock
+FLP1007,Usha Wall Art,Usha,Home & Kitchen,Decor,19008.0,34560.0,45,3.5,1005,Limited Stock,DailyDeals,3,73.3,Low Stock
+FLP1008,Vivo Smartwatch,Vivo,Electronics,Smartwatches,64036.0,91480.0,30,2.2,459,In Stock,DailyDeals,10,100.0,Available
+FLP1009,Chhota Bheem Flash Cards,Chhota Bheem,Toys,Educational Toys,749.0,1070.0,30,3.9,615,Out of Stock,BrandHub,5,66.4,Sold Out
+FLP1010,WOW Body Wash 86,WOW,Beauty,Personal Care,802.5,1070.0,25,4.0,10,Out of Stock,RetailWorld,3,40.2,Sold Out
+FLP1011,Realme Tab,Realme,Electronics,Tablets,33762.0,39720.0,15,5.0,1751,In Stock,DailyDeals,3,31.4,Available
+FLP1012,Philips Vacuum Cleaner Max,Philips,Home & Kitchen,Cleaning,11863.5,21570.0,45,3.5,893,In Stock,DailyDeals,5,71.4,Available
+FLP1013,W Backpack SE,W,Fashion,Bags,1768.0,2080.0,15,4.0,119,In Stock,RetailWorld,3,66.6,Available
+FLP1014,Oppo Note,Oppo,Electronics,Smartphones,12979.5,15270.0,15,3.8,100,In Stock,EliteSeller,5,87.7,Available
+FLP1015,Havells Bed Sheet Max,Havells,Home & Kitchen,Bedding,4000.0,8000.0,50,3.2,101,In Stock,PrimeSeller,5,73.8,Available
+FLP1016,SS Cricket Bat,SS,Sports,Cricket,3594.0,5990.0,40,3.2,181,In Stock,RetailWorld,2,71.6,Available
+FLP1017,Lakme Razor 17,Lakme,Beauty,Personal Care,1455.0,4850.0,70,4.1,371,In Stock,RetailWorld,2,55.2,Available
+FLP1018,MDH Cheese,MDH,Groceries,Dairy,180.0,450.0,60,5.0,282,In Stock,RetailWorld,5,47.6,Available
+FLP1019,Lakme Body Wash,Lakme,Beauty,Personal Care,3760.0,3760.0,0,4.7,172,Limited Stock,TechZone,3,72.1,Low Stock
+FLP1020,Himalaya Hair Serum 82,Himalaya,Beauty,Haircare,379.5,690.0,45,3.9,473,In Stock,SmartBuy,3,91.9,Available
+FLP1021,Levi's Sneakers Max,Levi's,Fashion,Footwear,3780.0,4200.0,10,3.6,75,In Stock,ShopKart,5,50.1,Available
+FLP1022,Tata Cookies Max,Tata,Groceries,Snacks,272.0,340.0,20,4.3,172,In Stock,SuperStore,2,78.7,Available
+FLP1023,Nike Backpack SE,Nike,Fashion,Bags,6072.0,10120.0,40,3.6,228,Limited Stock,QuickMart,2,93.1,Low Stock
+FLP1024,Levi's Backpack 21,Levi's,Fashion,Bags,9222.5,10850.0,15,3.4,304,In Stock,BrandHub,2,28.8,Available
+FLP1025,Zara Jacket,Zara,Fashion,Men's Clothing,5820.0,11640.0,50,4.3,768,In Stock,SmartBuy,5,63.5,Available
+FLP1026,Bloomsbury Biography Plus,Bloomsbury,Books,Non-Fiction,112.5,150.0,25,3.6,111,In Stock,BestDeals,2,59.4,Available
+FLP1027,Mamaearth Foundation,Mamaearth,Beauty,Makeup,3101.0,4430.0,30,5.0,361,Limited Stock,QuickMart,2,59.6,Low Stock
+FLP1028,Rupa Motivation,Rupa,Books,Self Help,488.0,1220.0,60,4.1,448,Out of Stock,BrandHub,2,50.4,Sold Out
+FLP1029,Dabur Milk Lite,Dabur,Groceries,Dairy,1054.0,1240.0,15,4.1,23,In Stock,MegaMart,2,94.0,Available
+FLP1030,Zara Backpack 23,Zara,Fashion,Bags,13404.5,14110.0,5,4.3,467,In Stock,PrimeSeller,10,54.1,Available
+FLP1031,Rupa Mindset Ultra,Rupa,Books,Self Help,570.0,950.0,40,5.0,93,In Stock,DailyDeals,1,93.5,Available
+FLP1032,S. Chand Science Lite,S. Chand,Books,Non-Fiction,350.0,700.0,50,4.8,33,In Stock,ValueStore,2,51.7,Available
+FLP1033,Allen Solly Slippers Max,Allen Solly,Fashion,Footwear,1519.0,2170.0,30,3.6,1486,Out of Stock,BrandHub,2,48.2,Sold Out
+FLP1034,Xiaomi Pro,Xiaomi,Electronics,Tablets,37031.5,67330.0,45,3.4,1685,In Stock,DailyDeals,5,54.0,Available
+FLP1035,Motorola Earbuds Max,Motorola,Electronics,Headphones,16080.0,53600.0,70,4.0,826,Out of Stock,BrandHub,2,82.2,Sold Out
+FLP1036,Head Yoga Mat,Head,Sports,Yoga,14641.0,26620.0,45,4.3,181,In Stock,QuickMart,2,94.0,Available
+FLP1037,Wilson Water Bottle 81,Wilson,Sports,Cycling,1521.5,1790.0,15,4.2,51,In Stock,EliteSeller,3,60.0,Available
+FLP1038,Nerf Baby Doll Lite,Nerf,Toys,Dolls,2118.0,3530.0,40,3.5,576,Limited Stock,TopBrands,3,68.9,Low Stock
+FLP1039,Neutrogena Foundation Max,Neutrogena,Beauty,Makeup,384.0,480.0,20,4.0,290,Limited Stock,QuickMart,1,83.0,Low Stock
+FLP1040,Rupa Sci-Fi Pro,Rupa,Books,Fiction,402.0,670.0,40,3.7,65,Out of Stock,ValueStore,3,66.5,Sold Out
+FLP1041,Morphy Richards Cushion 38,Morphy Richards,Home & Kitchen,Decor,42280.0,60400.0,30,2.8,341,Out of Stock,TopBrands,7,57.3,Sold Out
+FLP1042,Vivo Pro,Vivo,Electronics,Tablets,71506.5,110010.0,35,5.0,17,In Stock,TechZone,7,37.8,Available
+FLP1043,Neutrogena Hair Mask 45,Neutrogena,Beauty,Haircare,792.0,990.0,20,3.5,1200,In Stock,BrandHub,5,74.5,Available
+FLP1044,LG Pro Max,LG,Electronics,Smartphones,9412.5,12550.0,25,3.9,149,Limited Stock,ShopKart,1,72.4,Low Stock
+FLP1045,Sony Notebook,Sony,Electronics,Laptops,56138.5,102070.0,45,4.6,543,In Stock,ShopKart,3,57.8,Available
+FLP1046,Motorola Pad 23,Motorola,Electronics,Tablets,72254.0,103220.0,30,3.0,186,In Stock,BrandHub,5,84.2,Available
+FLP1047,Pan Macmillan Novel,Pan Macmillan,Books,Fiction,900.0,1200.0,25,2.9,367,In Stock,ValueStore,3,59.0,Available
+FLP1048,Nestle Salt Max,Nestle,Groceries,Staples,268.0,670.0,60,2.9,395,In Stock,ShopKart,7,61.1,Available
+FLP1049,Adidas Kurti,Adidas,Fashion,Women's Clothing,2860.0,4400.0,35,3.9,102,In Stock,TopBrands,3,87.3,Available
+FLP1050,Oppo Tab 40,Oppo,Electronics,Tablets,25052.5,45550.0,45,3.7,1746,In Stock,TopBrands,7,49.7,Available
+FLP1051,Bosch Bed SE,Bosch,Home & Kitchen,Furniture,33702.5,51850.0,35,3.8,746,In Stock,PrimeSeller,3,66.2,Available
+FLP1052,Milton Vacuum Cleaner,Milton,Home & Kitchen,Cleaning,13732.0,34330.0,60,3.3,1402,In Stock,PrimeSeller,2,59.2,Available
+FLP1053,OnePlus Neckband 22,OnePlus,Electronics,Headphones,13108.0,32770.0,60,2.8,1126,Limited Stock,BestDeals,3,68.2,Low Stock
+FLP1054,Nike Sandals,Nike,Fashion,Footwear,9639.0,10710.0,10,3.6,455,In Stock,BrandHub,5,100.0,Available
+FLP1055,Sony Tab,Sony,Electronics,Tablets,55807.5,74410.0,25,4.0,1274,Limited Stock,ShopKart,3,71.0,Low Stock
+FLP1056,L'Oreal Serum Ultra,L'Oreal,Beauty,Skincare,456.5,830.0,45,4.2,46,In Stock,BestDeals,3,62.3,Available
+FLP1057,Wilson Bolster Plus,Wilson,Sports,Yoga,21824.0,27280.0,20,5.0,109,In Stock,BestDeals,3,18.3,Available
+FLP1058,Puma Shirt 14,Puma,Fashion,Men's Clothing,2298.0,3830.0,40,3.9,23,In Stock,SuperStore,3,65.7,Available
+FLP1059,Adidas Sunglasses,Adidas,Fashion,Accessories,8320.0,10400.0,20,4.1,196,In Stock,DailyDeals,7,37.8,Available
+FLP1060,OnePlus Air Max,OnePlus,Electronics,Tablets,13815.0,15350.0,10,4.1,246,Out of Stock,FlashSale,7,39.1,Sold Out
+FLP1061,Bloomsbury Leadership,Bloomsbury,Books,Self Help,559.0,860.0,35,4.1,158,In Stock,DailyDeals,2,67.8,Available
+FLP1062,Playmobil Puppet 76,Playmobil,Toys,Dolls,2286.0,7620.0,70,3.6,882,In Stock,SmartBuy,5,51.0,Available
+FLP1063,FabIndia Backpack 30,FabIndia,Fashion,Bags,6259.5,9630.0,35,4.7,220,In Stock,SuperStore,2,60.6,Available
+FLP1064,Inalsa Mattress SE,Inalsa,Home & Kitchen,Bedding,3249.0,3420.0,5,3.7,164,Limited Stock,TopBrands,3,81.2,Low Stock
+FLP1065,Allen Solly Saree Max,Allen Solly,Fashion,Women's Clothing,1686.0,5620.0,70,3.1,391,In Stock,TopBrands,2,65.2,Available
+FLP1066,Motorola Smartwatch Pro,Motorola,Electronics,Smartwatches,48360.0,120900.0,60,4.4,75,In Stock,BrandHub,1,86.2,Available
+FLP1067,Realme Fitness Band Plus,Realme,Electronics,Smartwatches,63032.0,78790.0,20,3.2,810,In Stock,MegaMart,3,76.6,Available
+FLP1068,Harper Collins Biography 46,Harper Collins,Books,Non-Fiction,147.0,490.0,70,4.3,38,Out of Stock,BrandHub,2,50.6,Sold Out
+FLP1069,L'Oreal Body Mist,L'Oreal,Beauty,Fragrances,1488.5,2290.0,35,3.4,2167,In Stock,ShopKart,3,85.9,Available
+FLP1070,Nike Scarf,Nike,Fashion,Accessories,3237.0,4980.0,35,3.5,739,In Stock,QuickMart,5,29.9,Available
+FLP1071,Milton Vacuum Cleaner 19,Milton,Home & Kitchen,Cleaning,45266.0,69640.0,35,5.0,110,In Stock,PrimeSeller,2,90.8,Available
+FLP1072,Maybelline Attar Pro,Maybelline,Beauty,Fragrances,2135.0,4270.0,50,4.3,5,In Stock,TechZone,5,49.9,Available
+FLP1073,Realme Smartwatch Plus,Realme,Electronics,Smartwatches,59852.0,149630.0,60,5.0,844,Out of Stock,FlashSale,5,94.8,Sold Out
+FLP1074,Haldiram's Biscuits,Haldiram's,Groceries,Snacks,960.0,1200.0,20,3.4,613,In Stock,ShopKart,3,81.5,Available
+FLP1075,Fisher-Price Barbie Lite,Fisher-Price,Toys,Dolls,2244.0,4080.0,45,4.4,652,In Stock,MegaMart,2,82.4,Available
+FLP1076,Oppo Mirrorless,Oppo,Electronics,Cameras,118568.0,148210.0,20,3.4,737,In Stock,BestDeals,5,48.9,Available
+FLP1077,Van Heusen Slippers,Van Heusen,Fashion,Footwear,1860.0,4650.0,60,3.4,38,In Stock,SmartBuy,2,100.0,Available
+FLP1078,Dove Deodorant Pro,Dove,Beauty,Fragrances,3315.0,3900.0,15,3.4,221,In Stock,DailyDeals,3,53.4,Available
+FLP1079,Samsung Mirrorless 26,Samsung,Electronics,Cameras,35616.0,89040.0,60,4.9,61,In Stock,MegaMart,3,97.2,Available
+FLP1080,Philips Cushion,Philips,Home & Kitchen,Decor,13604.5,20930.0,35,4.5,994,Limited Stock,BrandHub,5,61.6,Low Stock
+FLP1081,Bloomsbury Workbook Max,Bloomsbury,Books,Educational,183.0,610.0,70,3.5,488,In Stock,PrimeSeller,3,74.6,Available
+FLP1082,Sony Ultra Lite,Sony,Electronics,Laptops,5178.0,8630.0,40,3.4,200,In Stock,ValueStore,3,89.2,Available
+FLP1083,Samsung Neo SE,Samsung,Electronics,Smartphones,31934.5,49130.0,35,4.3,32,In Stock,MegaMart,3,74.8,Available
+FLP1084,FabIndia Saree,FabIndia,Fashion,Women's Clothing,6454.5,9930.0,35,2.7,186,In Stock,BrandHub,5,33.6,Available
+FLP1085,Allen Solly Loafers,Allen Solly,Fashion,Footwear,6775.0,13550.0,50,3.5,196,In Stock,DailyDeals,2,80.6,Available
+FLP1086,Lakme Toner,Lakme,Beauty,Skincare,3366.0,3960.0,15,5.0,653,In Stock,BrandHub,5,62.5,Available
+FLP1087,Mattel Science Kit Pro,Mattel,Toys,Educational Toys,3492.5,6350.0,45,5.0,507,In Stock,BrandHub,2,65.7,Available
+FLP1088,Oppo Edge Pro,Oppo,Electronics,Smartphones,101617.5,119550.0,15,3.8,1091,In Stock,TechZone,2,63.1,Available
+FLP1089,Inalsa Frame 76,Inalsa,Home & Kitchen,Decor,31005.0,47700.0,35,2.2,319,In Stock,DailyDeals,5,63.8,Available
+FLP1090,MDH Chips,MDH,Groceries,Snacks,896.0,1280.0,30,3.6,63,Limited Stock,TechZone,1,43.6,Low Stock
+FLP1091,Motorola ANC Headphones,Motorola,Electronics,Headphones,63382.5,84510.0,25,3.2,624,In Stock,BrandHub,3,83.4,Available
+FLP1092,Nivea Toothbrush Lite,Nivea,Beauty,Personal Care,1878.5,2210.0,15,2.8,715,In Stock,FlashSale,5,84.3,Available
+FLP1093,W Lehenga Ultra,W,Fashion,Women's Clothing,1225.5,1290.0,5,4.2,411,Out of Stock,MegaMart,5,70.0,Sold Out
+FLP1094,FabIndia Shirt 86,FabIndia,Fashion,Men's Clothing,2750.0,5500.0,50,4.6,736,Limited Stock,TechZone,1,57.4,Low Stock
+FLP1095,L'Oreal Hair Oil 83,L'Oreal,Beauty,Haircare,2822.0,3320.0,15,4.3,340,In Stock,BrandHub,2,49.8,Available
+FLP1096,Usha Vacuum Cleaner 44,Usha,Home & Kitchen,Cleaning,32496.0,54160.0,40,5.0,369,Out of Stock,SmartBuy,2,72.6,Sold Out
+FLP1097,Puma T-Shirt 77,Puma,Fashion,Men's Clothing,7199.5,13090.0,45,3.8,278,Out of Stock,ValueStore,10,58.7,Sold Out
+FLP1098,Milton Bed Pro,Milton,Home & Kitchen,Furniture,18960.0,25280.0,25,4.1,12,In Stock,TechZone,1,39.5,Available
+FLP1099,W Wallet SE,W,Fashion,Accessories,6454.0,9220.0,30,3.7,57,In Stock,TopBrands,3,98.2,Available
+FLP1100,Prestige Vase,Prestige,Home & Kitchen,Decor,9916.5,18030.0,45,4.3,15,Limited Stock,RetailWorld,5,69.6,Low Stock
+FLP1101,Philips Bed Sheet,Philips,Home & Kitchen,Bedding,6462.0,10770.0,40,3.7,505,Out of Stock,ValueStore,5,42.4,Sold Out
+FLP1102,Oppo Neo 31,Oppo,Electronics,Smartphones,48669.5,88490.0,45,3.1,188,In Stock,BrandHub,3,81.2,Available
+FLP1103,Harper Collins Leadership 53,Harper Collins,Books,Self Help,674.5,710.0,5,3.9,355,In Stock,EliteSeller,3,91.6,Available
+FLP1104,Apple Over-ear,Apple,Electronics,Headphones,69649.0,81940.0,15,4.4,1190,Out of Stock,FlashSale,5,54.7,Sold Out
+FLP1105,OnePlus TWS Max,OnePlus,Electronics,Headphones,57615.0,115230.0,50,5.0,143,In Stock,SmartBuy,3,87.4,Available
+FLP1106,Chhota Bheem Soft Toy 85,Chhota Bheem,Toys,Dolls,3470.0,6940.0,50,3.6,264,In Stock,MegaMart,3,84.7,Available
+FLP1107,Sony Compact 86,Sony,Electronics,Cameras,7837.5,10450.0,25,4.0,704,Limited Stock,TopBrands,7,58.0,Low Stock
+FLP1108,Neutrogena Face Wash 67,Neutrogena,Beauty,Skincare,2502.5,4550.0,45,3.5,129,In Stock,SuperStore,2,50.6,Available
+FLP1109,OnePlus Watch Pro 46,OnePlus,Electronics,Smartwatches,4272.0,10680.0,60,3.2,40,In Stock,EliteSeller,2,73.2,Available
+FLP1110,Nike Trolley,Nike,Fashion,Bags,5950.0,11900.0,50,3.6,171,In Stock,PrimeSeller,3,80.4,Available
+FLP1111,OnePlus Smartwatch 49,OnePlus,Electronics,Smartwatches,110344.0,137930.0,20,5.0,87,In Stock,DailyDeals,3,58.8,Available
+FLP1112,Reebok Shin Guards,Reebok,Sports,Football,1535.0,3070.0,50,3.3,1327,In Stock,BestDeals,2,73.8,Available
+FLP1113,Britannia Juice Lite,Britannia,Groceries,Beverages,138.0,460.0,70,4.9,825,Out of Stock,QuickMart,7,85.4,Sold Out
+FLP1114,L'Oreal Hair Mask SE,L'Oreal,Beauty,Haircare,396.0,990.0,60,4.1,501,In Stock,BestDeals,3,28.9,Available
+FLP1115,Dabur Organic Spices Lite,Dabur,Groceries,Organic,342.0,1140.0,70,3.1,1025,In Stock,ShopKart,5,72.8,Available
+FLP1116,Dabur Flour Pro,Dabur,Groceries,Staples,702.0,1170.0,40,2.1,813,Out of Stock,TopBrands,5,56.1,Sold Out
+FLP1117,Hasbro Fashion Doll,Hasbro,Toys,Dolls,3450.0,5750.0,40,4.2,103,Out of Stock,SmartBuy,2,51.8,Sold Out
+FLP1118,Oppo Action Cam 38,Oppo,Electronics,Cameras,97944.0,139920.0,30,4.7,1115,In Stock,SmartBuy,10,72.8,Available
+FLP1119,Oppo Sport Band,Oppo,Electronics,Smartwatches,107775.0,119750.0,10,5.0,387,In Stock,SmartBuy,5,75.6,Available
+FLP1120,Xiaomi Pad,Xiaomi,Electronics,Tablets,75642.0,126070.0,40,4.8,823,In Stock,BestDeals,5,54.9,Available
+FLP1121,W Handbag,W,Fashion,Bags,793.0,1220.0,35,3.8,1132,In Stock,ShopKart,2,62.9,Available
+FLP1122,FabIndia Tote,FabIndia,Fashion,Bags,1525.0,3050.0,50,5.0,191,In Stock,ValueStore,3,92.8,Available
+FLP1123,Hot Wheels Chess 84,Hot Wheels,Toys,Board Games,6280.0,7850.0,20,3.9,58,In Stock,QuickMart,2,46.2,Available
+FLP1124,Oppo Over-ear Pro,Oppo,Electronics,Headphones,110664.0,122960.0,10,4.4,129,Limited Stock,EliteSeller,3,38.4,Low Stock
+FLP1125,Dabur Namkeen,Dabur,Groceries,Snacks,99.0,330.0,70,4.0,278,Limited Stock,EliteSeller,3,70.6,Low Stock
+FLP1126,Biotique Eyeliner 66,Biotique,Beauty,Makeup,4320.0,4320.0,0,4.3,851,In Stock,QuickMart,3,51.6,Available
+FLP1127,Milton Pillow 79,Milton,Home & Kitchen,Bedding,44388.0,73980.0,40,3.9,985,In Stock,TechZone,3,73.3,Available
+FLP1128,Realme Watch Pro 88,Realme,Electronics,Smartwatches,27192.0,49440.0,45,3.8,5,In Stock,DailyDeals,3,53.2,Available
+FLP1129,Britannia Biscuits 87,Britannia,Groceries,Snacks,714.0,1020.0,30,3.1,357,In Stock,RetailWorld,10,92.2,Available
+FLP1130,Oppo Ultra,Oppo,Electronics,Laptops,31630.5,57510.0,45,4.3,270,In Stock,MegaMart,3,67.3,Available
+FLP1131,H&M Sneakers Lite,H&M,Fashion,Footwear,3771.5,3970.0,5,4.3,125,In Stock,TopBrands,7,67.1,Available
+FLP1132,Realme ANC Headphones 21,Realme,Electronics,Headphones,68659.5,105630.0,35,4.0,63,In Stock,DailyDeals,2,75.3,Available
+FLP1133,Allen Solly Shirt,Allen Solly,Fashion,Men's Clothing,6616.0,8270.0,20,4.6,205,Limited Stock,BestDeals,3,39.6,Low Stock
+FLP1134,Wilson Football 18,Wilson,Sports,Football,648.0,1080.0,40,3.2,1431,Limited Stock,SuperStore,2,55.2,Low Stock
+FLP1135,Rupa Comic Book Ultra,Rupa,Books,Comics,649.0,1180.0,45,5.0,195,In Stock,ShopKart,3,89.0,Available
+FLP1136,Vivo Pro 54,Vivo,Electronics,Laptops,77920.0,77920.0,0,4.3,365,In Stock,BrandHub,2,43.9,Available
+FLP1137,LG Book SE,LG,Electronics,Laptops,22400.0,44800.0,50,3.6,607,In Stock,SuperStore,2,88.3,Available
+FLP1138,Kissan Cheese Max,Kissan,Groceries,Dairy,90.0,90.0,0,5.0,225,Out of Stock,DailyDeals,2,88.8,Sold Out
+FLP1139,LG Smartwatch,LG,Electronics,Smartwatches,37600.0,47000.0,20,2.6,1783,In Stock,TopBrands,2,68.9,Available
+FLP1140,Levi's Sunglasses Lite,Levi's,Fashion,Accessories,4770.0,5300.0,10,3.5,1641,Out of Stock,MegaMart,7,94.4,Sold Out
+FLP1141,Sony Gaming 41,Sony,Electronics,Laptops,14800.5,22770.0,35,3.9,145,In Stock,SmartBuy,3,74.0,Available
+FLP1142,Nivea Lipstick 60,Nivea,Beauty,Makeup,2496.0,3840.0,35,4.7,343,Limited Stock,BestDeals,3,64.4,Low Stock
+FLP1143,Samsung Tab,Samsung,Electronics,Tablets,8014.5,12330.0,35,2.8,178,In Stock,SmartBuy,2,42.9,Available
+FLP1144,FabIndia Loafers Max,FabIndia,Fashion,Footwear,3976.0,5680.0,30,4.8,167,In Stock,FlashSale,2,73.1,Available
+FLP1145,Speedo Helmet Ultra,Speedo,Sports,Cycling,3638.5,3830.0,5,2.9,18,In Stock,ValueStore,7,87.0,Available
+FLP1146,Prestige Induction Cooktop 51,Prestige,Home & Kitchen,Kitchen Appliances,8542.5,11390.0,25,4.2,470,In Stock,QuickMart,7,42.2,Available
+FLP1147,H&M Backpack Lite,H&M,Fashion,Bags,5418.0,9030.0,40,4.3,349,Out of Stock,TechZone,2,43.3,Sold Out
+FLP1148,Dabur Organic Tea Plus,Dabur,Groceries,Organic,480.0,1200.0,60,4.6,26,In Stock,RetailWorld,2,44.7,Available
+FLP1149,Mamaearth Hair Serum,Mamaearth,Beauty,Haircare,1749.0,3180.0,45,4.0,163,Out of Stock,RetailWorld,2,45.7,Sold Out
+FLP1150,Philips Bed Sheet,Philips,Home & Kitchen,Bedding,28330.5,33330.0,15,2.9,1194,Limited Stock,MegaMart,7,83.4,Low Stock
+FLP1151,Allen Solly Scarf SE,Allen Solly,Fashion,Accessories,5256.0,5840.0,10,3.1,136,In Stock,FlashSale,5,71.2,Available
+FLP1152,Nivea Conditioner 98,Nivea,Beauty,Haircare,1176.0,1470.0,20,4.2,78,In Stock,PrimeSeller,2,100.0,Available
+FLP1153,Morphy Richards Vacuum Cleaner 47,Morphy Richards,Home & Kitchen,Cleaning,12859.0,23380.0,45,3.6,336,Limited Stock,SuperStore,5,47.5,Low Stock
+FLP1154,Realme Mirrorless Ultra,Realme,Electronics,Cameras,96356.0,113360.0,15,4.2,2122,Limited Stock,ShopKart,5,88.8,Low Stock
+FLP1155,LG 5G,LG,Electronics,Smartphones,32062.0,37720.0,15,4.6,138,Out of Stock,ValueStore,2,71.7,Sold Out
+FLP1156,Neutrogena Perfume,Neutrogena,Beauty,Fragrances,987.0,3290.0,70,4.5,557,In Stock,MegaMart,7,61.0,Available
+FLP1157,Scholastic Thriller,Scholastic,Books,Fiction,612.0,680.0,10,4.1,716,Out of Stock,FlashSale,5,62.8,Sold Out
+FLP1158,Milton Microwave,Milton,Home & Kitchen,Kitchen Appliances,11560.0,23120.0,50,3.1,135,Limited Stock,PrimeSeller,7,58.7,Low Stock
+FLP1159,Realme Mirrorless 88,Realme,Electronics,Cameras,109200.0,109200.0,0,3.8,651,In Stock,BrandHub,5,29.7,Available
+FLP1160,Adidas Boots 59,Adidas,Fashion,Footwear,5880.5,6190.0,5,4.1,229,In Stock,EliteSeller,2,75.1,Available
+FLP1161,H&M Sneakers,H&M,Fashion,Footwear,4873.0,8860.0,45,4.9,500,In Stock,ValueStore,1,67.1,Available
+FLP1162,Harper Collins Mindset 87,Harper Collins,Books,Self Help,792.0,990.0,20,3.6,501,Limited Stock,SuperStore,3,75.4,Low Stock
+FLP1163,Inalsa Mattress Ultra,Inalsa,Home & Kitchen,Bedding,54621.0,64260.0,15,4.0,383,In Stock,PrimeSeller,5,34.9,Available
+FLP1164,Apple TWS Pro,Apple,Electronics,Headphones,8370.0,13950.0,40,4.3,47,In Stock,BestDeals,2,57.3,Available
+FLP1165,Harper Collins Textbook Max,Harper Collins,Books,Educational,884.0,1360.0,35,4.2,901,In Stock,EliteSeller,3,44.5,Available
+FLP1166,FabIndia T-Shirt,FabIndia,Fashion,Men's Clothing,4040.0,4040.0,0,3.9,193,In Stock,SmartBuy,2,38.7,Available
+FLP1167,Cello Cushion 67,Cello,Home & Kitchen,Decor,13329.0,14810.0,10,4.1,103,In Stock,TechZone,3,9.9,Available
+FLP1168,Scholastic Graphic Novel 10,Scholastic,Books,Comics,757.5,1010.0,25,5.0,20,In Stock,TopBrands,2,100.0,Available
+FLP1169,Rupa Manga 14,Rupa,Books,Comics,714.0,840.0,15,3.9,446,In Stock,ShopKart,7,83.4,Available
+FLP1170,SS Cricket Ball 15,SS,Sports,Cricket,6099.0,6420.0,5,3.3,565,In Stock,BestDeals,7,52.9,Available
+FLP1171,Philips Juicer 51,Philips,Home & Kitchen,Kitchen Appliances,32448.0,40560.0,20,4.1,8,In Stock,SmartBuy,3,100.0,Available
+FLP1172,LG Fitness Band 90,LG,Electronics,Smartwatches,29640.0,37050.0,20,3.8,358,In Stock,MegaMart,5,90.2,Available
+FLP1173,Cello Candle,Cello,Home & Kitchen,Decor,47227.5,62970.0,25,3.7,128,In Stock,FlashSale,2,45.7,Available
+FLP1174,Barbie Car Lite,Barbie,Toys,Action Figures,4398.0,7330.0,40,3.3,518,In Stock,TechZone,3,75.8,Available
+FLP1175,Britannia Milk Ultra,Britannia,Groceries,Dairy,697.0,820.0,15,4.5,95,In Stock,DailyDeals,1,71.2,Available
+FLP1176,Havells Bed Sheet Plus,Havells,Home & Kitchen,Bedding,52215.0,69620.0,25,3.4,587,In Stock,ShopKart,2,100.0,Available
+FLP1177,Oxford Workbook 75,Oxford,Books,Educational,261.0,870.0,70,3.7,244,In Stock,TechZone,2,86.9,Available
+FLP1178,Yonex Yoga Mat Ultra,Yonex,Sports,Yoga,20595.0,27460.0,25,3.8,1380,Limited Stock,ShopKart,5,70.6,Low Stock
+FLP1179,Scholastic Leadership Max,Scholastic,Books,Self Help,314.5,370.0,15,2.9,73,In Stock,DailyDeals,5,90.9,Available
+FLP1180,Scholastic Reference Pro,Scholastic,Books,Educational,847.5,1130.0,25,4.4,208,In Stock,RetailWorld,7,92.9,Available
+FLP1181,Lego Ludo 74,Lego,Toys,Board Games,4312.0,6160.0,30,4.5,60,In Stock,RetailWorld,2,86.5,Available
+FLP1182,Neutrogena Toothbrush,Neutrogena,Beauty,Personal Care,3330.0,3330.0,0,4.8,1293,In Stock,MegaMart,3,66.1,Available
+FLP1183,SG Yoga Strap,SG,Sports,Yoga,3306.0,3480.0,5,3.4,1049,In Stock,PrimeSeller,2,62.7,Available
+FLP1184,Kissan Rice 21,Kissan,Groceries,Staples,156.0,390.0,60,4.1,149,Out of Stock,ValueStore,5,95.0,Sold Out
+FLP1185,Prestige Mixer Grinder,Prestige,Home & Kitchen,Kitchen Appliances,53561.0,56380.0,5,3.2,539,Out of Stock,BestDeals,3,65.0,Sold Out
+FLP1186,MDH Organic Ghee,MDH,Groceries,Organic,408.5,430.0,5,3.7,849,In Stock,ShopKart,5,50.1,Available
+FLP1187,Vivo Watch Pro,Vivo,Electronics,Smartwatches,111752.0,139690.0,20,4.2,405,Out of Stock,EliteSeller,3,77.6,Sold Out
+FLP1188,Tata Namkeen 86,Tata,Groceries,Snacks,847.5,1130.0,25,4.6,377,Out of Stock,RetailWorld,2,72.1,Sold Out
+FLP1189,Neutrogena Perfume,Neutrogena,Beauty,Fragrances,732.0,1220.0,40,4.6,138,In Stock,SuperStore,5,57.3,Available
+FLP1190,OnePlus Tab 49,OnePlus,Electronics,Tablets,18030.0,60100.0,70,3.1,48,In Stock,EliteSeller,2,40.5,Available
+FLP1191,Adidas Lehenga Ultra,Adidas,Fashion,Women's Clothing,1982.5,3050.0,35,3.1,1137,In Stock,EliteSeller,1,56.6,Available
+FLP1192,Nike Belt,Nike,Fashion,Accessories,3213.0,4590.0,30,4.1,1153,In Stock,DailyDeals,10,33.4,Available
+FLP1193,H&M Kurti,H&M,Fashion,Women's Clothing,3074.5,4730.0,35,4.2,501,In Stock,SuperStore,2,74.6,Available
+FLP1194,WOW Razor 52,WOW,Beauty,Personal Care,1007.0,1060.0,5,4.0,207,In Stock,ValueStore,5,66.8,Available
+FLP1195,SG Gloves SE,SG,Sports,Cycling,5071.0,9220.0,45,4.3,214,In Stock,DailyDeals,10,60.6,Available
+FLP1196,Havells Detergent Plus,Havells,Home & Kitchen,Cleaning,21128.0,26410.0,20,4.2,647,In Stock,EliteSeller,3,46.7,Available
+FLP1197,Havells Duvet 27,Havells,Home & Kitchen,Bedding,28288.0,35360.0,20,4.0,1137,Out of Stock,BestDeals,5,58.4,Sold Out
+FLP1198,FabIndia Blouse,FabIndia,Fashion,Women's Clothing,11305.0,11900.0,5,3.0,1090,In Stock,EliteSeller,3,73.5,Available
+FLP1199,Kissan Organic Tea Ultra,Kissan,Groceries,Organic,921.5,970.0,5,4.3,756,In Stock,DailyDeals,2,74.6,Available
+FLP1200,Himalaya Blush 38,Himalaya,Beauty,Makeup,589.0,620.0,5,3.9,513,In Stock,ValueStore,3,88.9,Available
+FLP1201,Inalsa Vacuum Cleaner 54,Inalsa,Home & Kitchen,Cleaning,12480.0,12480.0,0,3.3,43,Limited Stock,TopBrands,1,66.8,Low Stock
+FLP1202,Wilson Cycle Lite,Wilson,Sports,Cycling,10108.0,10640.0,5,2.9,88,In Stock,TechZone,2,76.7,Available
+FLP1203,Oxford Politics,Oxford,Books,Non-Fiction,492.0,820.0,40,4.4,1144,Limited Stock,DailyDeals,2,86.6,Low Stock
+FLP1204,Lakme Body Mist,Lakme,Beauty,Fragrances,3153.5,3710.0,15,3.2,466,In Stock,EliteSeller,2,71.6,Available
+FLP1205,Chhota Bheem Car Max,Chhota Bheem,Toys,Action Figures,1781.0,2740.0,35,4.7,5,In Stock,ValueStore,10,84.6,Available
+FLP1206,Biotique Blush,Biotique,Beauty,Makeup,2332.0,4240.0,45,4.4,53,Out of Stock,PrimeSeller,7,91.5,Sold Out
+FLP1207,Apple Air Max,Apple,Electronics,Tablets,12616.0,31540.0,60,4.3,544,In Stock,MegaMart,3,80.4,Available
+FLP1208,Bloomsbury Science,Bloomsbury,Books,Non-Fiction,264.0,330.0,20,4.3,5,In Stock,BestDeals,1,78.4,Available
+FLP1209,Reebok Cycle,Reebok,Sports,Cycling,13790.0,19700.0,30,3.6,87,Out of Stock,FlashSale,3,46.0,Sold Out
+FLP1210,LG Notebook 83,LG,Electronics,Laptops,14058.0,46860.0,70,2.8,397,Out of Stock,EliteSeller,3,73.7,Sold Out
+FLP1211,Inalsa Frame 93,Inalsa,Home & Kitchen,Decor,65900.0,65900.0,0,3.9,588,In Stock,BrandHub,3,43.5,Available
+FLP1212,Dabur Lentils Lite,Dabur,Groceries,Staples,513.0,540.0,5,1.8,527,Out of Stock,ShopKart,2,88.9,Sold Out
+FLP1213,WOW Hair Serum 78,WOW,Beauty,Haircare,663.0,780.0,15,4.4,126,In Stock,SuperStore,3,31.7,Available
+FLP1214,H&M Sling Bag Lite,H&M,Fashion,Bags,8580.0,14300.0,40,5.0,622,In Stock,QuickMart,10,62.3,Available
+FLP1215,Oxford Economics Lite,Oxford,Books,Non-Fiction,225.0,300.0,25,4.5,135,In Stock,ValueStore,3,35.2,Available
+FLP1216,Adidas Shirt Pro,Adidas,Fashion,Men's Clothing,2488.0,6220.0,60,3.6,196,In Stock,TechZone,10,100.0,Available
+FLP1217,S. Chand Workbook 51,S. Chand,Books,Educational,387.0,1290.0,70,3.4,686,In Stock,MegaMart,2,62.0,Available
+FLP1218,Neutrogena Body Wash 25,Neutrogena,Beauty,Personal Care,1980.0,3960.0,50,3.9,524,In Stock,TopBrands,5,58.9,Available
+FLP1219,Xiaomi DSLR 93,Xiaomi,Electronics,Cameras,134442.0,149380.0,10,4.3,945,Limited Stock,TechZone,7,53.6,Low Stock
+FLP1220,Nike Kurti 10,Nike,Fashion,Women's Clothing,4904.0,6130.0,20,3.7,535,In Stock,TechZone,1,31.8,Available
+FLP1221,LG Book,LG,Electronics,Laptops,103600.0,103600.0,0,4.5,420,In Stock,ValueStore,7,65.9,Available
+FLP1222,Apple 5G Ultra,Apple,Electronics,Smartphones,40352.0,50440.0,20,4.7,49,Out of Stock,RetailWorld,2,91.2,Sold Out
+FLP1223,Neutrogena Conditioner,Neutrogena,Beauty,Haircare,1547.0,1820.0,15,3.6,229,In Stock,EliteSeller,5,56.7,Available
+FLP1224,Vivo Watch Pro Pro,Vivo,Electronics,Smartwatches,39179.0,55970.0,30,3.7,154,In Stock,SmartBuy,1,75.1,Available
+FLP1225,Van Heusen Handbag,Van Heusen,Fashion,Bags,3116.0,7790.0,60,3.1,139,Out of Stock,BestDeals,5,83.1,Sold Out
+FLP1226,Bajaj Detergent Lite,Bajaj,Home & Kitchen,Cleaning,42500.0,42500.0,0,5.0,1806,In Stock,DailyDeals,7,61.2,Available
+FLP1227,Apple 360 Cam Lite,Apple,Electronics,Cameras,7049.0,7420.0,5,4.4,249,Limited Stock,SuperStore,7,66.2,Low Stock
+FLP1228,Cello Bed Sheet,Cello,Home & Kitchen,Bedding,53475.5,56290.0,5,3.3,1113,In Stock,MegaMart,1,45.8,Available
+FLP1229,Adidas Sling Bag Max,Adidas,Fashion,Bags,3402.0,4860.0,30,3.7,498,In Stock,ShopKart,1,26.6,Available
+FLP1230,OnePlus Watch Pro,OnePlus,Electronics,Smartwatches,8928.0,22320.0,60,4.0,791,In Stock,SuperStore,2,67.3,Available
+FLP1231,Nivia Jump Rope 90,Nivia,Sports,Fitness,23210.0,23210.0,0,3.5,349,In Stock,TopBrands,2,83.2,Available
+FLP1232,Bosch Juicer Plus,Bosch,Home & Kitchen,Kitchen Appliances,61938.0,68820.0,10,3.5,430,In Stock,MegaMart,3,76.3,Available
+FLP1233,Xiaomi S,Xiaomi,Electronics,Smartphones,8752.5,11670.0,25,3.6,339,Limited Stock,PrimeSeller,7,72.7,Low Stock
+FLP1234,Oppo Fitness Band 76,Oppo,Electronics,Smartwatches,42113.5,44330.0,5,3.6,108,In Stock,TechZone,1,60.6,Available
+FLP1235,Funskool Flash Cards 41,Funskool,Toys,Educational Toys,1650.0,2750.0,40,3.3,640,In Stock,ShopKart,5,70.2,Available
+FLP1236,Tata Juice Pro,Tata,Groceries,Beverages,977.5,1150.0,15,4.9,164,In Stock,ValueStore,3,100.0,Available
+FLP1237,Hasbro Science Kit,Hasbro,Toys,Educational Toys,1530.0,1800.0,15,2.3,12,Limited Stock,SmartBuy,2,89.6,Low Stock
+FLP1238,Chhota Bheem Frisbee,Chhota Bheem,Toys,Outdoor Toys,1512.0,3780.0,60,4.2,518,In Stock,ValueStore,5,69.6,Available
+FLP1239,Nivea Hair Mask,Nivea,Beauty,Haircare,1147.5,1530.0,25,4.5,97,Out of Stock,BestDeals,2,56.0,Sold Out
+FLP1240,Apple Over-ear 67,Apple,Electronics,Headphones,24777.0,27530.0,10,3.3,1410,In Stock,FlashSale,3,70.4,Available
+FLP1241,Mattel Scrabble Pro,Mattel,Toys,Board Games,5200.0,6500.0,20,4.4,1538,In Stock,BestDeals,5,37.6,Available
+FLP1242,Tata Salt SE,Tata,Groceries,Staples,80.0,100.0,20,3.8,1231,In Stock,BestDeals,3,100.0,Available
+FLP1243,OnePlus Neo SE,OnePlus,Electronics,Smartphones,22610.0,22610.0,0,4.9,231,In Stock,TechZone,5,15.2,Available
+FLP1244,Maybelline Mascara 25,Maybelline,Beauty,Makeup,199.5,210.0,5,4.2,7,Out of Stock,RetailWorld,1,92.3,Sold Out
+FLP1245,Vivo Over-ear 45,Vivo,Electronics,Headphones,86898.0,124140.0,30,3.2,1317,In Stock,SmartBuy,3,65.5,Available
+FLP1246,Motorola Neckband 59,Motorola,Electronics,Headphones,47230.0,94460.0,50,3.7,279,In Stock,BestDeals,1,84.8,Available
+FLP1247,Nivea Razor 79,Nivea,Beauty,Personal Care,957.0,3190.0,70,3.8,1700,In Stock,SmartBuy,5,63.9,Available
+FLP1248,Cello Wall Art 70,Cello,Home & Kitchen,Decor,22000.0,22000.0,0,3.7,1656,Limited Stock,EliteSeller,5,77.8,Low Stock
+FLP1249,L'Oreal Conditioner 83,L'Oreal,Beauty,Haircare,295.0,590.0,50,3.9,958,Out of Stock,SmartBuy,5,89.7,Sold Out
+FLP1250,Mattel Car,Mattel,Toys,Action Figures,1530.0,2040.0,25,4.3,174,Limited Stock,ShopKart,1,36.0,Low Stock
+FLP1251,Tata Salt Lite,Tata,Groceries,Staples,312.0,480.0,35,4.1,243,In Stock,BestDeals,1,66.6,Available
+FLP1252,SG Dumbbells,SG,Sports,Fitness,20692.5,27590.0,25,4.3,952,Out of Stock,PrimeSeller,2,69.1,Sold Out
+FLP1253,Pan Macmillan Practice Papers,Pan Macmillan,Books,Educational,192.0,240.0,20,3.1,190,Out of Stock,SuperStore,3,100.0,Sold Out
+FLP1254,Haldiram's Organic Ghee SE,Haldiram's,Groceries,Organic,198.0,360.0,45,4.2,92,Out of Stock,ValueStore,2,47.1,Sold Out
+FLP1255,Lego Puppet Lite,Lego,Toys,Dolls,1215.0,1620.0,25,5.0,406,In Stock,TechZone,3,40.1,Available
+FLP1256,OnePlus Tab,OnePlus,Electronics,Tablets,92387.5,97250.0,5,4.4,1375,Out of Stock,SuperStore,2,38.2,Sold Out
+FLP1257,Apple Air Lite,Apple,Electronics,Tablets,109460.0,109460.0,0,3.0,595,Limited Stock,ValueStore,7,86.3,Low Stock
+FLP1258,Motorola DSLR,Motorola,Electronics,Cameras,49695.0,99390.0,50,4.0,422,Out of Stock,TechZone,1,86.7,Sold Out
+FLP1259,Puma Sunglasses Max,Puma,Fashion,Accessories,6636.0,11060.0,40,5.0,51,In Stock,QuickMart,10,45.2,Available
+FLP1260,L'Oreal EDT 43,L'Oreal,Beauty,Fragrances,270.0,360.0,25,4.0,477,In Stock,FlashSale,5,77.5,Available
+FLP1261,Vivo Note,Vivo,Electronics,Smartphones,57141.5,87910.0,35,4.3,2305,In Stock,RetailWorld,2,80.6,Available
+FLP1262,Realme Watch Pro SE,Realme,Electronics,Smartwatches,95335.5,146670.0,35,4.2,75,In Stock,ValueStore,3,50.7,Available
+FLP1263,Oppo DSLR SE,Oppo,Electronics,Cameras,32050.0,32050.0,0,3.8,365,In Stock,TechZone,2,87.3,Available
+FLP1264,LG Air 78,LG,Electronics,Tablets,19509.0,65030.0,70,3.1,1049,Out of Stock,ShopKart,5,51.4,Sold Out
+FLP1265,Funskool Badminton Set 28,Funskool,Toys,Outdoor Toys,324.0,810.0,60,4.8,675,In Stock,QuickMart,3,70.6,Available
+FLP1266,ITC Energy Drink 86,ITC,Groceries,Beverages,1098.0,1220.0,10,4.2,597,In Stock,SmartBuy,2,67.1,Available
+FLP1267,Harper Collins Novel Ultra,Harper Collins,Books,Fiction,448.0,640.0,30,2.6,606,In Stock,MegaMart,7,52.3,Available
+FLP1268,Head Helmet Lite,Head,Sports,Cricket,2607.0,4740.0,45,2.9,222,Limited Stock,SmartBuy,7,47.3,Low Stock
+FLP1269,H&M Cap SE,H&M,Fashion,Accessories,3854.5,5930.0,35,3.2,173,In Stock,ValueStore,3,55.1,Available
+FLP1270,Xiaomi Slate 49,Xiaomi,Electronics,Tablets,7897.5,12150.0,35,5.0,828,In Stock,BrandHub,5,44.7,Available
+FLP1271,Oxford Novel,Oxford,Books,Fiction,116.0,290.0,60,2.7,830,In Stock,SmartBuy,3,78.1,Available
+FLP1272,Reebok Yoga Block,Reebok,Sports,Yoga,26060.0,26060.0,0,3.5,1008,In Stock,QuickMart,3,63.9,Available
+FLP1273,Samsung Ultra Max,Samsung,Electronics,Laptops,26767.0,41180.0,35,4.5,1222,In Stock,SmartBuy,3,70.9,Available
+FLP1274,Xiaomi Neo Lite,Xiaomi,Electronics,Smartphones,32455.5,59010.0,45,2.2,358,In Stock,BrandHub,3,81.9,Available
+FLP1275,Penguin Productivity 96,Penguin,Books,Self Help,576.0,640.0,10,4.6,348,In Stock,DailyDeals,2,37.3,Available
+FLP1276,Nike Shirt 92,Nike,Fashion,Men's Clothing,6543.0,7270.0,10,3.3,800,In Stock,SmartBuy,2,43.3,Available
+FLP1277,W Sneakers 75,W,Fashion,Footwear,2600.0,4000.0,35,3.6,524,In Stock,MegaMart,3,88.0,Available
+FLP1278,Dove Toothbrush SE,Dove,Beauty,Personal Care,1482.0,1560.0,5,3.3,605,In Stock,SmartBuy,2,67.1,Available
+FLP1279,L'Oreal Hair Oil Plus,L'Oreal,Beauty,Haircare,2235.5,2630.0,15,4.9,794,Out of Stock,RetailWorld,3,43.7,Sold Out
+FLP1280,Dove Foundation SE,Dove,Beauty,Makeup,3178.0,4540.0,30,3.8,1103,Out of Stock,BestDeals,3,68.5,Sold Out
+FLP1281,S. Chand Guide SE,S. Chand,Books,Educational,729.0,810.0,10,4.7,206,In Stock,EliteSeller,1,30.6,Available
+FLP1282,Britannia Butter 84,Britannia,Groceries,Dairy,306.0,360.0,15,3.9,235,Out of Stock,BrandHub,2,47.9,Sold Out
+FLP1283,Motorola Edge 77,Motorola,Electronics,Smartphones,49032.5,89150.0,45,5.0,49,In Stock,RetailWorld,7,83.2,Available
+FLP1284,Mattel Car 33,Mattel,Toys,Action Figures,5955.0,7940.0,25,3.1,431,Limited Stock,PrimeSeller,3,79.0,Low Stock
+FLP1285,Biotique Conditioner,Biotique,Beauty,Haircare,3210.0,3210.0,0,3.4,18,Out of Stock,ShopKart,3,69.1,Sold Out
+FLP1286,Cello Bed Sheet,Cello,Home & Kitchen,Bedding,22496.5,34610.0,35,3.8,313,In Stock,RetailWorld,3,68.7,Available
+FLP1287,Oxford Biography 15,Oxford,Books,Non-Fiction,802.5,1070.0,25,3.8,391,In Stock,TopBrands,2,73.6,Available
+FLP1288,Bloomsbury Graphic Novel,Bloomsbury,Books,Comics,285.0,570.0,50,4.5,168,Limited Stock,BestDeals,3,64.5,Low Stock
+FLP1289,Xiaomi Gaming Lite,Xiaomi,Electronics,Laptops,61292.0,111440.0,45,3.5,446,Out of Stock,ShopKart,5,64.7,Sold Out
+FLP1290,Apple Plus,Apple,Electronics,Smartphones,99770.0,99770.0,0,4.2,15,In Stock,BestDeals,2,68.0,Available
+FLP1291,Arihant Novel SE,Arihant,Books,Fiction,655.5,690.0,5,3.6,19,In Stock,TechZone,2,51.5,Available
+FLP1292,W Kurta,W,Fashion,Men's Clothing,2737.0,3220.0,15,4.1,864,Limited Stock,MegaMart,3,27.8,Low Stock
+FLP1293,Bosch Chair Pro,Bosch,Home & Kitchen,Furniture,26780.0,26780.0,0,4.2,223,In Stock,TechZone,3,65.7,Available
+FLP1294,Arihant Thriller 15,Arihant,Books,Fiction,650.0,1000.0,35,4.5,67,In Stock,EliteSeller,1,63.8,Available
+FLP1295,Harper Collins Workbook Max,Harper Collins,Books,Educational,69.0,230.0,70,4.0,369,In Stock,FlashSale,3,63.2,Available
+FLP1296,Chhota Bheem Monopoly,Chhota Bheem,Toys,Board Games,5904.0,6560.0,10,4.4,734,In Stock,TechZone,5,78.3,Available
+FLP1297,Samsung Sport Band 33,Samsung,Electronics,Smartwatches,132597.0,147330.0,10,5.0,121,In Stock,EliteSeller,3,91.7,Available
+FLP1298,Puma Shirt SE,Puma,Fashion,Men's Clothing,4810.0,7400.0,35,4.4,487,In Stock,MegaMart,2,78.4,Available
+FLP1299,Speedo Lock,Speedo,Sports,Cycling,3475.0,6950.0,50,4.5,44,In Stock,TopBrands,3,47.7,Available
+FLP1300,Puma Cap,Puma,Fashion,Accessories,7578.0,12630.0,40,4.7,26,In Stock,TechZone,7,47.7,Available
+FLP1301,SS Resistance Band 20,SS,Sports,Fitness,8104.0,10130.0,20,4.4,378,In Stock,EliteSeller,3,69.4,Available
+FLP1302,Neutrogena Face Wash,Neutrogena,Beauty,Skincare,2175.5,2290.0,5,5.0,388,In Stock,BrandHub,3,61.0,Available
+FLP1303,Motorola Earbuds 38,Motorola,Electronics,Headphones,58464.0,97440.0,40,3.0,507,In Stock,MegaMart,2,53.9,Available
+FLP1304,Wilson Gloves 55,Wilson,Sports,Cycling,16185.0,21580.0,25,3.8,647,Out of Stock,MegaMart,2,55.4,Sold Out
+FLP1305,Prestige Toaster,Prestige,Home & Kitchen,Kitchen Appliances,46670.0,71800.0,35,4.6,1861,Out of Stock,SmartBuy,2,89.5,Sold Out
+FLP1306,Barbie Dinosaur 25,Barbie,Toys,Action Figures,5635.5,6630.0,15,3.8,363,In Stock,DailyDeals,7,55.7,Available
+FLP1307,L'Oreal Razor Plus,L'Oreal,Beauty,Personal Care,4820.0,4820.0,0,3.7,195,Limited Stock,ShopKart,5,63.8,Low Stock
+FLP1308,Apple Pro 45,Apple,Electronics,Laptops,33643.5,61170.0,45,3.4,792,Limited Stock,FlashSale,3,54.1,Low Stock
+FLP1309,Philips Table,Philips,Home & Kitchen,Furniture,13324.0,33310.0,60,4.5,157,Out of Stock,BestDeals,3,49.3,Sold Out
+FLP1310,Realme Watch Pro Lite,Realme,Electronics,Smartwatches,52280.0,104560.0,50,4.6,288,Limited Stock,TopBrands,2,88.3,Low Stock
+FLP1311,Mamaearth Perfume,Mamaearth,Beauty,Fragrances,1050.0,1500.0,30,4.2,40,In Stock,FlashSale,2,42.3,Available
+FLP1312,Penguin Economics SE,Penguin,Books,Non-Fiction,856.0,1070.0,20,4.1,12,In Stock,BrandHub,3,88.9,Available
+FLP1313,LG Sport Band Max,LG,Electronics,Smartwatches,36834.0,61390.0,40,4.2,1643,In Stock,PrimeSeller,5,30.0,Available
+FLP1314,Amul Cookies Ultra,Amul,Groceries,Snacks,952.0,1120.0,15,3.0,903,Limited Stock,ShopKart,5,41.1,Low Stock
+FLP1315,Xiaomi Smartwatch 58,Xiaomi,Electronics,Smartwatches,42894.0,47660.0,10,4.2,595,Limited Stock,FlashSale,5,64.2,Low Stock
+FLP1316,Philips Table Pro,Philips,Home & Kitchen,Furniture,37544.0,46930.0,20,4.7,262,Limited Stock,ShopKart,1,65.8,Low Stock
+FLP1317,Barbie Building Blocks Pro,Barbie,Toys,Educational Toys,3816.0,6360.0,40,3.1,95,In Stock,QuickMart,2,92.2,Available
+FLP1318,FabIndia Tote Max,FabIndia,Fashion,Bags,1402.5,1650.0,15,4.7,85,In Stock,BrandHub,2,45.3,Available
+FLP1319,Nivia Cricket Bat 97,Nivia,Sports,Cricket,13110.5,20170.0,35,4.0,144,Limited Stock,SmartBuy,2,93.6,Low Stock
+FLP1320,Head Helmet,Head,Sports,Cricket,3168.0,7920.0,60,3.6,398,Out of Stock,FlashSale,3,100.0,Sold Out
+FLP1321,Chhota Bheem Superhero Figure SE,Chhota Bheem,Toys,Action Figures,3999.5,4210.0,5,4.8,626,In Stock,EliteSeller,1,100.0,Available
+FLP1322,Vivo Smartwatch,Vivo,Electronics,Smartwatches,107244.5,126170.0,15,2.8,539,Limited Stock,TopBrands,5,57.7,Low Stock
+FLP1323,Harper Collins Mystery 62,Harper Collins,Books,Fiction,180.0,200.0,10,4.1,164,In Stock,DailyDeals,2,40.4,Available
+FLP1324,Nike Slippers,Nike,Fashion,Footwear,5728.5,6030.0,5,2.9,1549,In Stock,PrimeSeller,5,58.8,Available
+FLP1325,Dabur Chips Plus,Dabur,Groceries,Snacks,952.0,1190.0,20,3.5,669,Limited Stock,BestDeals,3,54.9,Low Stock
+FLP1326,LG Action Cam Ultra,LG,Electronics,Cameras,23885.0,47770.0,50,4.6,404,Limited Stock,QuickMart,5,88.7,Low Stock
+FLP1327,Motorola Neo Max,Motorola,Electronics,Smartphones,54906.0,91510.0,40,3.6,473,In Stock,BrandHub,5,62.5,Available
+FLP1328,Philips Wardrobe SE,Philips,Home & Kitchen,Furniture,14440.0,18050.0,20,4.1,272,Out of Stock,TechZone,7,76.9,Sold Out
+FLP1329,H&M Jeans Lite,H&M,Fashion,Men's Clothing,696.0,1740.0,60,2.4,142,In Stock,TechZone,5,41.1,Available
+FLP1330,MDH Butter,MDH,Groceries,Dairy,379.5,690.0,45,3.3,220,In Stock,PrimeSeller,3,39.1,Available
+FLP1331,Vivo Slim Max,Vivo,Electronics,Laptops,33840.0,45120.0,25,4.7,709,Limited Stock,TechZone,3,89.3,Low Stock
+FLP1332,Apple Earbuds Ultra,Apple,Electronics,Headphones,114354.0,127060.0,10,4.3,7,Out of Stock,RetailWorld,3,56.7,Sold Out
+FLP1333,Head Lock 93,Head,Sports,Cycling,19677.5,23150.0,15,4.6,61,In Stock,ValueStore,10,50.9,Available
+FLP1334,Realme TWS Plus,Realme,Electronics,Headphones,14646.0,24410.0,40,3.2,23,In Stock,QuickMart,5,63.7,Available
+FLP1335,Usha Sofa,Usha,Home & Kitchen,Furniture,37960.0,75920.0,50,4.2,20,Out of Stock,TechZone,7,56.9,Sold Out
+FLP1336,Nike Kurti 15,Nike,Fashion,Women's Clothing,6078.0,10130.0,40,4.5,967,In Stock,TechZone,3,54.6,Available
+FLP1337,Arihant Manga 76,Arihant,Books,Comics,1016.0,1270.0,20,3.1,608,In Stock,SmartBuy,3,52.7,Available
+FLP1338,Oppo Mirrorless,Oppo,Electronics,Cameras,92625.0,123500.0,25,3.1,321,In Stock,TechZone,3,66.9,Available
+FLP1339,Havells Vase Max,Havells,Home & Kitchen,Decor,11196.0,12440.0,10,3.2,51,In Stock,TopBrands,2,89.2,Available
+FLP1340,Philips Detergent,Philips,Home & Kitchen,Cleaning,36372.0,51960.0,30,4.1,338,In Stock,RetailWorld,2,65.8,Available
+FLP1341,LG Air 20,LG,Electronics,Laptops,79167.0,143940.0,45,4.9,320,Limited Stock,ShopKart,5,59.5,Low Stock
+FLP1342,Nestle Lentils Plus,Nestle,Groceries,Staples,245.0,350.0,30,2.9,95,Out of Stock,DailyDeals,2,43.9,Sold Out
+FLP1343,Van Heusen Cap,Van Heusen,Fashion,Accessories,7633.0,8980.0,15,3.6,284,In Stock,ShopKart,3,72.4,Available
+FLP1344,Motorola Compact Pro,Motorola,Electronics,Cameras,27591.0,91970.0,70,2.8,254,In Stock,DailyDeals,5,58.4,Available
+FLP1345,Milton Duvet Ultra,Milton,Home & Kitchen,Bedding,28020.0,70050.0,60,3.4,478,Out of Stock,SmartBuy,5,62.3,Sold Out
+FLP1346,Nivia Water Bottle,Nivia,Sports,Cycling,10352.0,12940.0,20,3.4,504,Limited Stock,RetailWorld,2,67.1,Low Stock
+FLP1347,Pan Macmillan Mystery 23,Pan Macmillan,Books,Fiction,498.0,830.0,40,4.9,23,In Stock,DailyDeals,2,66.3,Available
+FLP1348,Mamaearth Blush,Mamaearth,Beauty,Makeup,1627.5,2170.0,25,2.2,234,In Stock,PrimeSeller,2,24.9,Available
+FLP1349,Morphy Richards Bed Sheet Max,Morphy Richards,Home & Kitchen,Bedding,43499.5,79090.0,45,3.3,491,Out of Stock,QuickMart,7,90.9,Sold Out
+FLP1350,Vivo Earbuds 21,Vivo,Electronics,Headphones,35694.0,118980.0,70,2.9,349,Out of Stock,SmartBuy,2,55.3,Sold Out
+FLP1351,Maybelline Toner 93,Maybelline,Beauty,Skincare,1042.5,1390.0,25,4.1,970,In Stock,SuperStore,10,67.7,Available
+FLP1352,Nestle Biscuits Ultra,Nestle,Groceries,Snacks,630.5,970.0,35,5.0,537,Limited Stock,MegaMart,3,67.6,Low Stock
+FLP1353,Scholastic Strip Collection 55,Scholastic,Books,Comics,780.0,1040.0,25,3.9,88,In Stock,ValueStore,10,65.5,Available
+FLP1354,Lakme Trimmer 54,Lakme,Beauty,Personal Care,3524.5,3710.0,5,4.7,36,Out of Stock,BestDeals,3,52.7,Sold Out
+FLP1355,Neutrogena Hair Serum,Neutrogena,Beauty,Haircare,2563.0,4660.0,45,4.3,514,In Stock,EliteSeller,3,65.4,Available
+FLP1356,Inalsa Lamp Max,Inalsa,Home & Kitchen,Decor,35832.5,65150.0,45,3.9,13,In Stock,TopBrands,3,86.6,Available
+FLP1357,Barbie Scrabble Lite,Barbie,Toys,Board Games,1054.5,1110.0,5,3.0,440,In Stock,MegaMart,5,88.7,Available
+FLP1358,Xiaomi Air,Xiaomi,Electronics,Tablets,32662.0,46660.0,30,3.3,1408,In Stock,SmartBuy,7,32.1,Available
+FLP1359,Nivea Conditioner,Nivea,Beauty,Haircare,2159.0,2540.0,15,3.9,428,In Stock,EliteSeller,2,79.8,Available
+FLP1360,Sony Neo 73,Sony,Electronics,Smartphones,28200.0,94000.0,70,5.0,245,Out of Stock,TopBrands,3,25.6,Sold Out
+FLP1361,Realme TWS 14,Realme,Electronics,Headphones,18807.0,62690.0,70,3.7,515,Out of Stock,ValueStore,3,61.9,Sold Out
+FLP1362,Barbie Army Set 84,Barbie,Toys,Action Figures,3128.0,7820.0,60,3.3,306,In Stock,PrimeSeller,5,63.0,Available
+FLP1363,L'Oreal Eyeliner Max,L'Oreal,Beauty,Makeup,2371.5,2790.0,15,3.7,394,In Stock,EliteSeller,2,100.0,Available
+FLP1364,H&M Wallet 40,H&M,Fashion,Accessories,3811.5,6930.0,45,4.5,1419,In Stock,BrandHub,1,84.2,Available
+FLP1365,Puma Lehenga 78,Puma,Fashion,Women's Clothing,7250.0,7250.0,0,4.3,243,Limited Stock,EliteSeller,5,86.1,Low Stock
+FLP1366,Inalsa Cushion 90,Inalsa,Home & Kitchen,Decor,68750.0,68750.0,0,3.0,1624,In Stock,SuperStore,5,83.3,Available
+FLP1367,Zara Slippers Ultra,Zara,Fashion,Footwear,2562.0,8540.0,70,3.9,1178,In Stock,DailyDeals,7,69.0,Available
+FLP1368,Dove Hair Serum Max,Dove,Beauty,Haircare,920.0,1840.0,50,2.7,108,In Stock,QuickMart,1,62.7,Available
+FLP1369,Hot Wheels Science Kit 50,Hot Wheels,Toys,Educational Toys,2816.0,5120.0,45,2.6,35,In Stock,SuperStore,2,89.6,Available
+FLP1370,H&M Sunglasses,H&M,Fashion,Accessories,4005.0,13350.0,70,4.3,53,In Stock,QuickMart,10,50.6,Available
+FLP1371,Harper Collins Motivation,Harper Collins,Books,Self Help,273.0,390.0,30,4.1,9,Limited Stock,TechZone,3,69.4,Low Stock
+FLP1372,Adidas Saree,Adidas,Fashion,Women's Clothing,6951.0,9930.0,30,3.7,49,In Stock,RetailWorld,3,79.0,Available
+FLP1373,Neutrogena Blush Ultra,Neutrogena,Beauty,Makeup,1434.0,2390.0,40,4.7,574,In Stock,TopBrands,7,55.0,Available
+FLP1374,Himalaya Body Wash 66,Himalaya,Beauty,Personal Care,1330.0,2660.0,50,2.4,36,In Stock,ValueStore,2,55.8,Available
+FLP1375,Nike Loafers,Nike,Fashion,Footwear,90.0,300.0,70,4.3,192,In Stock,EliteSeller,1,50.0,Available
+FLP1376,Usha Lamp SE,Usha,Home & Kitchen,Decor,18880.0,18880.0,0,3.5,931,Limited Stock,DailyDeals,3,61.1,Low Stock
+FLP1377,Levi's Scarf 97,Levi's,Fashion,Accessories,2919.0,4170.0,30,3.3,11,Out of Stock,DailyDeals,3,47.9,Sold Out
+FLP1378,Rupa Leadership 99,Rupa,Books,Self Help,342.0,360.0,5,4.1,842,In Stock,BestDeals,3,80.1,Available
+FLP1379,Nike Blouse,Nike,Fashion,Women's Clothing,14550.0,14550.0,0,4.0,165,In Stock,QuickMart,5,73.5,Available
+FLP1380,Oppo Slim,Oppo,Electronics,Laptops,19782.0,65940.0,70,4.7,62,In Stock,FlashSale,5,1.0,Available
+FLP1381,Reebok Cricket Ball,Reebok,Sports,Cricket,12121.0,14260.0,15,4.3,596,In Stock,SuperStore,1,55.8,Available
+FLP1382,MDH Tea Plus,MDH,Groceries,Beverages,1054.5,1110.0,5,1.9,495,In Stock,SuperStore,5,57.5,Available
+FLP1383,LG Over-ear Plus,LG,Electronics,Headphones,14761.5,22710.0,35,3.6,1049,Limited Stock,ValueStore,7,54.8,Low Stock
+FLP1384,H&M Top,H&M,Fashion,Women's Clothing,6223.0,8890.0,30,3.9,664,In Stock,PrimeSeller,5,62.4,Available
+FLP1385,SG Football,SG,Sports,Football,7575.0,15150.0,50,2.7,813,Limited Stock,SuperStore,3,33.6,Low Stock
+FLP1386,Philips Microwave Pro,Philips,Home & Kitchen,Kitchen Appliances,29460.0,39280.0,25,5.0,165,Out of Stock,ValueStore,5,60.9,Sold Out
+FLP1387,H&M Lehenga 33,H&M,Fashion,Women's Clothing,8781.5,13510.0,35,3.7,97,In Stock,PrimeSeller,3,40.4,Available
+FLP1388,Pan Macmillan Finance,Pan Macmillan,Books,Self Help,828.0,1380.0,40,4.4,694,In Stock,EliteSeller,5,85.8,Available
+FLP1389,L'Oreal EDT Plus,L'Oreal,Beauty,Fragrances,2436.5,4430.0,45,4.7,822,In Stock,DailyDeals,5,37.9,Available
+FLP1390,Philips Mop,Philips,Home & Kitchen,Cleaning,36930.0,49240.0,25,3.4,2328,In Stock,BestDeals,5,74.5,Available
+FLP1391,Apple Air,Apple,Electronics,Laptops,4805.0,9610.0,50,4.4,266,In Stock,ShopKart,5,39.9,Available
+FLP1392,Oxford Romance,Oxford,Books,Fiction,969.0,1020.0,5,2.9,232,In Stock,BrandHub,5,70.7,Available
+FLP1393,Lakme Soap,Lakme,Beauty,Personal Care,2960.0,3700.0,20,4.3,748,In Stock,BestDeals,2,71.6,Available
+FLP1394,Usha Wardrobe 55,Usha,Home & Kitchen,Furniture,45189.0,50210.0,10,3.1,208,Out of Stock,SuperStore,5,55.8,Sold Out
+FLP1395,L'Oreal Serum Lite,L'Oreal,Beauty,Skincare,2388.0,3980.0,40,3.4,1335,In Stock,PrimeSeller,10,75.5,Available
+FLP1396,Hot Wheels Water Gun 56,Hot Wheels,Toys,Outdoor Toys,4980.0,6640.0,25,3.2,977,In Stock,ValueStore,5,48.8,Available
+FLP1397,Realme Lite Pro,Realme,Electronics,Smartphones,54834.0,91390.0,40,4.9,280,In Stock,BrandHub,10,96.6,Available
+FLP1398,Allen Solly Trolley,Allen Solly,Fashion,Bags,4664.0,8480.0,45,4.0,694,In Stock,FlashSale,2,69.6,Available
+FLP1399,Speedo Helmet Ultra,Speedo,Sports,Cricket,10344.5,12170.0,15,3.8,702,Out of Stock,FlashSale,2,33.1,Sold Out
+FLP1400,Vivo Earbuds SE,Vivo,Electronics,Headphones,16380.0,16380.0,0,4.5,54,Limited Stock,BrandHub,3,56.5,Low Stock
+FLP1401,Himalaya Moisturizer Pro,Himalaya,Beauty,Skincare,216.0,360.0,40,4.7,1164,In Stock,SuperStore,3,71.4,Available
+FLP1402,Kissan Rice Ultra,Kissan,Groceries,Staples,836.0,880.0,5,4.0,351,In Stock,RetailWorld,2,81.3,Available
+FLP1403,Bajaj Cushion SE,Bajaj,Home & Kitchen,Decor,22526.0,32180.0,30,4.0,875,In Stock,BestDeals,3,54.5,Available
+FLP1404,Havells Dustbin 64,Havells,Home & Kitchen,Cleaning,15808.0,19760.0,20,4.0,192,Limited Stock,BestDeals,1,47.6,Low Stock
+FLP1405,Nike Handbag,Nike,Fashion,Bags,10449.0,11610.0,10,4.9,1129,Limited Stock,BestDeals,3,62.9,Low Stock
+FLP1406,Harper Collins Science Lite,Harper Collins,Books,Non-Fiction,260.0,260.0,0,3.9,246,In Stock,EliteSeller,5,92.8,Available
+FLP1407,Sony Compact Ultra,Sony,Electronics,Cameras,7055.0,8300.0,15,3.9,5,In Stock,QuickMart,5,51.2,Available
+FLP1408,Rupa Sci-Fi 44,Rupa,Books,Fiction,460.0,920.0,50,3.4,1178,In Stock,DailyDeals,2,62.4,Available
+FLP1409,Patanjali Popcorn Max,Patanjali,Groceries,Snacks,500.0,1000.0,50,4.5,47,Limited Stock,SuperStore,1,41.5,Low Stock
+FLP1410,Sony Tab Plus,Sony,Electronics,Tablets,78408.0,130680.0,40,4.3,192,Limited Stock,FlashSale,3,72.0,Low Stock
+FLP1411,Puma Cap Pro,Puma,Fashion,Accessories,285.0,570.0,50,3.3,1498,In Stock,FlashSale,10,87.5,Available
+FLP1412,Nerf Monopoly SE,Nerf,Toys,Board Games,6460.0,7600.0,15,4.8,1503,In Stock,BrandHub,1,99.8,Available
+FLP1413,Himalaya Conditioner,Himalaya,Beauty,Haircare,1152.0,1280.0,10,3.4,425,In Stock,ShopKart,3,72.7,Available
+FLP1414,Philips Bed,Philips,Home & Kitchen,Furniture,10028.0,25070.0,60,5.0,499,In Stock,PrimeSeller,7,38.9,Available
+FLP1415,Apple ANC Headphones Max,Apple,Electronics,Headphones,28530.0,31700.0,10,3.7,297,Limited Stock,SmartBuy,3,31.3,Low Stock
+FLP1416,SG Jump Rope,SG,Sports,Fitness,22268.0,23440.0,5,4.0,173,Limited Stock,ShopKart,3,68.4,Low Stock
+FLP1417,Samsung Watch Pro 33,Samsung,Electronics,Smartwatches,22836.0,57090.0,60,4.0,199,Out of Stock,TopBrands,3,54.5,Sold Out
+FLP1418,Xiaomi Pro,Xiaomi,Electronics,Laptops,2901.0,9670.0,70,5.0,558,Limited Stock,SmartBuy,2,56.1,Low Stock
+FLP1419,Kissan Lentils 58,Kissan,Groceries,Staples,562.5,750.0,25,4.9,697,In Stock,ValueStore,5,33.9,Available
+FLP1420,WOW Body Wash Ultra,WOW,Beauty,Personal Care,1365.0,2730.0,50,4.8,784,In Stock,ValueStore,3,40.3,Available
+FLP1421,Tata Cookies,Tata,Groceries,Snacks,180.0,600.0,70,3.7,779,In Stock,ValueStore,3,60.3,Available
+FLP1422,Allen Solly Jacket,Allen Solly,Fashion,Men's Clothing,8827.0,13580.0,35,4.3,47,Out of Stock,ValueStore,2,45.8,Sold Out
+FLP1423,Nike Wallet SE,Nike,Fashion,Accessories,1611.5,2930.0,45,5.0,341,Limited Stock,EliteSeller,1,39.3,Low Stock
+FLP1424,Apple Fitness Band 58,Apple,Electronics,Smartwatches,7288.0,18220.0,60,3.3,29,In Stock,RetailWorld,3,70.9,Available
+FLP1425,Speedo Treadmill 49,Speedo,Sports,Fitness,23562.0,26180.0,10,4.1,398,Out of Stock,FlashSale,1,74.5,Sold Out
+FLP1426,L'Oreal Toner 10,L'Oreal,Beauty,Skincare,4810.0,4810.0,0,3.5,291,In Stock,BestDeals,7,54.4,Available
+FLP1427,Sony Fitness Band,Sony,Electronics,Smartwatches,46013.5,70790.0,35,4.7,1093,In Stock,RetailWorld,3,78.0,Available
+FLP1428,L'Oreal Face Wash,L'Oreal,Beauty,Skincare,2140.0,4280.0,50,3.1,216,In Stock,DailyDeals,1,52.2,Available
+FLP1429,Van Heusen Trolley 51,Van Heusen,Fashion,Bags,10683.0,11870.0,10,5.0,62,In Stock,BrandHub,1,58.0,Available
+FLP1430,LG Compact,LG,Electronics,Cameras,9366.5,14410.0,35,4.6,77,In Stock,ShopKart,3,88.0,Available
+FLP1431,LG ANC Headphones 87,LG,Electronics,Headphones,96291.0,148140.0,35,3.7,716,Out of Stock,MegaMart,5,38.1,Sold Out
+FLP1432,Biotique Soap Plus,Biotique,Beauty,Personal Care,2552.0,4640.0,45,3.1,481,In Stock,FlashSale,3,55.7,Available
+FLP1433,Britannia Popcorn 62,Britannia,Groceries,Snacks,30.0,60.0,50,4.2,53,In Stock,PrimeSeller,3,33.7,Available
+FLP1434,Prestige Table Pro,Prestige,Home & Kitchen,Furniture,20572.0,51430.0,60,3.7,43,In Stock,PrimeSeller,3,99.6,Available
+FLP1435,Van Heusen Sling Bag,Van Heusen,Fashion,Bags,12969.0,14410.0,10,4.4,603,Limited Stock,TopBrands,3,100.0,Low Stock
+FLP1436,LG Action Cam SE,LG,Electronics,Cameras,87691.5,134910.0,35,4.1,37,Out of Stock,PrimeSeller,5,44.8,Sold Out
+FLP1437,Havells Air Fryer 13,Havells,Home & Kitchen,Kitchen Appliances,34800.0,46400.0,25,4.3,862,In Stock,DailyDeals,10,25.2,Available
+FLP1438,Usha Table 14,Usha,Home & Kitchen,Furniture,43785.0,48650.0,10,2.7,612,Out of Stock,TechZone,5,42.5,Sold Out
+FLP1439,Milton Bed Max,Milton,Home & Kitchen,Furniture,29144.0,36430.0,20,4.0,42,In Stock,RetailWorld,5,81.6,Available
+FLP1440,SG Cycle,SG,Sports,Cycling,3867.5,5950.0,35,3.8,44,Out of Stock,BestDeals,2,40.8,Sold Out
+FLP1441,Rupa Textbook,Rupa,Books,Educational,660.0,1100.0,40,4.4,2157,In Stock,TechZone,5,76.5,Available
+FLP1442,Prestige Candle Max,Prestige,Home & Kitchen,Decor,37136.0,46420.0,20,3.6,234,In Stock,TechZone,2,54.5,Available
+FLP1443,H&M Dress 28,H&M,Fashion,Women's Clothing,1089.0,1980.0,45,3.6,231,In Stock,ShopKart,3,61.6,Available
+FLP1444,Realme Pro Max,Realme,Electronics,Smartphones,70440.0,93920.0,25,3.7,837,In Stock,TechZone,7,63.4,Available
+FLP1445,Van Heusen Saree,Van Heusen,Fashion,Women's Clothing,6700.0,13400.0,50,4.5,1471,In Stock,SmartBuy,2,38.4,Available
+FLP1446,Speedo Yoga Wheel,Speedo,Sports,Yoga,1263.0,4210.0,70,4.6,2134,In Stock,QuickMart,5,54.1,Available
+FLP1447,Funskool Soft Toy,Funskool,Toys,Dolls,5124.0,7320.0,30,4.5,699,In Stock,TechZone,7,100.0,Available
+FLP1448,Bosch Cushion Lite,Bosch,Home & Kitchen,Decor,33453.0,37170.0,10,3.8,236,In Stock,DailyDeals,3,83.1,Available
+FLP1449,LG Air,LG,Electronics,Tablets,39512.0,71840.0,45,3.1,43,In Stock,BrandHub,10,79.4,Available
+FLP1450,Rupa Reference Pro,Rupa,Books,Educational,667.5,890.0,25,3.4,750,In Stock,ShopKart,1,60.9,Available
+FLP1451,Bajaj Detergent 58,Bajaj,Home & Kitchen,Cleaning,59265.0,65850.0,10,3.6,408,In Stock,DailyDeals,5,84.1,Available
+FLP1452,Nivea Moisturizer 67,Nivea,Beauty,Skincare,2255.0,4100.0,45,4.7,276,In Stock,ValueStore,2,48.8,Available
+FLP1453,Nivea Attar Pro,Nivea,Beauty,Fragrances,832.5,1110.0,25,3.5,1184,In Stock,RetailWorld,7,98.8,Available
+FLP1454,Himalaya Trimmer 55,Himalaya,Beauty,Personal Care,3400.0,4250.0,20,5.0,58,Limited Stock,BrandHub,1,81.4,Low Stock
+FLP1455,Motorola Mirrorless,Motorola,Electronics,Cameras,46627.5,62170.0,25,3.7,339,In Stock,MegaMart,2,45.2,Available
+FLP1456,FabIndia Loafers,FabIndia,Fashion,Footwear,1285.0,2570.0,50,4.0,5,In Stock,TechZone,2,67.2,Available
+FLP1457,Sony Compact 67,Sony,Electronics,Cameras,53828.0,134570.0,60,3.3,316,In Stock,BestDeals,3,52.1,Available
+FLP1458,Samsung Neckband Pro,Samsung,Electronics,Headphones,35520.0,88800.0,60,4.0,28,In Stock,TopBrands,3,88.5,Available
+FLP1459,Pan Macmillan Mystery,Pan Macmillan,Books,Fiction,308.0,770.0,60,4.9,63,In Stock,MegaMart,7,80.6,Available
+FLP1460,Fisher-Price Uno,Fisher-Price,Toys,Board Games,1552.0,3880.0,60,3.4,62,In Stock,SmartBuy,3,39.5,Available
+FLP1461,W Shirt,W,Fashion,Men's Clothing,4530.5,6970.0,35,3.3,523,In Stock,SuperStore,10,57.0,Available
+FLP1462,Kissan Paneer 13,Kissan,Groceries,Dairy,205.0,410.0,50,3.5,685,In Stock,TechZone,10,67.0,Available
+FLP1463,Realme 5G,Realme,Electronics,Smartphones,22852.5,41550.0,45,3.6,437,In Stock,DailyDeals,2,100.0,Available
+FLP1464,Morphy Richards Sofa,Morphy Richards,Home & Kitchen,Furniture,53303.5,62710.0,15,2.7,1637,Limited Stock,BrandHub,2,68.4,Low Stock
+FLP1465,Cello Bed Sheet,Cello,Home & Kitchen,Bedding,12623.0,19420.0,35,3.8,234,In Stock,RetailWorld,5,53.0,Available
+FLP1466,Sony 360 Cam,Sony,Electronics,Cameras,19480.0,48700.0,60,5.0,168,In Stock,MegaMart,5,50.6,Available
+FLP1467,Funskool Chess 78,Funskool,Toys,Board Games,4829.5,7430.0,35,3.5,1014,In Stock,BrandHub,10,76.8,Available
+FLP1468,Milton Frame SE,Milton,Home & Kitchen,Decor,6597.0,21990.0,70,4.7,126,In Stock,ShopKart,5,81.9,Available
+FLP1469,Yonex Lock,Yonex,Sports,Cycling,18387.0,20430.0,10,3.9,1651,In Stock,DailyDeals,1,67.7,Available
+FLP1470,Morphy Richards Bed,Morphy Richards,Home & Kitchen,Furniture,20530.0,20530.0,0,4.2,6,Limited Stock,SuperStore,5,66.3,Low Stock
+FLP1471,Kissan Chips 99,Kissan,Groceries,Snacks,110.0,220.0,50,4.0,1751,Out of Stock,FlashSale,2,36.2,Sold Out
+FLP1472,Bosch Air Fryer 30,Bosch,Home & Kitchen,Kitchen Appliances,59080.0,73850.0,20,4.0,22,In Stock,EliteSeller,5,34.5,Available
+FLP1473,Oppo Mirrorless,Oppo,Electronics,Cameras,119528.0,149410.0,20,4.4,1108,In Stock,DailyDeals,3,60.7,Available
+FLP1474,Inalsa Sofa Pro,Inalsa,Home & Kitchen,Furniture,52368.5,61610.0,15,3.6,375,In Stock,SuperStore,2,58.8,Available
+FLP1475,Nike Belt 99,Nike,Fashion,Accessories,12132.0,13480.0,10,3.9,2478,In Stock,ShopKart,3,64.3,Available
+FLP1476,Sony Smartwatch 59,Sony,Electronics,Smartwatches,52031.0,74330.0,30,4.6,38,Out of Stock,TechZone,3,36.1,Sold Out
+FLP1477,Milton Vase 20,Milton,Home & Kitchen,Decor,38297.0,54710.0,30,5.0,403,In Stock,DailyDeals,3,88.2,Available
+FLP1478,Samsung Neckband Pro,Samsung,Electronics,Headphones,72645.0,145290.0,50,4.3,1741,Limited Stock,TopBrands,3,93.8,Low Stock
+FLP1479,Penguin Science 73,Penguin,Books,Non-Fiction,148.0,370.0,60,4.4,370,In Stock,RetailWorld,5,64.7,Available
+FLP1480,Oppo S SE,Oppo,Electronics,Smartphones,119230.0,119230.0,0,3.5,496,In Stock,BestDeals,3,72.7,Available
+FLP1481,Nestle Biscuits Plus,Nestle,Groceries,Snacks,750.0,750.0,0,2.4,594,In Stock,RetailWorld,5,73.0,Available
+FLP1482,MDH Namkeen,MDH,Groceries,Snacks,511.5,930.0,45,5.0,303,In Stock,ValueStore,3,79.4,Available
+FLP1483,Zara Watch 85,Zara,Fashion,Accessories,1035.0,2070.0,50,3.6,493,Out of Stock,TechZone,5,60.0,Sold Out
+FLP1484,Vivo Notebook 90,Vivo,Electronics,Laptops,22027.5,29370.0,25,3.2,438,Limited Stock,EliteSeller,1,57.9,Low Stock
+FLP1485,Apple 360 Cam,Apple,Electronics,Cameras,5328.0,5920.0,10,4.9,1157,In Stock,QuickMart,2,51.0,Available
+FLP1486,Neutrogena Body Wash 90,Neutrogena,Beauty,Personal Care,1908.0,2120.0,10,3.8,23,In Stock,ValueStore,3,61.5,Available
+FLP1487,Xiaomi Pro SE,Xiaomi,Electronics,Laptops,13224.0,22040.0,40,4.9,164,Limited Stock,BestDeals,10,61.0,Low Stock
+FLP1488,Adidas Kurti 16,Adidas,Fashion,Women's Clothing,6005.0,12010.0,50,4.8,1501,In Stock,FlashSale,2,28.4,Available
+FLP1489,Oppo Pad Max,Oppo,Electronics,Tablets,28332.0,94440.0,70,3.6,1104,In Stock,TechZone,3,67.7,Available
+FLP1490,Sony Notebook,Sony,Electronics,Laptops,68205.0,90940.0,25,2.9,304,Limited Stock,BestDeals,2,81.1,Low Stock
+FLP1491,Rupa Economics 68,Rupa,Books,Non-Fiction,1282.5,1350.0,5,3.1,483,Limited Stock,PrimeSeller,2,69.2,Low Stock
+FLP1492,Xiaomi Fitness Band 24,Xiaomi,Electronics,Smartwatches,77312.0,96640.0,20,4.0,162,In Stock,ValueStore,1,75.0,Available
+FLP1493,Xiaomi Pro,Xiaomi,Electronics,Tablets,73441.5,133530.0,45,4.6,104,Limited Stock,ValueStore,7,94.7,Low Stock
+FLP1494,Fisher-Price Water Gun,Fisher-Price,Toys,Outdoor Toys,3126.5,4810.0,35,3.7,311,Out of Stock,SmartBuy,2,96.8,Sold Out
+FLP1495,Kissan Juice 64,Kissan,Groceries,Beverages,945.0,1350.0,30,4.1,217,In Stock,TopBrands,5,64.3,Available
+FLP1496,Wilson Cricket Ball,Wilson,Sports,Cricket,14259.5,15010.0,5,3.8,438,Out of Stock,DailyDeals,7,63.9,Sold Out
+FLP1497,MDH Popcorn Plus,MDH,Groceries,Snacks,909.0,1010.0,10,3.5,40,Out of Stock,ValueStore,1,27.2,Sold Out
+FLP1498,Sony Tab 47,Sony,Electronics,Tablets,107070.0,107070.0,0,4.1,1832,Limited Stock,SuperStore,2,59.1,Low Stock
+FLP1499,Kissan Organic Tea,Kissan,Groceries,Organic,360.0,1200.0,70,3.5,2141,In Stock,TechZone,7,39.5,Available
+FLP1500,Van Heusen Belt,Van Heusen,Fashion,Accessories,675.0,900.0,25,4.3,598,In Stock,MegaMart,5,87.8,Available
+FLP1501,Motorola Action Cam 74,Motorola,Electronics,Cameras,52524.0,131310.0,60,4.2,384,In Stock,FlashSale,3,97.0,Available
+FLP1502,Oppo Pro Max,Oppo,Electronics,Tablets,42360.0,70600.0,40,3.5,185,Out of Stock,PrimeSeller,5,63.3,Sold Out
+FLP1503,SS Cricket Bat 23,SS,Sports,Cricket,17413.5,26790.0,35,4.5,840,In Stock,TechZone,10,75.4,Available
+FLP1504,Scholastic Guide 70,Scholastic,Books,Educational,792.0,1320.0,40,4.0,577,In Stock,TopBrands,5,63.7,Available
+FLP1505,Arihant Romance Lite,Arihant,Books,Fiction,360.0,360.0,0,4.3,88,Limited Stock,DailyDeals,3,54.5,Low Stock
+FLP1506,Speedo Yoga Strap,Speedo,Sports,Yoga,12048.0,20080.0,40,4.3,1209,In Stock,TopBrands,2,46.8,Available
+FLP1507,Nike Boots Plus,Nike,Fashion,Footwear,1984.0,2480.0,20,3.5,864,Limited Stock,SuperStore,5,68.3,Low Stock
+FLP1508,Nestle Energy Drink,Nestle,Groceries,Beverages,380.0,380.0,0,4.8,1495,In Stock,DailyDeals,3,64.0,Available
+FLP1509,Puma Loafers 28,Puma,Fashion,Footwear,3468.0,5780.0,40,4.8,646,In Stock,QuickMart,1,61.2,Available
+FLP1510,LG Fitness Band 82,LG,Electronics,Smartwatches,109845.0,146460.0,25,3.5,475,Limited Stock,PrimeSeller,10,51.6,Low Stock
+FLP1511,Penguin Workbook,Penguin,Books,Educational,174.0,290.0,40,4.0,270,In Stock,ShopKart,2,68.0,Available
+FLP1512,Mamaearth Body Wash,Mamaearth,Beauty,Personal Care,357.0,1190.0,70,3.9,1349,In Stock,TopBrands,3,69.2,Available
+FLP1513,Allen Solly Trolley 11,Allen Solly,Fashion,Bags,7085.0,14170.0,50,3.6,1005,Limited Stock,PrimeSeller,3,73.7,Low Stock
+FLP1514,Allen Solly Belt 64,Allen Solly,Fashion,Accessories,636.0,1590.0,60,4.8,23,In Stock,QuickMart,3,43.7,Available
+FLP1515,Hasbro Fashion Doll,Hasbro,Toys,Dolls,1056.0,1320.0,20,2.5,13,Limited Stock,ValueStore,1,71.4,Low Stock
+FLP1516,Himalaya Eyeliner 47,Himalaya,Beauty,Makeup,624.0,960.0,35,3.6,236,In Stock,RetailWorld,2,32.5,Available
+FLP1517,Speedo Treadmill 91,Speedo,Sports,Fitness,5598.0,9330.0,40,3.9,831,Out of Stock,TechZone,2,50.8,Sold Out
+FLP1518,Himalaya Lipstick 86,Himalaya,Beauty,Makeup,392.0,980.0,60,3.8,2182,Out of Stock,ShopKart,3,61.2,Sold Out
+FLP1519,Morphy Richards Bed Sheet Plus,Morphy Richards,Home & Kitchen,Bedding,32779.5,50430.0,35,5.0,81,In Stock,RetailWorld,5,59.1,Available
+FLP1520,OnePlus Action Cam Ultra,OnePlus,Electronics,Cameras,56820.0,56820.0,0,3.8,450,Limited Stock,SmartBuy,3,85.6,Low Stock
+FLP1521,OnePlus Air SE,OnePlus,Electronics,Laptops,63734.0,115880.0,45,3.9,239,Limited Stock,SuperStore,5,39.9,Low Stock
+FLP1522,Van Heusen Trolley,Van Heusen,Fashion,Bags,4923.0,5470.0,10,4.7,1751,In Stock,QuickMart,3,67.0,Available
+FLP1523,Inalsa Chair,Inalsa,Home & Kitchen,Furniture,29562.0,49270.0,40,4.5,922,Out of Stock,BrandHub,5,39.0,Sold Out
+FLP1524,Sony Neo 32,Sony,Electronics,Smartphones,22196.0,55490.0,60,3.1,911,Limited Stock,RetailWorld,3,93.0,Low Stock
+FLP1525,Oxford Novel,Oxford,Books,Fiction,112.0,280.0,60,4.2,316,In Stock,TechZone,2,76.2,Available
+FLP1526,Vivo Action Cam 15,Vivo,Electronics,Cameras,10602.0,11160.0,5,4.9,267,In Stock,DailyDeals,3,71.0,Available
+FLP1527,Apple 5G 45,Apple,Electronics,Smartphones,117648.5,138410.0,15,3.5,159,In Stock,PrimeSeller,1,58.0,Available
+FLP1528,Motorola Over-ear Plus,Motorola,Electronics,Headphones,22033.0,40060.0,45,5.0,29,Out of Stock,RetailWorld,3,80.4,Sold Out
+FLP1529,ITC Chips 33,ITC,Groceries,Snacks,552.0,1380.0,60,2.8,1000,In Stock,ValueStore,5,69.9,Available
+FLP1530,Vivo Air,Vivo,Electronics,Laptops,16020.0,21360.0,25,4.1,838,In Stock,TechZone,5,71.8,Available
+FLP1531,FabIndia Kurta,FabIndia,Fashion,Men's Clothing,2458.5,4470.0,45,3.8,4086,Out of Stock,BrandHub,2,34.6,Sold Out
+FLP1532,Oppo DSLR 25,Oppo,Electronics,Cameras,15500.0,31000.0,50,3.6,2847,In Stock,ValueStore,5,65.5,Available
+FLP1533,Scholastic Romance Lite,Scholastic,Books,Fiction,161.5,190.0,15,3.4,405,Limited Stock,EliteSeller,2,87.8,Low Stock
+FLP1534,Himalaya Eyeliner 23,Himalaya,Beauty,Makeup,920.0,1840.0,50,3.3,732,In Stock,TopBrands,2,52.7,Available
+FLP1535,Prestige Wardrobe,Prestige,Home & Kitchen,Furniture,8420.0,8420.0,0,4.3,1448,In Stock,FlashSale,2,44.4,Available
+FLP1536,Maybelline Serum Lite,Maybelline,Beauty,Skincare,2004.0,3340.0,40,4.0,947,In Stock,PrimeSeller,5,29.7,Available
+FLP1537,Reebok Gloves 58,Reebok,Sports,Cycling,246.0,820.0,70,4.6,142,Limited Stock,RetailWorld,3,69.2,Low Stock
+FLP1538,Realme Earbuds 82,Realme,Electronics,Headphones,119952.0,133280.0,10,3.5,299,Out of Stock,DailyDeals,3,65.6,Sold Out
+FLP1539,Usha Dustbin 88,Usha,Home & Kitchen,Cleaning,22710.0,37850.0,40,4.4,69,In Stock,EliteSeller,3,46.2,Available
+FLP1540,Amul Butter 58,Amul,Groceries,Dairy,70.0,70.0,0,4.4,1540,Out of Stock,PrimeSeller,3,78.8,Sold Out
+FLP1541,Haldiram's Rice 49,Haldiram's,Groceries,Staples,93.5,110.0,15,3.9,465,In Stock,QuickMart,7,93.9,Available
+FLP1542,Samsung Pro 12,Samsung,Electronics,Tablets,50281.0,71830.0,30,2.5,129,In Stock,ShopKart,5,47.1,Available
+FLP1543,Adidas Trolley 31,Adidas,Fashion,Bags,11571.0,12180.0,5,3.7,556,In Stock,PrimeSeller,5,52.3,Available
+FLP1544,MDH Tea,MDH,Groceries,Beverages,288.0,960.0,70,5.0,481,In Stock,ShopKart,2,82.8,Available
+FLP1545,Pan Macmillan Mystery 19,Pan Macmillan,Books,Fiction,172.5,230.0,25,3.8,221,In Stock,MegaMart,3,90.6,Available
+FLP1546,Reebok Yoga Block SE,Reebok,Sports,Yoga,6727.0,9610.0,30,3.1,60,In Stock,MegaMart,5,81.1,Available
+FLP1547,Barbie Puppet SE,Barbie,Toys,Dolls,744.0,1860.0,60,4.4,556,In Stock,RetailWorld,5,59.0,Available
+FLP1548,Bosch Wall Art 91,Bosch,Home & Kitchen,Decor,11025.0,12250.0,10,3.9,367,Out of Stock,FlashSale,3,30.9,Sold Out
+FLP1549,Cosco Jersey Max,Cosco,Sports,Football,17595.0,20700.0,15,3.6,739,In Stock,ValueStore,2,70.5,Available
+FLP1550,Levi's Shorts 15,Levi's,Fashion,Men's Clothing,2376.0,2640.0,10,5.0,367,In Stock,EliteSeller,3,71.4,Available
+FLP1551,Oppo Ultra,Oppo,Electronics,Smartphones,87618.5,92230.0,5,4.5,955,In Stock,BestDeals,5,53.0,Available
+FLP1552,LG Sport Band Plus,LG,Electronics,Smartwatches,84168.0,140280.0,40,3.4,401,Out of Stock,TechZone,3,42.4,Sold Out
+FLP1553,Yonex Resistance Band,Yonex,Sports,Fitness,10008.0,25020.0,60,3.0,411,In Stock,FlashSale,3,86.2,Available
+FLP1554,Usha Frame,Usha,Home & Kitchen,Decor,2970.0,4950.0,40,2.7,1046,In Stock,PrimeSeller,3,99.5,Available
+FLP1555,Morphy Richards Frame Lite,Morphy Richards,Home & Kitchen,Decor,1199.0,2180.0,45,5.0,258,Out of Stock,ValueStore,1,72.1,Sold Out
+FLP1556,Adidas Boots,Adidas,Fashion,Footwear,6936.0,8160.0,15,4.3,71,Limited Stock,FlashSale,3,49.5,Low Stock
+FLP1557,Sony Ultra 70,Sony,Electronics,Laptops,28965.0,96550.0,70,4.0,14,In Stock,SmartBuy,7,44.7,Available
+FLP1558,Hasbro Badminton Set Max,Hasbro,Toys,Outdoor Toys,2652.0,6630.0,60,3.9,703,In Stock,RetailWorld,5,72.4,Available
+FLP1559,Wilson Football Plus,Wilson,Sports,Football,21411.0,23790.0,10,4.4,484,In Stock,SuperStore,3,65.3,Available
+FLP1560,Kissan Energy Drink 97,Kissan,Groceries,Beverages,312.0,1040.0,70,4.6,608,Limited Stock,EliteSeller,2,56.9,Low Stock
+FLP1561,FabIndia T-Shirt SE,FabIndia,Fashion,Men's Clothing,3990.0,5700.0,30,5.0,119,Limited Stock,DailyDeals,2,31.3,Low Stock
+FLP1562,Sony 5G,Sony,Electronics,Smartphones,13500.0,33750.0,60,4.0,73,In Stock,ShopKart,3,59.9,Available
+FLP1563,LG Watch Pro 46,LG,Electronics,Smartwatches,44265.0,68100.0,35,4.3,7,In Stock,ValueStore,2,44.3,Available
+FLP1564,Motorola Laptop,Motorola,Electronics,Laptops,29008.0,36260.0,20,3.8,215,In Stock,ShopKart,5,52.2,Available
+FLP1565,Milton Bookshelf,Milton,Home & Kitchen,Furniture,23420.0,46840.0,50,3.8,445,In Stock,SuperStore,2,65.7,Available
+FLP1566,Van Heusen Wallet SE,Van Heusen,Fashion,Accessories,3866.5,4070.0,5,3.7,248,Limited Stock,SuperStore,3,62.7,Low Stock
+FLP1567,Penguin Sci-Fi,Penguin,Books,Fiction,247.5,450.0,45,2.5,287,In Stock,FlashSale,2,100.0,Available
+FLP1568,Oppo Action Cam 15,Oppo,Electronics,Cameras,119070.0,132300.0,10,4.8,1172,In Stock,BrandHub,2,81.8,Available
+FLP1569,Haldiram's Paneer,Haldiram's,Groceries,Dairy,1112.0,1390.0,20,4.3,214,Out of Stock,PrimeSeller,7,56.0,Sold Out
+FLP1570,Scholastic Guide 14,Scholastic,Books,Educational,440.0,880.0,50,3.4,360,In Stock,QuickMart,1,48.7,Available
+FLP1571,Harper Collins Practice Papers,Harper Collins,Books,Educational,968.5,1490.0,35,4.5,765,Out of Stock,TechZone,3,69.8,Sold Out
+FLP1572,H&M Saree Pro,H&M,Fashion,Women's Clothing,2655.0,2950.0,10,3.9,252,In Stock,EliteSeller,5,27.8,Available
+FLP1573,Maybelline Perfume Lite,Maybelline,Beauty,Fragrances,851.5,1310.0,35,3.3,486,In Stock,SmartBuy,5,27.5,Available
+FLP1574,Nestle Paneer 94,Nestle,Groceries,Dairy,45.5,70.0,35,4.4,991,In Stock,RetailWorld,10,39.3,Available
+FLP1575,Biotique Body Mist Pro,Biotique,Beauty,Fragrances,1896.0,4740.0,60,4.9,1493,In Stock,TechZone,7,45.3,Available
+FLP1576,Cello Vacuum Cleaner 30,Cello,Home & Kitchen,Cleaning,6288.0,7860.0,20,4.7,79,Limited Stock,FlashSale,1,100.0,Low Stock
+FLP1577,Maybelline Conditioner,Maybelline,Beauty,Haircare,468.0,1560.0,70,2.7,1305,In Stock,BrandHub,5,79.9,Available
+FLP1578,W Dress 88,W,Fashion,Women's Clothing,4795.0,6850.0,30,3.0,338,In Stock,DailyDeals,5,68.8,Available
+FLP1579,Allen Solly Jacket SE,Allen Solly,Fashion,Men's Clothing,3458.0,5320.0,35,3.4,149,Out of Stock,TechZone,7,39.1,Sold Out
+FLP1580,Adidas Belt 76,Adidas,Fashion,Accessories,8866.0,13640.0,35,3.3,307,In Stock,ShopKart,2,100.0,Available
+FLP1581,Samsung Plus Lite,Samsung,Electronics,Smartphones,47670.0,79450.0,40,3.6,1956,In Stock,TechZone,3,69.0,Available
+FLP1582,Nivia Pads Ultra,Nivia,Sports,Cricket,14488.5,22290.0,35,4.1,339,In Stock,TopBrands,1,76.5,Available
+FLP1583,Speedo Bolster,Speedo,Sports,Yoga,18217.5,24290.0,25,5.0,199,In Stock,ValueStore,2,56.6,Available
+FLP1584,Cello Juicer 87,Cello,Home & Kitchen,Kitchen Appliances,8802.0,9780.0,10,3.5,501,In Stock,FlashSale,5,46.6,Available
+FLP1585,Biotique Soap Pro,Biotique,Beauty,Personal Care,1392.0,3480.0,60,3.3,137,In Stock,BestDeals,2,32.8,Available
+FLP1586,Barbie Superhero Figure,Barbie,Toys,Action Figures,2630.0,5260.0,50,4.0,39,Limited Stock,TopBrands,3,100.0,Low Stock
+FLP1587,Puma Jacket 41,Puma,Fashion,Men's Clothing,5428.0,13570.0,60,3.4,68,In Stock,ShopKart,7,15.7,Available
+FLP1588,Decathlon Bolster SE,Decathlon,Sports,Yoga,9699.5,10210.0,5,3.1,68,Limited Stock,FlashSale,5,41.9,Low Stock
+FLP1589,Sony DSLR 77,Sony,Electronics,Cameras,31776.0,79440.0,60,3.1,82,Out of Stock,ShopKart,3,45.6,Sold Out
+FLP1590,H&M Kurta,H&M,Fashion,Men's Clothing,9401.0,13430.0,30,4.2,74,In Stock,QuickMart,3,58.6,Available
+FLP1591,W Blouse,W,Fashion,Women's Clothing,4547.5,5350.0,15,3.0,512,In Stock,SmartBuy,7,63.7,Available
+FLP1592,FabIndia Belt 89,FabIndia,Fashion,Accessories,6275.0,12550.0,50,3.5,100,In Stock,SuperStore,10,49.5,Available
+FLP1593,Scholastic Workbook Plus,Scholastic,Books,Educational,306.0,340.0,10,3.6,212,In Stock,RetailWorld,10,59.3,Available
+FLP1594,Dabur Butter Pro,Dabur,Groceries,Dairy,495.0,550.0,10,4.5,1135,In Stock,BestDeals,5,100.0,Available
+FLP1595,Sony Book Ultra,Sony,Electronics,Laptops,31785.0,42380.0,25,4.2,321,Out of Stock,DailyDeals,3,31.6,Sold Out
+FLP1596,Sony Ultra Pro,Sony,Electronics,Smartphones,36255.0,120850.0,70,4.2,550,In Stock,TechZone,5,71.1,Available
+FLP1597,Xiaomi Ultra 29,Xiaomi,Electronics,Smartphones,123381.0,137090.0,10,3.8,94,Out of Stock,PrimeSeller,3,33.9,Sold Out
+FLP1598,SS Pads,SS,Sports,Cricket,9338.0,13340.0,30,3.9,106,Out of Stock,FlashSale,3,62.7,Sold Out
+FLP1599,Zara Sunglasses 62,Zara,Fashion,Accessories,8117.5,9550.0,15,4.6,20,In Stock,BrandHub,2,92.3,Available
+FLP1600,Prestige Vase 61,Prestige,Home & Kitchen,Decor,10707.0,35690.0,70,5.0,92,Limited Stock,RetailWorld,1,67.3,Low Stock
+FLP1601,Puma Shirt Max,Puma,Fashion,Men's Clothing,13570.0,13570.0,0,5.0,163,Out of Stock,SuperStore,7,57.2,Sold Out
+FLP1602,Milton Cushion,Milton,Home & Kitchen,Decor,72780.0,72780.0,0,4.6,97,In Stock,SmartBuy,2,27.0,Available
+FLP1603,Bosch Mop 78,Bosch,Home & Kitchen,Cleaning,16785.0,55950.0,70,4.0,46,In Stock,SuperStore,2,45.0,Available
+FLP1604,Bloomsbury History Pro,Bloomsbury,Books,Non-Fiction,1192.0,1490.0,20,4.1,64,In Stock,ShopKart,2,88.3,Available
+FLP1605,FabIndia Sneakers,FabIndia,Fashion,Footwear,14069.5,14810.0,5,3.7,308,In Stock,TopBrands,3,26.9,Available
+FLP1606,W Shorts Ultra,W,Fashion,Men's Clothing,4488.0,5280.0,15,4.6,115,In Stock,BestDeals,7,8.5,Available
+FLP1607,Van Heusen Sandals,Van Heusen,Fashion,Footwear,4072.0,10180.0,60,3.1,226,In Stock,QuickMart,3,87.7,Available
+FLP1608,Harper Collins Reference Ultra,Harper Collins,Books,Educational,161.0,230.0,30,4.5,350,In Stock,MegaMart,3,50.3,Available
+FLP1609,Speedo Pull-up Bar Plus,Speedo,Sports,Fitness,10577.0,15110.0,30,5.0,586,Limited Stock,QuickMart,5,64.3,Low Stock
+FLP1610,Philips Pillow,Philips,Home & Kitchen,Bedding,46476.0,77460.0,40,4.1,20,In Stock,ShopKart,3,57.4,Available
+FLP1611,Hasbro Scrabble,Hasbro,Toys,Board Games,2464.0,3080.0,20,4.3,803,In Stock,EliteSeller,10,67.9,Available
+FLP1612,Vivo Earbuds,Vivo,Electronics,Headphones,9640.0,12050.0,20,4.3,494,Out of Stock,BrandHub,3,56.1,Sold Out
+FLP1613,Motorola Compact Plus,Motorola,Electronics,Cameras,32441.5,49910.0,35,4.9,42,In Stock,DailyDeals,5,44.6,Available
+FLP1614,Bosch Pillow Lite,Bosch,Home & Kitchen,Bedding,4936.0,12340.0,60,3.3,1034,In Stock,RetailWorld,3,96.9,Available
+FLP1615,Dabur Lentils Pro,Dabur,Groceries,Staples,882.0,980.0,10,3.7,1268,Out of Stock,MegaMart,5,39.9,Sold Out
+FLP1616,LG Earbuds SE,LG,Electronics,Headphones,88640.0,88640.0,0,4.7,31,Out of Stock,QuickMart,3,58.6,Sold Out
+FLP1617,ITC Butter,ITC,Groceries,Dairy,156.0,390.0,60,4.4,162,In Stock,TopBrands,3,42.7,Available
+FLP1618,Chhota Bheem Chess 79,Chhota Bheem,Toys,Board Games,2527.0,3610.0,30,4.7,820,In Stock,QuickMart,1,68.7,Available
+FLP1619,OnePlus Pro Max,OnePlus,Electronics,Smartphones,34643.0,49490.0,30,3.8,689,Limited Stock,PrimeSeller,2,58.7,Low Stock
+FLP1620,Realme Pro,Realme,Electronics,Tablets,56477.5,59450.0,5,4.4,101,In Stock,FlashSale,2,69.7,Available
+FLP1621,LG Compact,LG,Electronics,Cameras,41619.5,64030.0,35,4.9,117,Limited Stock,BestDeals,1,70.1,Low Stock
+FLP1622,Cosco Jersey,Cosco,Sports,Football,11167.0,17180.0,35,4.8,231,In Stock,MegaMart,10,79.3,Available
+FLP1623,MDH Organic Honey Lite,MDH,Groceries,Organic,58.5,90.0,35,4.8,331,In Stock,FlashSale,2,58.3,Available
+FLP1624,Chhota Bheem Badminton Set,Chhota Bheem,Toys,Outdoor Toys,5754.5,6770.0,15,3.2,481,In Stock,ValueStore,5,52.8,Available
+FLP1625,Bloomsbury Science Lite,Bloomsbury,Books,Non-Fiction,1050.0,1500.0,30,4.1,230,Out of Stock,TopBrands,7,88.0,Sold Out
+FLP1626,Zara Slippers,Zara,Fashion,Footwear,1870.0,3400.0,45,3.2,310,In Stock,DailyDeals,7,100.0,Available
+FLP1627,Sony ANC Headphones 96,Sony,Electronics,Headphones,69336.0,115560.0,40,5.0,688,In Stock,BrandHub,3,85.0,Available
+FLP1628,Zara Handbag,Zara,Fashion,Bags,1794.0,5980.0,70,4.7,18,In Stock,SuperStore,3,11.9,Available
+FLP1629,Oppo Slate 14,Oppo,Electronics,Tablets,18023.5,32770.0,45,3.0,145,In Stock,SmartBuy,10,39.3,Available
+FLP1630,Oxford Graphic Novel SE,Oxford,Books,Comics,55.0,110.0,50,2.8,624,In Stock,DailyDeals,3,89.5,Available
+FLP1631,Scholastic Comic Book,Scholastic,Books,Comics,171.0,190.0,10,3.9,1127,Limited Stock,SuperStore,7,54.6,Low Stock
+FLP1632,Arihant Comic Book 65,Arihant,Books,Comics,682.5,1050.0,35,4.6,358,In Stock,TechZone,5,65.3,Available
+FLP1633,Westland Reference,Westland,Books,Educational,183.0,610.0,70,5.0,379,In Stock,ValueStore,7,73.6,Available
+FLP1634,Motorola Lite 31,Motorola,Electronics,Smartphones,48844.0,122110.0,60,4.1,56,Limited Stock,TechZone,7,95.2,Low Stock
+FLP1635,Lakme Moisturizer,Lakme,Beauty,Skincare,735.0,2450.0,70,5.0,296,Limited Stock,PrimeSeller,5,70.4,Low Stock
+FLP1636,Nerf Flash Cards,Nerf,Toys,Educational Toys,6070.5,6390.0,5,4.1,380,Out of Stock,SmartBuy,3,37.6,Sold Out
+FLP1637,Apple Tab,Apple,Electronics,Tablets,118480.0,118480.0,0,4.6,138,In Stock,MegaMart,3,54.5,Available
+FLP1638,Vivo 360 Cam 59,Vivo,Electronics,Cameras,5670.0,18900.0,70,2.7,156,Out of Stock,SmartBuy,3,86.2,Sold Out
+FLP1639,Biotique Face Wash Ultra,Biotique,Beauty,Skincare,1645.0,3290.0,50,4.1,236,In Stock,TechZone,2,43.5,Available
+FLP1640,WOW Conditioner,WOW,Beauty,Haircare,432.0,720.0,40,3.9,10,Out of Stock,QuickMart,3,85.9,Sold Out
+FLP1641,Allen Solly Sunglasses 49,Allen Solly,Fashion,Accessories,4323.0,14410.0,70,3.3,194,In Stock,FlashSale,2,85.6,Available
+FLP1642,Allen Solly T-Shirt,Allen Solly,Fashion,Men's Clothing,4460.0,8920.0,50,4.2,118,Out of Stock,BestDeals,3,76.6,Sold Out
+FLP1643,Maybelline Hair Serum Lite,Maybelline,Beauty,Haircare,885.0,1770.0,50,2.8,198,In Stock,FlashSale,5,69.7,Available
+FLP1644,Adidas Blouse Max,Adidas,Fashion,Women's Clothing,2094.0,6980.0,70,4.6,63,Limited Stock,BestDeals,3,52.5,Low Stock
+FLP1645,Oppo Smartwatch Pro,Oppo,Electronics,Smartwatches,85435.0,122050.0,30,4.0,1106,Limited Stock,TechZone,3,77.3,Low Stock
+FLP1646,Xiaomi Mirrorless,Xiaomi,Electronics,Cameras,28962.0,96540.0,70,2.7,450,In Stock,PrimeSeller,2,100.0,Available
+FLP1647,Mattel Army Set 93,Mattel,Toys,Action Figures,1557.0,1730.0,10,4.7,568,In Stock,SmartBuy,5,28.3,Available
+FLP1648,Xiaomi 360 Cam,Xiaomi,Electronics,Cameras,43950.0,58600.0,25,3.0,778,Limited Stock,SmartBuy,10,24.7,Low Stock
+FLP1649,ITC Juice,ITC,Groceries,Beverages,324.0,810.0,60,3.2,345,Limited Stock,BrandHub,2,84.2,Low Stock
+FLP1650,Milton Chair,Milton,Home & Kitchen,Furniture,10075.0,20150.0,50,4.3,45,Limited Stock,EliteSeller,10,26.0,Low Stock
+FLP1651,Bajaj Dustbin Lite,Bajaj,Home & Kitchen,Cleaning,9667.0,13810.0,30,3.9,385,In Stock,PrimeSeller,3,36.2,Available
+FLP1652,Bosch Pillow,Bosch,Home & Kitchen,Bedding,20988.0,38160.0,45,2.6,441,In Stock,ValueStore,1,91.3,Available
+FLP1653,Vivo Compact Plus,Vivo,Electronics,Cameras,65887.5,87850.0,25,3.9,684,Out of Stock,RetailWorld,2,73.4,Sold Out
+FLP1654,Milton Mop,Milton,Home & Kitchen,Cleaning,22347.0,34380.0,35,3.3,282,In Stock,FlashSale,2,72.9,Available
+FLP1655,Maybelline Lipstick 25,Maybelline,Beauty,Makeup,924.0,1540.0,40,2.9,68,Out of Stock,RetailWorld,7,62.7,Sold Out
+FLP1656,Havells Frame Plus,Havells,Home & Kitchen,Decor,43336.0,54170.0,20,3.5,166,In Stock,SuperStore,2,99.8,Available
+FLP1657,Prestige Candle 93,Prestige,Home & Kitchen,Decor,49376.0,61720.0,20,4.4,225,In Stock,DailyDeals,3,33.6,Available
+FLP1658,Cello Chair,Cello,Home & Kitchen,Furniture,7436.0,18590.0,60,3.9,519,In Stock,PrimeSeller,5,42.3,Available
+FLP1659,Hot Wheels Water Gun Max,Hot Wheels,Toys,Outdoor Toys,1189.5,1830.0,35,4.0,422,In Stock,BrandHub,7,61.1,Available
+FLP1660,FabIndia Kurti,FabIndia,Fashion,Women's Clothing,1968.0,6560.0,70,2.9,220,In Stock,QuickMart,2,84.8,Available
+FLP1661,Kissan Curd 18,Kissan,Groceries,Dairy,528.0,960.0,45,4.7,2153,In Stock,BestDeals,3,51.5,Available
+FLP1662,Usha Wall Art 98,Usha,Home & Kitchen,Decor,38485.0,76970.0,50,4.1,465,In Stock,RetailWorld,3,59.6,Available
+FLP1663,Vivo Pro Max 31,Vivo,Electronics,Smartphones,39227.5,46150.0,15,3.7,135,In Stock,ValueStore,3,88.6,Available
+FLP1664,OnePlus Lite Max,OnePlus,Electronics,Smartphones,53813.5,82790.0,35,3.9,53,Limited Stock,DailyDeals,2,45.2,Low Stock
+FLP1665,Usha Vacuum Cleaner 67,Usha,Home & Kitchen,Cleaning,41338.0,75160.0,45,4.2,82,In Stock,ShopKart,2,95.4,Available
+FLP1666,Yonex Lock SE,Yonex,Sports,Cycling,17771.0,27340.0,35,3.0,141,Out of Stock,EliteSeller,2,71.5,Sold Out
+FLP1667,Puma Handbag,Puma,Fashion,Bags,5760.0,6400.0,10,4.8,87,In Stock,ValueStore,7,45.9,Available
+FLP1668,Oxford Thriller Max,Oxford,Books,Fiction,1206.0,1340.0,10,3.8,103,In Stock,TechZone,7,92.8,Available
+FLP1669,Britannia Popcorn Pro,Britannia,Groceries,Snacks,231.0,770.0,70,3.5,167,In Stock,SuperStore,3,84.4,Available
+FLP1670,Rupa Guide SE,Rupa,Books,Educational,406.0,580.0,30,4.3,95,In Stock,TopBrands,2,49.2,Available
+FLP1671,Bajaj Induction Cooktop Pro,Bajaj,Home & Kitchen,Kitchen Appliances,37485.0,44100.0,15,3.7,1135,In Stock,TechZone,2,44.1,Available
+FLP1672,LG Neo Plus,LG,Electronics,Smartphones,101259.0,112510.0,10,5.0,41,In Stock,RetailWorld,2,80.9,Available
+FLP1673,Fisher-Price Barbie 59,Fisher-Price,Toys,Dolls,3650.0,3650.0,0,4.6,371,In Stock,TopBrands,5,33.7,Available
+FLP1674,Samsung Pro Max,Samsung,Electronics,Smartphones,35100.0,117000.0,70,4.1,264,Limited Stock,PrimeSeller,2,79.5,Low Stock
+FLP1675,SS Gloves 75,SS,Sports,Cricket,27331.5,28770.0,5,4.3,2019,In Stock,PrimeSeller,2,28.9,Available
+FLP1676,Usha Table 32,Usha,Home & Kitchen,Furniture,10182.0,16970.0,40,3.3,59,In Stock,DailyDeals,2,77.9,Available
+FLP1677,Levi's Belt Lite,Levi's,Fashion,Accessories,6688.0,7040.0,5,3.6,253,In Stock,TopBrands,1,51.5,Available
+FLP1678,Tata Popcorn,Tata,Groceries,Snacks,654.5,1190.0,45,4.7,1744,In Stock,PrimeSeller,10,100.0,Available
+FLP1679,Oppo Sport Band SE,Oppo,Electronics,Smartwatches,73405.0,146810.0,50,3.3,1003,In Stock,BestDeals,3,67.0,Available
+FLP1680,Havells Toaster,Havells,Home & Kitchen,Kitchen Appliances,657.0,2190.0,70,4.4,849,Out of Stock,PrimeSeller,5,54.6,Sold Out
+FLP1681,Philips Bookshelf 52,Philips,Home & Kitchen,Furniture,15185.0,30370.0,50,5.0,149,In Stock,PrimeSeller,7,75.7,Available
+FLP1682,Mamaearth Sunscreen,Mamaearth,Beauty,Skincare,2786.0,3980.0,30,3.6,93,In Stock,MegaMart,5,51.8,Available
+FLP1683,Xiaomi Sport Band,Xiaomi,Electronics,Smartwatches,48484.0,121210.0,60,3.7,552,In Stock,BrandHub,2,38.1,Available
+FLP1684,Prestige Bed,Prestige,Home & Kitchen,Furniture,45837.0,50930.0,10,4.2,1325,In Stock,ValueStore,3,61.1,Available
+FLP1685,Scholastic Productivity,Scholastic,Books,Self Help,943.5,1110.0,15,3.1,406,In Stock,PrimeSeller,3,77.5,Available
+FLP1686,W Top 12,W,Fashion,Women's Clothing,4074.0,6790.0,40,3.3,423,In Stock,BrandHub,10,51.5,Available
+FLP1687,Motorola Air 81,Motorola,Electronics,Tablets,49734.0,82890.0,40,3.8,164,In Stock,TechZone,3,49.7,Available
+FLP1688,Levi's Sunglasses Max,Levi's,Fashion,Accessories,2184.5,2570.0,15,5.0,733,Out of Stock,PrimeSeller,3,66.0,Sold Out
+FLP1689,Van Heusen Loafers 42,Van Heusen,Fashion,Footwear,1350.0,1350.0,0,4.3,103,Limited Stock,MegaMart,2,64.5,Low Stock
+FLP1690,Penguin Motivation SE,Penguin,Books,Self Help,707.0,1010.0,30,3.9,195,In Stock,QuickMart,5,50.2,Available
+FLP1691,Puma Watch 92,Puma,Fashion,Accessories,2222.0,4040.0,45,3.0,277,In Stock,ValueStore,2,51.1,Available
+FLP1692,Bloomsbury Sci-Fi Max,Bloomsbury,Books,Fiction,959.0,1370.0,30,4.3,354,In Stock,FlashSale,3,83.2,Available
+FLP1693,Harper Collins Romance,Harper Collins,Books,Fiction,297.0,990.0,70,4.3,138,In Stock,QuickMart,2,29.9,Available
+FLP1694,Nivia Cricket Ball Plus,Nivia,Sports,Cricket,948.0,2370.0,60,3.3,60,In Stock,QuickMart,3,75.3,Available
+FLP1695,LG Pro 43,LG,Electronics,Laptops,92644.5,142530.0,35,3.5,471,In Stock,DailyDeals,5,59.3,Available
+FLP1696,Nestle Popcorn,Nestle,Groceries,Snacks,142.5,150.0,5,3.5,170,In Stock,RetailWorld,3,76.2,Available
+FLP1697,Motorola Plus 72,Motorola,Electronics,Smartphones,119440.0,119440.0,0,4.6,435,In Stock,ShopKart,3,78.9,Available
+FLP1698,Zara Boots,Zara,Fashion,Footwear,12741.5,14990.0,15,4.9,83,In Stock,TopBrands,1,54.3,Available
+FLP1699,Mattel Water Gun Ultra,Mattel,Toys,Outdoor Toys,380.0,400.0,5,4.3,328,In Stock,DailyDeals,5,53.1,Available
+FLP1700,Hot Wheels Soft Toy 15,Hot Wheels,Toys,Dolls,5350.0,5350.0,0,5.0,380,Out of Stock,DailyDeals,1,60.6,Sold Out
+FLP1701,Bosch Dustbin,Bosch,Home & Kitchen,Cleaning,17770.5,32310.0,45,4.1,26,Limited Stock,SuperStore,7,47.2,Low Stock
+FLP1702,Levi's Sling Bag Lite,Levi's,Fashion,Bags,6462.0,10770.0,40,4.8,205,Out of Stock,MegaMart,1,40.4,Sold Out
+FLP1703,Nestle Rice Max,Nestle,Groceries,Staples,1282.5,1350.0,5,3.0,72,In Stock,RetailWorld,2,67.8,Available
+FLP1704,Vivo Pad SE,Vivo,Electronics,Tablets,98693.5,116110.0,15,3.7,32,Limited Stock,TopBrands,5,35.9,Low Stock
+FLP1705,Oppo Sport Band SE,Oppo,Electronics,Smartwatches,72286.5,131430.0,45,4.0,2300,In Stock,BrandHub,3,38.0,Available
+FLP1706,Havells Bookshelf 24,Havells,Home & Kitchen,Furniture,16880.0,21100.0,20,4.2,194,Out of Stock,QuickMart,7,69.5,Sold Out
+FLP1707,Playmobil Water Gun,Playmobil,Toys,Outdoor Toys,4760.0,5950.0,20,4.7,830,Out of Stock,MegaMart,10,74.4,Sold Out
+FLP1708,Nivea Soap 73,Nivea,Beauty,Personal Care,620.0,620.0,0,3.1,146,In Stock,QuickMart,7,59.7,Available
+FLP1709,Lakme Hair Serum,Lakme,Beauty,Haircare,2424.0,3030.0,20,2.8,572,In Stock,TopBrands,5,64.5,Available
+FLP1710,Nike Belt,Nike,Fashion,Accessories,11040.0,14720.0,25,4.5,714,Out of Stock,SmartBuy,7,91.0,Sold Out
+FLP1711,Barbie Dinosaur 60,Barbie,Toys,Action Figures,4696.0,5870.0,20,4.9,452,Out of Stock,DailyDeals,10,62.1,Sold Out
+FLP1712,Cello Candle,Cello,Home & Kitchen,Decor,18954.0,31590.0,40,3.8,318,Limited Stock,PrimeSeller,5,48.9,Low Stock
+FLP1713,Decathlon Lock,Decathlon,Sports,Cycling,10216.0,25540.0,60,3.6,265,In Stock,BestDeals,3,92.5,Available
+FLP1714,Decathlon Boots,Decathlon,Sports,Football,6083.0,11060.0,45,4.9,214,Limited Stock,TechZone,3,86.0,Low Stock
+FLP1715,Puma Scarf,Puma,Fashion,Accessories,13480.5,14190.0,5,4.9,1326,In Stock,TechZone,10,61.4,Available
+FLP1716,Realme DSLR 69,Realme,Electronics,Cameras,94284.0,104760.0,10,3.5,887,In Stock,FlashSale,5,49.1,Available
+FLP1717,Biotique Perfume Ultra,Biotique,Beauty,Fragrances,152.0,160.0,5,4.6,1676,In Stock,TopBrands,3,76.5,Available
+FLP1718,Van Heusen Shirt SE,Van Heusen,Fashion,Men's Clothing,1924.0,2960.0,35,5.0,66,In Stock,QuickMart,2,65.0,Available
+FLP1719,FabIndia Jacket,FabIndia,Fashion,Men's Clothing,5082.0,8470.0,40,4.1,656,In Stock,DailyDeals,5,41.0,Available
+FLP1720,Playmobil Robot,Playmobil,Toys,Action Figures,5620.0,5620.0,0,2.7,1393,In Stock,MegaMart,2,52.9,Available
+FLP1721,Adidas Shorts 10,Adidas,Fashion,Men's Clothing,8820.0,14700.0,40,3.4,99,In Stock,RetailWorld,10,100.0,Available
+FLP1722,Dabur Organic Oil Ultra,Dabur,Groceries,Organic,650.0,1000.0,35,4.4,34,In Stock,BestDeals,7,82.9,Available
+FLP1723,Oxford Thriller 85,Oxford,Books,Fiction,135.0,150.0,10,3.5,675,Limited Stock,QuickMart,3,100.0,Low Stock
+FLP1724,Harper Collins Workbook Max,Harper Collins,Books,Educational,696.0,870.0,20,2.8,427,In Stock,QuickMart,1,94.3,Available
+FLP1725,Morphy Richards Toaster 87,Morphy Richards,Home & Kitchen,Kitchen Appliances,31852.0,79630.0,60,3.2,922,In Stock,BrandHub,3,39.9,Available
+FLP1726,Vivo 360 Cam Lite,Vivo,Electronics,Cameras,4818.0,8760.0,45,3.9,75,In Stock,TechZone,5,80.9,Available
+FLP1727,H&M Loafers,H&M,Fashion,Footwear,735.0,2450.0,70,3.9,793,In Stock,MegaMart,10,67.8,Available
+FLP1728,Pan Macmillan Leadership,Pan Macmillan,Books,Self Help,812.5,1250.0,35,4.4,112,In Stock,QuickMart,2,75.5,Available
+FLP1729,Puma Sunglasses,Puma,Fashion,Accessories,2148.0,5370.0,60,3.4,89,In Stock,FlashSale,7,33.3,Available
+FLP1730,OnePlus Neckband SE,OnePlus,Electronics,Headphones,90315.0,100350.0,10,3.1,89,In Stock,ValueStore,5,87.5,Available
+FLP1731,Westland History,Westland,Books,Non-Fiction,444.0,1480.0,70,3.3,842,Limited Stock,FlashSale,3,68.2,Low Stock
+FLP1732,Adidas Heels 46,Adidas,Fashion,Footwear,9148.5,9630.0,5,3.7,547,In Stock,EliteSeller,1,17.2,Available
+FLP1733,Nerf Frisbee Pro,Nerf,Toys,Outdoor Toys,6723.0,7470.0,10,3.1,370,Limited Stock,BestDeals,7,68.1,Low Stock
+FLP1734,Patanjali Namkeen,Patanjali,Groceries,Snacks,424.0,1060.0,60,2.6,222,In Stock,ShopKart,7,100.0,Available
+FLP1735,Inalsa Chair,Inalsa,Home & Kitchen,Furniture,65115.0,72350.0,10,5.0,1048,In Stock,PrimeSeller,10,82.4,Available
+FLP1736,ITC Milk 90,ITC,Groceries,Dairy,375.0,1250.0,70,4.3,249,In Stock,BestDeals,2,52.1,Available
+FLP1737,Amul Organic Oil,Amul,Groceries,Organic,770.0,1400.0,45,4.0,848,In Stock,PrimeSeller,3,59.4,Available
+FLP1738,Hot Wheels Army Set,Hot Wheels,Toys,Action Figures,2812.0,2960.0,5,3.5,289,In Stock,QuickMart,7,70.6,Available
+FLP1739,SS Dumbbells 66,SS,Sports,Fitness,10710.0,14280.0,25,3.7,236,In Stock,QuickMart,5,85.1,Available
+FLP1740,Vivo Watch Pro Plus,Vivo,Electronics,Smartwatches,2336.0,5840.0,60,4.0,310,In Stock,BestDeals,3,77.3,Available
+FLP1741,Britannia Curd SE,Britannia,Groceries,Dairy,390.0,650.0,40,2.8,179,In Stock,BrandHub,5,65.8,Available
+FLP1742,Nivia Shin Guards 16,Nivia,Sports,Football,8622.0,28740.0,70,4.3,688,In Stock,ValueStore,5,66.5,Available
+FLP1743,Patanjali Namkeen 33,Patanjali,Groceries,Snacks,592.0,740.0,20,2.7,349,In Stock,EliteSeller,2,68.0,Available
+FLP1744,Xiaomi Pro,Xiaomi,Electronics,Tablets,71134.0,101620.0,30,4.2,132,Out of Stock,BrandHub,5,94.7,Sold Out
+FLP1745,Nivea Hair Serum,Nivea,Beauty,Haircare,483.0,690.0,30,5.0,1149,Limited Stock,ValueStore,3,79.6,Low Stock
+FLP1746,Levi's Boots 56,Levi's,Fashion,Footwear,2492.0,3560.0,30,3.1,242,In Stock,SuperStore,2,68.1,Available
+FLP1747,Nike Slippers,Nike,Fashion,Footwear,2970.0,2970.0,0,5.0,392,In Stock,FlashSale,3,75.6,Available
+FLP1748,Haldiram's Butter SE,Haldiram's,Groceries,Dairy,456.0,480.0,5,3.4,1184,Out of Stock,MegaMart,2,38.5,Sold Out
+FLP1749,Dove Shampoo,Dove,Beauty,Haircare,791.0,1130.0,30,4.2,489,In Stock,BestDeals,3,69.9,Available
+FLP1750,Harper Collins Thriller,Harper Collins,Books,Fiction,781.0,1420.0,45,3.3,62,Limited Stock,ValueStore,2,91.8,Low Stock
+FLP1751,Inalsa Cushion,Inalsa,Home & Kitchen,Decor,58515.0,78020.0,25,2.8,1405,Limited Stock,QuickMart,1,75.1,Low Stock
+FLP1752,Dove Hair Mask Ultra,Dove,Beauty,Haircare,176.0,320.0,45,5.0,494,In Stock,TechZone,5,85.0,Available
+FLP1753,Vivo Over-ear,Vivo,Electronics,Headphones,60592.0,86560.0,30,3.4,203,In Stock,SmartBuy,2,74.3,Available
+FLP1754,MDH Organic Tea,MDH,Groceries,Organic,308.0,770.0,60,3.3,74,In Stock,RetailWorld,5,62.3,Available
+FLP1755,Prestige Lamp,Prestige,Home & Kitchen,Decor,41080.0,51350.0,20,4.4,790,Out of Stock,RetailWorld,3,58.0,Sold Out
+FLP1756,Biotique Toothbrush Pro,Biotique,Beauty,Personal Care,676.0,1690.0,60,4.3,483,In Stock,BrandHub,7,54.6,Available
+FLP1757,Xiaomi Pro SE,Xiaomi,Electronics,Tablets,88736.0,110920.0,20,4.7,381,In Stock,SuperStore,10,100.0,Available
+FLP1758,Van Heusen Loafers,Van Heusen,Fashion,Footwear,5460.0,8400.0,35,4.0,1121,In Stock,SuperStore,5,80.6,Available
+FLP1759,Scholastic Finance,Scholastic,Books,Self Help,1292.0,1360.0,5,3.1,776,Out of Stock,DailyDeals,2,65.6,Sold Out
+FLP1760,Puma Loafers,Puma,Fashion,Footwear,9317.0,13310.0,30,3.7,82,In Stock,SuperStore,3,53.1,Available
+FLP1761,Usha Mixer Grinder,Usha,Home & Kitchen,Kitchen Appliances,5901.0,8430.0,30,5.0,186,Out of Stock,FlashSale,3,69.9,Sold Out
+FLP1762,Motorola Smartwatch 35,Motorola,Electronics,Smartwatches,6960.0,6960.0,0,4.2,142,Out of Stock,EliteSeller,2,62.5,Sold Out
+FLP1763,Philips Bed Sheet,Philips,Home & Kitchen,Bedding,16211.0,24940.0,35,4.0,681,In Stock,MegaMart,3,70.6,Available
+FLP1764,FabIndia Handbag Max,FabIndia,Fashion,Bags,2023.0,2380.0,15,4.6,17,In Stock,SmartBuy,5,68.2,Available
+FLP1765,Westland Mystery,Westland,Books,Fiction,323.0,340.0,5,4.2,421,In Stock,SmartBuy,1,100.0,Available
+FLP1766,OnePlus Air 89,OnePlus,Electronics,Laptops,50362.5,67150.0,25,3.0,718,In Stock,SmartBuy,5,47.3,Available
+FLP1767,Oppo Mirrorless 93,Oppo,Electronics,Cameras,42081.0,140270.0,70,4.9,1046,Out of Stock,QuickMart,7,45.2,Sold Out
+FLP1768,Adidas Belt 59,Adidas,Fashion,Accessories,1372.0,1960.0,30,4.4,209,In Stock,TopBrands,10,60.9,Available
+FLP1769,Van Heusen Cap Ultra,Van Heusen,Fashion,Accessories,8970.0,11960.0,25,5.0,860,Limited Stock,TopBrands,3,100.0,Low Stock
+FLP1770,Cello Bookshelf 21,Cello,Home & Kitchen,Furniture,2860.0,7150.0,60,3.1,58,In Stock,RetailWorld,5,77.4,Available
+FLP1771,Oppo 5G,Oppo,Electronics,Smartphones,77364.0,85960.0,10,4.1,936,In Stock,BrandHub,5,61.7,Available
+FLP1772,Fisher-Price Bat Ball Set 13,Fisher-Price,Toys,Outdoor Toys,1564.0,1840.0,15,4.3,68,Limited Stock,PrimeSeller,5,68.7,Low Stock
+FLP1773,Motorola Ultra 11,Motorola,Electronics,Smartphones,8635.0,15700.0,45,4.0,253,In Stock,QuickMart,1,61.4,Available
+FLP1774,SG Yoga Mat,SG,Sports,Yoga,9008.0,22520.0,60,4.6,798,Out of Stock,RetailWorld,3,57.9,Sold Out
+FLP1775,Playmobil Monopoly 80,Playmobil,Toys,Board Games,3636.0,6060.0,40,4.3,81,In Stock,SmartBuy,7,82.0,Available
+FLP1776,Nivea Concealer Max,Nivea,Beauty,Makeup,1962.0,2180.0,10,3.9,130,In Stock,RetailWorld,10,73.7,Available
+FLP1777,LG Gaming 31,LG,Electronics,Laptops,88103.0,92740.0,5,4.2,640,In Stock,DailyDeals,3,44.5,Available
+FLP1778,Adidas Slippers,Adidas,Fashion,Footwear,1372.5,1830.0,25,2.8,636,In Stock,ShopKart,2,41.6,Available
+FLP1779,Xiaomi Tab,Xiaomi,Electronics,Tablets,42500.0,85000.0,50,4.4,512,In Stock,RetailWorld,3,58.6,Available
+FLP1780,Nike Heels Plus,Nike,Fashion,Footwear,4413.0,14710.0,70,3.8,592,In Stock,DailyDeals,5,84.7,Available
+FLP1781,LG DSLR,LG,Electronics,Cameras,5895.0,19650.0,70,3.9,391,Out of Stock,DailyDeals,3,60.7,Sold Out
+FLP1782,Havells Toaster SE,Havells,Home & Kitchen,Kitchen Appliances,21243.0,70810.0,70,3.7,145,Out of Stock,DailyDeals,10,55.0,Sold Out
+FLP1783,Bosch Frame,Bosch,Home & Kitchen,Decor,47205.0,62940.0,25,3.7,212,Limited Stock,BestDeals,1,92.0,Low Stock
+FLP1784,Britannia Organic Oil 80,Britannia,Groceries,Organic,792.0,1440.0,45,3.3,100,Out of Stock,TechZone,2,48.1,Sold Out
+FLP1785,Morphy Richards Chair 43,Morphy Richards,Home & Kitchen,Furniture,10672.0,13340.0,20,3.3,1195,In Stock,EliteSeller,5,56.4,Available
+FLP1786,Hasbro Robot Lite,Hasbro,Toys,Action Figures,5057.0,7780.0,35,5.0,437,In Stock,BrandHub,7,74.7,Available
+FLP1787,Biotique Blush Pro,Biotique,Beauty,Makeup,357.0,510.0,30,3.4,256,Limited Stock,EliteSeller,5,64.4,Low Stock
+FLP1788,Samsung ANC Headphones,Samsung,Electronics,Headphones,26039.5,27410.0,5,3.8,309,In Stock,PrimeSeller,1,76.4,Available
+FLP1789,Bosch Vacuum Cleaner,Bosch,Home & Kitchen,Cleaning,8253.0,9170.0,10,3.7,1471,Limited Stock,PrimeSeller,5,20.6,Low Stock
+FLP1790,W Sling Bag,W,Fashion,Bags,1368.0,3420.0,60,3.3,83,In Stock,PrimeSeller,2,67.4,Available
+FLP1791,Cello Mop 97,Cello,Home & Kitchen,Cleaning,1638.0,5460.0,70,3.4,441,In Stock,FlashSale,1,81.2,Available
+FLP1792,L'Oreal Moisturizer,L'Oreal,Beauty,Skincare,308.0,440.0,30,5.0,352,In Stock,BrandHub,3,85.0,Available
+FLP1793,Oppo Mirrorless 99,Oppo,Electronics,Cameras,115752.0,144690.0,20,4.2,472,In Stock,SmartBuy,3,80.9,Available
+FLP1794,Penguin Workbook 11,Penguin,Books,Educational,484.0,880.0,45,4.3,9,In Stock,SmartBuy,2,95.4,Available
+FLP1795,Apple Pad Max,Apple,Electronics,Tablets,59920.0,119840.0,50,3.2,1028,In Stock,ShopKart,3,78.5,Available
+FLP1796,Xiaomi Pro,Xiaomi,Electronics,Laptops,39558.0,65930.0,40,4.0,1344,In Stock,PrimeSeller,2,38.2,Available
+FLP1797,Cosco Gloves 62,Cosco,Sports,Cricket,16158.0,26930.0,40,4.1,416,In Stock,BrandHub,10,55.6,Available
+FLP1798,Milton Dustbin Lite,Milton,Home & Kitchen,Cleaning,8559.0,9510.0,10,3.2,596,In Stock,SuperStore,2,69.9,Available
+FLP1799,Pan Macmillan Finance 62,Pan Macmillan,Books,Self Help,1339.5,1410.0,5,5.0,1278,In Stock,SuperStore,3,63.9,Available
+FLP1800,Nivia Helmet 68,Nivia,Sports,Cycling,11472.0,19120.0,40,3.7,614,In Stock,TechZone,3,62.5,Available
+FLP1801,Apple 360 Cam,Apple,Electronics,Cameras,16752.0,55840.0,70,4.5,82,Out of Stock,MegaMart,5,54.4,Sold Out
+FLP1802,H&M Sneakers,H&M,Fashion,Footwear,3789.0,12630.0,70,4.8,429,In Stock,EliteSeller,7,48.9,Available
+FLP1803,Van Heusen Handbag 88,Van Heusen,Fashion,Bags,4473.0,4970.0,10,5.0,466,In Stock,BrandHub,10,49.0,Available
+FLP1804,Vivo Over-ear,Vivo,Electronics,Headphones,11845.0,23690.0,50,3.0,275,In Stock,SuperStore,2,85.5,Available
+FLP1805,Nivia Helmet,Nivia,Sports,Cycling,5715.0,19050.0,70,3.0,666,Limited Stock,TechZone,5,86.3,Low Stock
+FLP1806,Motorola 5G SE,Motorola,Electronics,Smartphones,14954.5,27190.0,45,3.5,1361,In Stock,EliteSeller,3,21.6,Available
+FLP1807,Levi's Dress 94,Levi's,Fashion,Women's Clothing,2796.0,4660.0,40,4.5,1298,Out of Stock,TechZone,3,37.9,Sold Out
+FLP1808,Kissan Biscuits 21,Kissan,Groceries,Snacks,1235.0,1300.0,5,3.0,299,In Stock,BrandHub,2,71.8,Available
+FLP1809,FabIndia Blouse 63,FabIndia,Fashion,Women's Clothing,534.0,1780.0,70,4.2,60,Limited Stock,DailyDeals,1,66.1,Low Stock
+FLP1810,Nestle Tea Max,Nestle,Groceries,Beverages,423.0,470.0,10,3.4,2094,Limited Stock,ShopKart,2,41.2,Low Stock
+FLP1811,Inalsa Bed,Inalsa,Home & Kitchen,Furniture,56487.0,59460.0,5,4.0,912,In Stock,SmartBuy,3,69.6,Available
+FLP1812,OnePlus Tab SE,OnePlus,Electronics,Tablets,14748.0,36870.0,60,3.8,66,In Stock,DailyDeals,2,55.3,Available
+FLP1813,FabIndia Scarf,FabIndia,Fashion,Accessories,5488.0,7840.0,30,4.4,1268,In Stock,ShopKart,5,57.9,Available
+FLP1814,Cosco Gloves,Cosco,Sports,Cycling,4437.0,5220.0,15,4.7,1019,Limited Stock,ShopKart,3,58.4,Low Stock
+FLP1815,Van Heusen Dress 85,Van Heusen,Fashion,Women's Clothing,2745.0,5490.0,50,4.2,365,Limited Stock,ShopKart,10,45.2,Low Stock
+FLP1816,Yonex Cycle 37,Yonex,Sports,Cycling,11523.5,12130.0,5,4.2,447,Out of Stock,PrimeSeller,3,81.0,Sold Out
+FLP1817,Apple Pad 81,Apple,Electronics,Tablets,2560.0,6400.0,60,4.5,254,In Stock,FlashSale,5,66.2,Available
+FLP1818,Nivea Trimmer Max,Nivea,Beauty,Personal Care,480.0,600.0,20,3.5,28,Out of Stock,EliteSeller,5,17.7,Sold Out
+FLP1819,Havells Cushion 31,Havells,Home & Kitchen,Decor,4851.0,16170.0,70,3.7,204,In Stock,ShopKart,2,65.2,Available
+FLP1820,Nike Handbag Pro,Nike,Fashion,Bags,2245.0,4490.0,50,4.1,811,In Stock,SmartBuy,3,39.4,Available
+FLP1821,Prestige Vase Pro,Prestige,Home & Kitchen,Decor,5719.0,6020.0,5,4.2,5,In Stock,EliteSeller,2,46.8,Available
+FLP1822,Nike Trolley,Nike,Fashion,Bags,2432.0,6080.0,60,4.7,202,In Stock,BestDeals,7,62.7,Available
+FLP1823,OnePlus Neo Pro,OnePlus,Electronics,Smartphones,15180.0,20240.0,25,4.6,253,In Stock,BrandHub,1,40.4,Available
+FLP1824,Apple Plus,Apple,Electronics,Smartphones,9568.0,11960.0,20,4.5,385,In Stock,ShopKart,5,73.1,Available
+FLP1825,Milton Bookshelf Ultra,Milton,Home & Kitchen,Furniture,20706.0,69020.0,70,2.7,1261,Limited Stock,BestDeals,3,45.3,Low Stock
+FLP1826,Dove Body Mist Plus,Dove,Beauty,Fragrances,672.0,1680.0,60,3.6,212,Out of Stock,DailyDeals,5,66.0,Sold Out
+FLP1827,Harper Collins History 72,Harper Collins,Books,Non-Fiction,130.0,200.0,35,4.0,213,In Stock,BestDeals,5,66.2,Available
+FLP1828,Reebok Cycle 26,Reebok,Sports,Cycling,7740.0,25800.0,70,4.9,668,In Stock,ValueStore,5,54.2,Available
+FLP1829,Tata Organic Tea,Tata,Groceries,Organic,231.0,330.0,30,4.1,300,In Stock,TopBrands,2,79.9,Available
+FLP1830,Fisher-Price Scrabble,Fisher-Price,Toys,Board Games,214.5,330.0,35,4.0,127,In Stock,PrimeSeller,3,69.4,Available
+FLP1831,Cello Chair 64,Cello,Home & Kitchen,Furniture,24252.0,40420.0,40,3.5,301,In Stock,BestDeals,1,83.7,Available
+FLP1832,H&M Backpack,H&M,Fashion,Bags,5252.0,8080.0,35,3.6,75,In Stock,SmartBuy,2,63.9,Available
+FLP1833,Xiaomi Air Plus,Xiaomi,Electronics,Tablets,13822.5,14550.0,5,3.7,97,In Stock,BrandHub,3,100.0,Available
+FLP1834,Barbie Puzzle Plus,Barbie,Toys,Educational Toys,540.0,1800.0,70,4.2,344,Out of Stock,SmartBuy,2,92.3,Sold Out
+FLP1835,Arihant Practice Papers Pro,Arihant,Books,Educational,516.0,1290.0,60,3.9,271,In Stock,TopBrands,2,82.4,Available
+FLP1836,Puma Kurta 84,Puma,Fashion,Men's Clothing,13889.0,14620.0,5,4.5,1231,In Stock,BrandHub,3,94.7,Available
+FLP1837,Samsung 5G 22,Samsung,Electronics,Smartphones,68057.0,123740.0,45,3.7,225,In Stock,EliteSeller,3,50.0,Available
+FLP1838,Westland Workbook 48,Westland,Books,Educational,678.0,1130.0,40,3.9,434,In Stock,SmartBuy,1,88.1,Available
+FLP1839,Bosch Vacuum Cleaner 94,Bosch,Home & Kitchen,Cleaning,4730.0,9460.0,50,2.9,500,In Stock,TopBrands,3,61.5,Available
+FLP1840,Vivo Neckband SE,Vivo,Electronics,Headphones,22848.0,57120.0,60,5.0,6,In Stock,SmartBuy,2,89.0,Available
+FLP1841,Nestle Organic Oil,Nestle,Groceries,Organic,210.0,420.0,50,3.5,544,In Stock,ShopKart,7,79.6,Available
+FLP1842,Usha Wall Art,Usha,Home & Kitchen,Decor,3084.0,10280.0,70,2.1,98,Out of Stock,TopBrands,2,79.6,Sold Out
+FLP1843,Arihant Strip Collection 15,Arihant,Books,Comics,485.0,970.0,50,4.3,1622,In Stock,BrandHub,2,84.7,Available
+FLP1844,Neutrogena Sunscreen SE,Neutrogena,Beauty,Skincare,1120.0,1600.0,30,3.1,80,In Stock,QuickMart,2,95.4,Available
+FLP1845,Nestle Butter SE,Nestle,Groceries,Dairy,1266.5,1490.0,15,2.5,267,In Stock,ValueStore,1,83.5,Available
+FLP1846,H&M Jacket,H&M,Fashion,Men's Clothing,7606.5,13830.0,45,3.6,44,In Stock,FlashSale,2,88.9,Available
+FLP1847,Xiaomi ANC Headphones Plus,Xiaomi,Electronics,Headphones,46217.5,48650.0,5,3.4,2884,In Stock,TopBrands,2,100.0,Available
+FLP1848,S. Chand Manga,S. Chand,Books,Comics,532.0,760.0,30,2.2,348,In Stock,ShopKart,7,75.6,Available
+FLP1849,Kissan Coffee Max,Kissan,Groceries,Beverages,702.0,780.0,10,2.8,452,Limited Stock,RetailWorld,1,35.5,Low Stock
+FLP1850,Bosch Mop 47,Bosch,Home & Kitchen,Cleaning,63859.0,67220.0,5,5.0,34,In Stock,SuperStore,2,77.7,Available
+FLP1851,Adidas Jacket,Adidas,Fashion,Men's Clothing,5590.0,11180.0,50,2.8,693,Out of Stock,SmartBuy,3,62.8,Sold Out
+FLP1852,Arihant Biography,Arihant,Books,Non-Fiction,392.0,980.0,60,4.0,117,In Stock,ShopKart,5,64.8,Available
+FLP1853,Hasbro Barbie 48,Hasbro,Toys,Dolls,2023.5,2130.0,5,2.6,1141,In Stock,QuickMart,1,71.2,Available
+FLP1854,Cosco Cycle Plus,Cosco,Sports,Cycling,12350.0,24700.0,50,2.9,114,In Stock,DailyDeals,2,75.9,Available
+FLP1855,LG Neckband Max,LG,Electronics,Headphones,22132.5,34050.0,35,3.6,105,Limited Stock,EliteSeller,3,93.7,Low Stock
+FLP1856,Vivo Compact 66,Vivo,Electronics,Cameras,21184.0,26480.0,20,3.0,18,In Stock,QuickMart,2,71.9,Available
+FLP1857,Morphy Richards Mattress,Morphy Richards,Home & Kitchen,Bedding,1107.0,1230.0,10,3.0,319,In Stock,QuickMart,2,95.7,Available
+FLP1858,WOW Eyeliner 18,WOW,Beauty,Makeup,704.0,1760.0,60,4.1,416,Out of Stock,ValueStore,5,56.5,Sold Out
+FLP1859,Nestle Organic Tea Ultra,Nestle,Groceries,Organic,528.0,880.0,40,4.0,33,In Stock,BrandHub,2,40.9,Available
+FLP1860,Nike Shirt,Nike,Fashion,Men's Clothing,11538.0,12820.0,10,4.0,747,In Stock,TechZone,5,94.4,Available
+FLP1861,Hot Wheels Superhero Figure Lite,Hot Wheels,Toys,Action Figures,4270.0,6100.0,30,4.1,301,In Stock,DailyDeals,1,61.6,Available
+FLP1862,Chhota Bheem Car Max,Chhota Bheem,Toys,Action Figures,676.0,1040.0,35,2.4,371,In Stock,FlashSale,2,100.0,Available
+FLP1863,OnePlus Smartwatch,OnePlus,Electronics,Smartwatches,40764.0,67940.0,40,4.1,290,In Stock,SmartBuy,3,52.8,Available
+FLP1864,Motorola Compact,Motorola,Electronics,Cameras,80037.5,84250.0,5,3.3,256,Limited Stock,ShopKart,5,90.5,Low Stock
+FLP1865,Yonex Cycle,Yonex,Sports,Cycling,6534.0,10890.0,40,4.7,410,In Stock,EliteSeller,3,36.4,Available
+FLP1866,Bajaj Air Fryer 59,Bajaj,Home & Kitchen,Kitchen Appliances,40150.0,40150.0,0,3.4,84,In Stock,TechZone,7,54.3,Available
+FLP1867,Funskool Dinosaur Ultra,Funskool,Toys,Action Figures,429.0,780.0,45,3.9,100,In Stock,SmartBuy,2,89.1,Available
+FLP1868,Realme Mirrorless Ultra,Realme,Electronics,Cameras,99720.0,99720.0,0,3.6,989,In Stock,PrimeSeller,5,78.2,Available
+FLP1869,ITC Chips 54,ITC,Groceries,Snacks,228.0,760.0,70,5.0,1460,Out of Stock,ShopKart,5,51.1,Sold Out
+FLP1870,Bloomsbury Mystery 65,Bloomsbury,Books,Fiction,693.0,770.0,10,3.9,233,In Stock,EliteSeller,3,70.8,Available
+FLP1871,Lego Superhero Figure,Lego,Toys,Action Figures,7460.0,7460.0,0,4.1,157,In Stock,ValueStore,7,28.9,Available
+FLP1872,Head Jersey 55,Head,Sports,Football,12678.0,21130.0,40,4.4,516,Limited Stock,ValueStore,10,81.3,Low Stock
+FLP1873,ITC Health Drink Pro,ITC,Groceries,Beverages,160.0,160.0,0,4.1,262,Limited Stock,BestDeals,5,97.8,Low Stock
+FLP1874,Decathlon Pads 26,Decathlon,Sports,Cricket,3654.0,4060.0,10,3.8,12,In Stock,TopBrands,7,82.0,Available
+FLP1875,Maybelline Moisturizer 66,Maybelline,Beauty,Skincare,798.0,1330.0,40,4.2,84,Out of Stock,PrimeSeller,7,95.1,Sold Out
+FLP1876,SS Pull-up Bar 89,SS,Sports,Fitness,12760.0,15950.0,20,3.5,629,In Stock,TechZone,2,87.7,Available
+FLP1877,LG Laptop 40,LG,Electronics,Laptops,15372.0,38430.0,60,3.6,537,Out of Stock,DailyDeals,5,61.7,Sold Out
+FLP1878,Decathlon Cricket Bat 45,Decathlon,Sports,Cricket,15120.0,15120.0,0,3.8,13,In Stock,TopBrands,10,91.4,Available
+FLP1879,Vivo Action Cam 14,Vivo,Electronics,Cameras,58973.0,69380.0,15,4.0,125,In Stock,SmartBuy,1,77.3,Available
+FLP1880,Oppo TWS Max,Oppo,Electronics,Headphones,111032.0,138790.0,20,4.2,131,Out of Stock,SmartBuy,2,40.2,Sold Out
+FLP1881,Harper Collins Romance SE,Harper Collins,Books,Fiction,348.0,870.0,60,4.4,557,Limited Stock,EliteSeller,3,58.2,Low Stock
+FLP1882,Cello Sofa 41,Cello,Home & Kitchen,Furniture,32002.5,37650.0,15,4.0,9,Out of Stock,PrimeSeller,10,67.6,Sold Out
+FLP1883,WOW Face Wash Ultra,WOW,Beauty,Skincare,1152.0,1440.0,20,3.2,54,Out of Stock,PrimeSeller,3,35.6,Sold Out
+FLP1884,Barbie Dinosaur,Barbie,Toys,Action Figures,2476.5,3810.0,35,4.1,804,In Stock,ShopKart,3,65.3,Available
+FLP1885,Kissan Curd Plus,Kissan,Groceries,Dairy,798.0,840.0,5,3.4,98,Out of Stock,QuickMart,2,70.6,Sold Out
+FLP1886,Samsung Earbuds,Samsung,Electronics,Headphones,19370.0,38740.0,50,4.9,528,Limited Stock,RetailWorld,3,72.3,Low Stock
+FLP1887,Dabur Paneer Pro,Dabur,Groceries,Dairy,37.5,50.0,25,3.7,136,In Stock,TechZone,2,63.5,Available
+FLP1888,Motorola Slate 87,Motorola,Electronics,Tablets,29425.0,58850.0,50,3.0,52,Limited Stock,ValueStore,2,79.4,Low Stock
+FLP1889,Barbie Flash Cards Pro,Barbie,Toys,Educational Toys,6040.0,7550.0,20,3.6,139,In Stock,BestDeals,7,56.8,Available
+FLP1890,Reebok Helmet,Reebok,Sports,Cycling,9428.0,23570.0,60,3.6,640,Out of Stock,TechZone,1,76.6,Sold Out
+FLP1891,Kissan Health Drink 16,Kissan,Groceries,Beverages,423.5,770.0,45,3.1,967,In Stock,DailyDeals,2,41.2,Available
+FLP1892,Milton Blanket 39,Milton,Home & Kitchen,Bedding,12045.0,21900.0,45,3.8,886,In Stock,SuperStore,5,79.4,Available
+FLP1893,MDH Coffee 87,MDH,Groceries,Beverages,777.0,1110.0,30,3.5,253,In Stock,EliteSeller,7,79.2,Available
+FLP1894,Puma Trolley 46,Puma,Fashion,Bags,11823.5,13910.0,15,4.0,551,In Stock,TechZone,2,44.8,Available
+FLP1895,LG 360 Cam,LG,Electronics,Cameras,81163.5,147570.0,45,2.5,114,In Stock,ValueStore,2,66.5,Available
+FLP1896,W Backpack Ultra,W,Fashion,Bags,10098.0,11220.0,10,4.8,173,In Stock,SmartBuy,2,37.3,Available
+FLP1897,Zara Wallet Ultra,Zara,Fashion,Accessories,868.0,2170.0,60,2.9,1133,In Stock,TechZone,7,53.9,Available
+FLP1898,Britannia Popcorn Max,Britannia,Groceries,Snacks,840.0,1120.0,25,5.0,6,In Stock,QuickMart,5,51.4,Available
+FLP1899,Bloomsbury Strip Collection Ultra,Bloomsbury,Books,Comics,220.0,220.0,0,3.3,44,In Stock,ShopKart,3,54.3,Available
+FLP1900,Levi's Kurta 46,Levi's,Fashion,Men's Clothing,3502.5,4670.0,25,4.7,116,In Stock,PrimeSeller,3,72.2,Available
+FLP1901,Decathlon Goalkeeper Gloves 50,Decathlon,Sports,Football,9792.0,24480.0,60,4.7,13,In Stock,FlashSale,2,43.2,Available
+FLP1902,Realme Tab 39,Realme,Electronics,Tablets,64226.0,75560.0,15,4.3,100,Limited Stock,QuickMart,10,54.1,Low Stock
+FLP1903,LG Over-ear,LG,Electronics,Headphones,114460.0,114460.0,0,3.7,437,Limited Stock,PrimeSeller,3,61.7,Low Stock
+FLP1904,Vivo Earbuds 66,Vivo,Electronics,Headphones,66690.0,111150.0,40,4.4,273,Limited Stock,FlashSale,5,80.7,Low Stock
+FLP1905,Realme Notebook Plus,Realme,Electronics,Laptops,105535.5,111090.0,5,5.0,1115,Out of Stock,PrimeSeller,2,57.9,Sold Out
+FLP1906,Adidas Tote Plus,Adidas,Fashion,Bags,8017.5,10690.0,25,4.1,850,In Stock,DailyDeals,5,61.5,Available
+FLP1907,Lego Ludo Plus,Lego,Toys,Board Games,1166.0,2120.0,45,2.7,209,In Stock,TopBrands,2,98.6,Available
+FLP1908,Adidas Saree 32,Adidas,Fashion,Women's Clothing,5712.0,14280.0,60,3.9,150,In Stock,SuperStore,3,63.4,Available
+FLP1909,Van Heusen Belt 47,Van Heusen,Fashion,Accessories,2812.5,3750.0,25,2.9,238,In Stock,TopBrands,2,67.9,Available
+FLP1910,Speedo Yoga Strap 63,Speedo,Sports,Yoga,7091.5,10910.0,35,3.8,446,Limited Stock,BestDeals,7,78.5,Low Stock
+FLP1911,L'Oreal Serum 72,L'Oreal,Beauty,Skincare,1785.0,2380.0,25,3.6,156,In Stock,DailyDeals,2,49.4,Available
+FLP1912,Realme Air 60,Realme,Electronics,Tablets,23577.0,78590.0,70,3.1,489,In Stock,ValueStore,5,78.9,Available
+FLP1913,H&M Jacket,H&M,Fashion,Men's Clothing,6324.0,7440.0,15,3.2,263,In Stock,EliteSeller,3,96.2,Available
+FLP1914,WOW Toothbrush,WOW,Beauty,Personal Care,940.5,1710.0,45,2.2,401,In Stock,DailyDeals,3,52.9,Available
+FLP1915,Oppo Book 57,Oppo,Electronics,Laptops,74376.0,82640.0,10,4.3,286,Out of Stock,BestDeals,2,47.9,Sold Out
+FLP1916,Prestige Sofa 30,Prestige,Home & Kitchen,Furniture,3370.0,3370.0,0,3.9,174,In Stock,RetailWorld,5,40.6,Available
+FLP1917,Xiaomi Watch Pro,Xiaomi,Electronics,Smartwatches,3960.0,9900.0,60,4.8,1482,In Stock,MegaMart,2,89.5,Available
+FLP1918,Penguin Guide 87,Penguin,Books,Educational,72.0,120.0,40,3.6,721,Out of Stock,ValueStore,5,58.0,Sold Out
+FLP1919,Morphy Richards Microwave 21,Morphy Richards,Home & Kitchen,Kitchen Appliances,18946.5,22290.0,15,5.0,75,In Stock,MegaMart,3,95.9,Available
+FLP1920,Allen Solly Slippers,Allen Solly,Fashion,Footwear,5425.0,7750.0,30,4.7,1014,In Stock,ShopKart,3,67.5,Available
+FLP1921,ITC Rice,ITC,Groceries,Staples,448.5,690.0,35,3.0,334,In Stock,BestDeals,5,53.9,Available
+FLP1922,Playmobil Kite 17,Playmobil,Toys,Outdoor Toys,1935.0,2150.0,10,2.8,1124,In Stock,ValueStore,5,86.8,Available
+FLP1923,Puma Slippers 72,Puma,Fashion,Footwear,336.0,840.0,60,3.2,804,In Stock,PrimeSeller,5,56.8,Available
+FLP1924,Haldiram's Juice,Haldiram's,Groceries,Beverages,461.5,710.0,35,2.5,276,Limited Stock,ValueStore,1,61.4,Low Stock
+FLP1925,OnePlus Edge Plus,OnePlus,Electronics,Smartphones,76370.5,80390.0,5,4.3,11,Limited Stock,EliteSeller,1,83.6,Low Stock
+FLP1926,Inalsa Bookshelf 44,Inalsa,Home & Kitchen,Furniture,33740.0,33740.0,0,3.7,156,In Stock,ShopKart,7,85.5,Available
+FLP1927,Mattel Fashion Doll 42,Mattel,Toys,Dolls,780.0,1300.0,40,3.4,390,Limited Stock,BestDeals,3,31.9,Low Stock
+FLP1928,Nestle Juice,Nestle,Groceries,Beverages,520.0,800.0,35,4.6,501,In Stock,BestDeals,1,66.3,Available
+FLP1929,Westland Graphic Novel,Westland,Books,Comics,560.0,560.0,0,3.2,149,In Stock,SmartBuy,3,46.0,Available
+FLP1930,Vivo Pad,Vivo,Electronics,Tablets,71800.0,89750.0,20,3.1,75,Limited Stock,TechZone,3,90.3,Low Stock
+FLP1931,Scholastic Finance 85,Scholastic,Books,Self Help,446.5,470.0,5,4.5,900,In Stock,EliteSeller,3,82.4,Available
+FLP1932,Westland Graphic Novel 28,Westland,Books,Comics,390.0,390.0,0,4.3,2080,In Stock,BrandHub,5,6.2,Available
+FLP1933,Samsung Ultra 40,Samsung,Electronics,Smartphones,7458.0,24860.0,70,2.9,372,In Stock,ValueStore,3,75.9,Available
+FLP1934,Yonex Yoga Block Lite,Yonex,Sports,Yoga,5736.0,9560.0,40,3.8,94,In Stock,QuickMart,2,72.4,Available
+FLP1935,Barbie Baby Doll 13,Barbie,Toys,Dolls,1206.0,4020.0,70,3.9,158,Limited Stock,EliteSeller,5,75.1,Low Stock
+FLP1936,Oxford Practice Papers,Oxford,Books,Educational,816.0,960.0,15,3.6,9,Out of Stock,RetailWorld,1,73.5,Sold Out
+FLP1937,Maybelline Concealer,Maybelline,Beauty,Makeup,3648.0,4560.0,20,3.8,1228,In Stock,SuperStore,3,64.9,Available
+FLP1938,Penguin Mindset Max,Penguin,Books,Self Help,1460.0,1460.0,0,4.9,62,Limited Stock,BrandHub,3,30.3,Low Stock
+FLP1939,Maybelline Soap,Maybelline,Beauty,Personal Care,290.0,290.0,0,3.1,429,Out of Stock,RetailWorld,2,44.4,Sold Out
+FLP1940,Milton Air Fryer Lite,Milton,Home & Kitchen,Kitchen Appliances,4950.0,8250.0,40,3.7,160,In Stock,QuickMart,5,100.0,Available
+FLP1941,Haldiram's Organic Tea 28,Haldiram's,Groceries,Organic,395.0,790.0,50,2.8,403,In Stock,TechZone,1,86.8,Available
+FLP1942,Realme Pro Max Lite,Realme,Electronics,Smartphones,37296.0,93240.0,60,3.5,526,Out of Stock,PrimeSeller,5,64.6,Sold Out
+FLP1943,Motorola DSLR Lite,Motorola,Electronics,Cameras,119928.0,126240.0,5,3.2,885,In Stock,DailyDeals,1,56.0,Available
+FLP1944,Amul Energy Drink,Amul,Groceries,Beverages,262.5,350.0,25,2.5,115,Limited Stock,ValueStore,2,75.1,Low Stock
+FLP1945,Arihant Science 43,Arihant,Books,Non-Fiction,225.0,300.0,25,2.8,5,In Stock,FlashSale,2,84.5,Available
+FLP1946,Motorola Tab,Motorola,Electronics,Tablets,17316.0,57720.0,70,3.4,73,In Stock,MegaMart,5,48.0,Available
+FLP1947,Milton Blanket,Milton,Home & Kitchen,Bedding,25930.0,51860.0,50,4.0,1151,In Stock,FlashSale,3,51.9,Available
+FLP1948,Samsung Slate Max,Samsung,Electronics,Tablets,83208.0,138680.0,40,3.7,1035,In Stock,ShopKart,3,54.2,Available
+FLP1949,Britannia Cheese,Britannia,Groceries,Dairy,950.0,950.0,0,4.3,454,In Stock,TopBrands,7,84.1,Available
+FLP1950,Bosch Induction Cooktop 42,Bosch,Home & Kitchen,Kitchen Appliances,42139.5,64830.0,35,3.0,458,Out of Stock,ShopKart,3,47.9,Sold Out
+FLP1951,H&M Wallet Max,H&M,Fashion,Accessories,756.5,890.0,15,4.0,546,In Stock,RetailWorld,3,22.1,Available
+FLP1952,Realme Book,Realme,Electronics,Laptops,53424.0,133560.0,60,4.3,96,Limited Stock,TechZone,5,60.3,Low Stock
+FLP1953,Zara Dress,Zara,Fashion,Women's Clothing,6336.0,7040.0,10,2.9,1229,In Stock,BrandHub,2,72.2,Available
+FLP1954,Xiaomi X 80,Xiaomi,Electronics,Smartphones,16410.0,27350.0,40,4.3,271,In Stock,SuperStore,2,49.0,Available
+FLP1955,Vivo Mirrorless 61,Vivo,Electronics,Cameras,50220.0,125550.0,60,4.0,241,In Stock,BrandHub,2,100.0,Available
+FLP1956,Pan Macmillan Reference 32,Pan Macmillan,Books,Educational,617.5,650.0,5,3.3,365,Limited Stock,PrimeSeller,1,89.4,Low Stock
+FLP1957,Van Heusen Jeans,Van Heusen,Fashion,Men's Clothing,6377.0,9110.0,30,4.8,24,In Stock,PrimeSeller,2,50.3,Available
+FLP1958,FabIndia Top 32,FabIndia,Fashion,Women's Clothing,2016.0,2520.0,20,2.9,90,In Stock,DailyDeals,10,89.2,Available
+FLP1959,Bosch Mixer Grinder,Bosch,Home & Kitchen,Kitchen Appliances,48450.0,64600.0,25,3.8,669,Limited Stock,ShopKart,5,56.5,Low Stock
+FLP1960,Prestige Bed Sheet Max,Prestige,Home & Kitchen,Bedding,19575.0,39150.0,50,2.9,43,In Stock,PrimeSeller,2,84.9,Available
+FLP1961,Reebok Dumbbells 29,Reebok,Sports,Fitness,27702.0,29160.0,5,4.3,462,In Stock,SmartBuy,3,10.2,Available
+FLP1962,Oxford Motivation 72,Oxford,Books,Self Help,451.0,820.0,45,3.8,140,In Stock,RetailWorld,2,43.2,Available
+FLP1963,Funskool Science Kit 63,Funskool,Toys,Educational Toys,1760.0,3520.0,50,3.5,246,In Stock,PrimeSeller,2,100.0,Available
+FLP1964,Van Heusen T-Shirt,Van Heusen,Fashion,Men's Clothing,776.0,1940.0,60,5.0,170,In Stock,DailyDeals,1,72.5,Available
+FLP1965,Milton Candle,Milton,Home & Kitchen,Decor,31104.0,77760.0,60,2.7,219,Limited Stock,TechZone,7,34.9,Low Stock
+FLP1966,Puma T-Shirt SE,Puma,Fashion,Men's Clothing,3704.0,9260.0,60,3.0,634,In Stock,FlashSale,10,33.5,Available
+FLP1967,Puma T-Shirt 34,Puma,Fashion,Men's Clothing,11416.0,14270.0,20,3.7,176,In Stock,FlashSale,7,32.6,Available
+FLP1968,Nivea Soap Ultra,Nivea,Beauty,Personal Care,3500.0,3500.0,0,3.3,417,Out of Stock,RetailWorld,3,81.1,Sold Out
+FLP1969,Dove Hair Mask 86,Dove,Beauty,Haircare,1008.0,1440.0,30,4.2,323,In Stock,TechZone,2,98.7,Available
+FLP1970,Oppo Note 52,Oppo,Electronics,Smartphones,20377.5,37050.0,45,3.6,544,Out of Stock,TopBrands,3,95.7,Sold Out
+FLP1971,Haldiram's Namkeen Plus,Haldiram's,Groceries,Snacks,397.5,530.0,25,4.1,1380,Limited Stock,ValueStore,3,54.7,Low Stock
+FLP1972,Van Heusen Jacket 57,Van Heusen,Fashion,Men's Clothing,7265.0,14530.0,50,1.9,659,In Stock,EliteSeller,5,69.9,Available
+FLP1973,Nike Watch Ultra,Nike,Fashion,Accessories,1424.5,2590.0,45,4.2,120,In Stock,TopBrands,10,81.1,Available
+FLP1974,Tata Rice,Tata,Groceries,Staples,121.0,220.0,45,4.2,15,In Stock,BrandHub,2,61.8,Available
+FLP1975,Vivo Watch Pro Pro,Vivo,Electronics,Smartwatches,63570.0,84760.0,25,3.9,152,In Stock,SmartBuy,2,44.2,Available
+FLP1976,Bloomsbury Mindset 30,Bloomsbury,Books,Self Help,595.0,850.0,30,4.0,452,Out of Stock,FlashSale,2,85.1,Sold Out
+FLP1977,Sony Air,Sony,Electronics,Tablets,50075.0,100150.0,50,4.5,26,In Stock,ShopKart,10,54.2,Available
+FLP1978,Motorola Over-ear Ultra,Motorola,Electronics,Headphones,74090.5,77990.0,5,3.0,342,Limited Stock,TopBrands,2,46.0,Low Stock
+FLP1979,Penguin Productivity Lite,Penguin,Books,Self Help,342.0,1140.0,70,3.4,454,Limited Stock,BrandHub,7,44.1,Low Stock
+FLP1980,Xiaomi Compact,Xiaomi,Electronics,Cameras,41440.0,51800.0,20,4.1,203,In Stock,TopBrands,3,67.0,Available
+FLP1981,Usha Juicer Max,Usha,Home & Kitchen,Kitchen Appliances,60399.0,67110.0,10,3.9,736,In Stock,TopBrands,5,97.0,Available
+FLP1982,Hot Wheels Chess Max,Hot Wheels,Toys,Board Games,3068.0,7670.0,60,2.8,56,In Stock,RetailWorld,10,57.6,Available
+FLP1983,Nike Watch Lite,Nike,Fashion,Accessories,2256.0,5640.0,60,4.8,39,In Stock,EliteSeller,5,52.6,Available
+FLP1984,Yonex Jersey,Yonex,Sports,Football,9420.0,12560.0,25,4.2,651,In Stock,TopBrands,2,76.6,Available
+FLP1985,Fisher-Price Badminton Set,Fisher-Price,Toys,Outdoor Toys,4575.0,6100.0,25,3.7,342,Out of Stock,EliteSeller,5,85.8,Sold Out
+FLP1986,Realme TWS 91,Realme,Electronics,Headphones,6570.0,8760.0,25,2.9,583,In Stock,SuperStore,5,52.7,Available
+FLP1987,Philips Lamp Plus,Philips,Home & Kitchen,Decor,23852.0,59630.0,60,4.6,285,Limited Stock,FlashSale,2,84.8,Low Stock
+FLP1988,Realme 5G,Realme,Electronics,Smartphones,34680.0,57800.0,40,3.8,141,In Stock,ShopKart,3,1.0,Available
+FLP1989,Nerf Math Game,Nerf,Toys,Educational Toys,2028.0,3120.0,35,3.1,854,In Stock,PrimeSeller,3,32.5,Available
+FLP1990,Xiaomi Ultra,Xiaomi,Electronics,Laptops,14718.0,26760.0,45,4.1,803,In Stock,BrandHub,3,30.3,Available
+FLP1991,Oxford Manga Ultra,Oxford,Books,Comics,855.0,1140.0,25,3.5,593,In Stock,BrandHub,2,47.7,Available
+FLP1992,Penguin Thriller SE,Penguin,Books,Fiction,432.0,720.0,40,3.9,158,Out of Stock,TopBrands,5,80.4,Sold Out
+FLP1993,Realme Over-ear,Realme,Electronics,Headphones,80788.0,85040.0,5,3.9,446,Limited Stock,BestDeals,7,32.5,Low Stock
+FLP1994,Motorola Over-ear 71,Motorola,Electronics,Headphones,70499.5,74210.0,5,2.7,223,In Stock,TechZone,3,57.0,Available
+FLP1995,Inalsa Mixer Grinder,Inalsa,Home & Kitchen,Kitchen Appliances,26048.0,47360.0,45,3.0,48,In Stock,ShopKart,7,67.1,Available
+FLP1996,Wilson Water Bottle 71,Wilson,Sports,Cycling,23816.0,29770.0,20,3.9,1246,In Stock,DailyDeals,2,37.9,Available
+FLP1997,Levi's Handbag 72,Levi's,Fashion,Bags,2655.0,5310.0,50,3.3,73,In Stock,SmartBuy,10,58.5,Available
+FLP1998,MDH Sugar SE,MDH,Groceries,Staples,256.5,270.0,5,4.0,1500,In Stock,BrandHub,7,35.2,Available
+FLP1999,Xiaomi Note Ultra,Xiaomi,Electronics,Smartphones,21552.0,35920.0,40,3.5,295,In Stock,QuickMart,5,97.1,Available
+FLP2000,FabIndia Blouse Max,FabIndia,Fashion,Women's Clothing,10665.0,11850.0,10,3.6,102,Limited Stock,FlashSale,10,57.5,Low Stock
+FLP2001,Sony Slate 67,Sony,Electronics,Tablets,112384.0,140480.0,20,3.5,390,Out of Stock,ShopKart,5,77.4,Sold Out
+FLP2002,Nike Sunglasses Pro,Nike,Fashion,Accessories,8050.0,11500.0,30,4.6,1031,In Stock,BestDeals,2,72.0,Available
+FLP2003,Realme Fitness Band Ultra,Realme,Electronics,Smartwatches,35812.5,47750.0,25,4.6,658,In Stock,TopBrands,3,68.1,Available
+FLP2004,Hasbro Chess Max,Hasbro,Toys,Board Games,1575.0,2100.0,25,3.6,821,In Stock,SmartBuy,10,18.0,Available
+FLP2005,Arihant Science,Arihant,Books,Non-Fiction,814.0,1480.0,45,3.7,537,In Stock,TopBrands,2,71.5,Available
+FLP2006,Apple Fitness Band 81,Apple,Electronics,Smartwatches,15618.0,52060.0,70,3.8,589,Limited Stock,BestDeals,3,27.9,Low Stock
+FLP2007,H&M Trolley Max,H&M,Fashion,Bags,6784.0,8480.0,20,3.8,945,Out of Stock,SmartBuy,7,54.8,Sold Out
+FLP2008,Sony Tab Pro,Sony,Electronics,Tablets,28507.5,38010.0,25,3.4,143,Out of Stock,ValueStore,2,91.1,Sold Out
+FLP2009,Nike Watch Lite,Nike,Fashion,Accessories,12530.0,12530.0,0,4.6,336,In Stock,TopBrands,3,52.5,Available
+FLP2010,Adidas Slippers 21,Adidas,Fashion,Footwear,6105.0,11100.0,45,4.6,125,In Stock,ShopKart,2,79.0,Available
+FLP2011,Maybelline Conditioner,Maybelline,Beauty,Haircare,2702.0,3860.0,30,4.2,2197,Limited Stock,QuickMart,10,44.6,Low Stock
+FLP2012,Neutrogena Mascara 10,Neutrogena,Beauty,Makeup,1076.0,2690.0,60,3.8,1441,Limited Stock,RetailWorld,3,16.4,Low Stock
+FLP2013,Vivo Pad Lite,Vivo,Electronics,Tablets,22797.0,26820.0,15,2.9,20,In Stock,BrandHub,5,47.7,Available
+FLP2014,L'Oreal Conditioner,L'Oreal,Beauty,Haircare,999.0,1110.0,10,4.6,611,Limited Stock,PrimeSeller,1,79.6,Low Stock
+FLP2015,Fisher-Price Car 13,Fisher-Price,Toys,Action Figures,1593.0,1770.0,10,3.4,1296,Limited Stock,TechZone,2,72.3,Low Stock
+FLP2016,Lego Kite Max,Lego,Toys,Outdoor Toys,1464.0,3660.0,60,4.2,99,In Stock,BrandHub,3,54.1,Available
+FLP2017,LG Slim,LG,Electronics,Laptops,54972.0,137430.0,60,3.5,419,In Stock,BestDeals,7,63.8,Available
+FLP2018,Haldiram's Organic Spices 22,Haldiram's,Groceries,Organic,438.0,730.0,40,4.5,1235,In Stock,FlashSale,5,79.3,Available
+FLP2019,Funskool Water Gun,Funskool,Toys,Outdoor Toys,796.0,1990.0,60,4.8,17,In Stock,QuickMart,3,79.5,Available
+FLP2020,Playmobil Robot 94,Playmobil,Toys,Action Figures,162.0,270.0,40,4.5,597,Out of Stock,ShopKart,1,90.6,Sold Out
+FLP2021,FabIndia Kurti 30,FabIndia,Fashion,Women's Clothing,1698.0,2830.0,40,5.0,176,Out of Stock,BestDeals,2,57.9,Sold Out
+FLP2022,H&M Sandals Pro,H&M,Fashion,Footwear,9440.0,9440.0,0,4.0,1291,Limited Stock,ValueStore,1,47.4,Low Stock
+FLP2023,SG Lock Max,SG,Sports,Cycling,5000.0,5000.0,0,3.6,1771,In Stock,TopBrands,1,76.6,Available
+FLP2024,Samsung TWS,Samsung,Electronics,Headphones,32604.0,50160.0,35,4.3,1443,In Stock,TopBrands,3,55.9,Available
+FLP2025,Havells Mop Lite,Havells,Home & Kitchen,Cleaning,6300.0,10500.0,40,5.0,321,In Stock,TechZone,1,99.8,Available
+FLP2026,OnePlus Pro 44,OnePlus,Electronics,Tablets,88680.0,110850.0,20,3.0,990,In Stock,ValueStore,3,100.0,Available
+FLP2027,Van Heusen Saree Plus,Van Heusen,Fashion,Women's Clothing,11120.0,11120.0,0,3.9,930,In Stock,RetailWorld,5,29.1,Available
+FLP2028,Mattel Dinosaur,Mattel,Toys,Action Figures,3290.0,3290.0,0,3.2,192,In Stock,TopBrands,3,54.9,Available
+FLP2029,Neutrogena Soap 42,Neutrogena,Beauty,Personal Care,544.0,680.0,20,3.4,882,In Stock,EliteSeller,10,45.1,Available
+FLP2030,Milton Induction Cooktop 22,Milton,Home & Kitchen,Kitchen Appliances,48944.0,61180.0,20,4.5,18,In Stock,BrandHub,10,72.4,Available
+FLP2031,Realme TWS Max,Realme,Electronics,Headphones,17482.5,23310.0,25,3.6,453,Limited Stock,BestDeals,1,85.1,Low Stock
+FLP2032,Xiaomi Smartwatch Lite,Xiaomi,Electronics,Smartwatches,99883.5,117510.0,15,3.8,130,In Stock,BestDeals,2,46.4,Available
+FLP2033,Scholastic Graphic Novel 79,Scholastic,Books,Comics,589.0,620.0,5,3.5,64,Limited Stock,BrandHub,2,39.3,Low Stock
+FLP2034,Vivo Plus 10,Vivo,Electronics,Smartphones,28794.0,47990.0,40,5.0,40,In Stock,SuperStore,2,57.6,Available
+FLP2035,Havells Cushion 30,Havells,Home & Kitchen,Decor,40634.0,73880.0,45,3.7,595,Out of Stock,EliteSeller,2,60.9,Sold Out
+FLP2036,Vivo 360 Cam SE,Vivo,Electronics,Cameras,77146.0,90760.0,15,4.0,207,Limited Stock,ShopKart,2,58.4,Low Stock
+FLP2037,ITC Health Drink SE,ITC,Groceries,Beverages,340.0,680.0,50,3.8,645,In Stock,TopBrands,3,82.6,Available
+FLP2038,Realme Action Cam 44,Realme,Electronics,Cameras,74532.0,124220.0,40,3.9,33,In Stock,BrandHub,10,43.0,Available
+FLP2039,Barbie Ludo,Barbie,Toys,Board Games,3168.0,3520.0,10,4.7,189,Out of Stock,SuperStore,5,43.5,Sold Out
+FLP2040,Biotique Body Wash SE,Biotique,Beauty,Personal Care,640.0,1280.0,50,2.8,387,In Stock,FlashSale,1,66.1,Available
+FLP2041,Haldiram's Organic Ghee,Haldiram's,Groceries,Organic,520.0,650.0,20,4.2,782,In Stock,ShopKart,5,64.1,Available
+FLP2042,Bajaj Frame Pro,Bajaj,Home & Kitchen,Decor,31916.0,79790.0,60,2.9,191,In Stock,TechZone,3,67.1,Available
+FLP2043,WOW Serum Lite,WOW,Beauty,Skincare,168.0,560.0,70,4.0,491,Out of Stock,EliteSeller,3,91.3,Sold Out
+FLP2044,Usha Bed Sheet,Usha,Home & Kitchen,Bedding,69140.0,69140.0,0,5.0,1085,In Stock,RetailWorld,5,51.6,Available
+FLP2045,Maybelline Concealer,Maybelline,Beauty,Makeup,1071.0,1530.0,30,4.3,478,Out of Stock,FlashSale,2,34.4,Sold Out
+FLP2046,Milton Toaster Lite,Milton,Home & Kitchen,Kitchen Appliances,18465.0,36930.0,50,3.8,132,In Stock,ValueStore,5,100.0,Available
+FLP2047,Wilson Jersey Pro,Wilson,Sports,Football,19305.0,25740.0,25,3.4,12,Out of Stock,TechZone,10,84.9,Sold Out
+FLP2048,WOW Mascara,WOW,Beauty,Makeup,2286.0,2540.0,10,3.9,1020,Limited Stock,QuickMart,3,51.6,Low Stock
+FLP2049,Levi's Kurta,Levi's,Fashion,Men's Clothing,5310.0,8850.0,40,3.6,10,Out of Stock,BestDeals,3,40.6,Sold Out
+FLP2050,Motorola Sport Band,Motorola,Electronics,Smartwatches,68815.0,137630.0,50,3.4,1038,Out of Stock,BrandHub,3,73.8,Sold Out
+FLP2051,Kissan Cheese,Kissan,Groceries,Dairy,826.5,870.0,5,3.7,376,Out of Stock,TopBrands,2,77.8,Sold Out
+FLP2052,Xiaomi Smartwatch 88,Xiaomi,Electronics,Smartwatches,34493.0,40580.0,15,2.7,1398,In Stock,ValueStore,2,78.4,Available
+FLP2053,Havells Broom 56,Havells,Home & Kitchen,Cleaning,19968.0,33280.0,40,3.0,801,Limited Stock,PrimeSeller,10,51.3,Low Stock
+FLP2054,Zara Saree,Zara,Fashion,Women's Clothing,7828.0,8240.0,5,4.3,3091,Limited Stock,TechZone,10,62.2,Low Stock
+FLP2055,MDH Organic Tea 38,MDH,Groceries,Organic,779.0,820.0,5,4.2,215,Out of Stock,ShopKart,5,39.5,Sold Out
+FLP2056,Playmobil Badminton Set 93,Playmobil,Toys,Outdoor Toys,1985.5,3610.0,45,2.3,728,In Stock,TopBrands,3,84.3,Available
+FLP2057,Hasbro Superhero Figure 86,Hasbro,Toys,Action Figures,5244.0,5520.0,5,4.4,257,In Stock,SuperStore,7,60.5,Available
+FLP2058,Head Goalkeeper Gloves Plus,Head,Sports,Football,4348.5,6690.0,35,3.5,326,In Stock,DailyDeals,2,93.8,Available
+FLP2059,WOW Toner,WOW,Beauty,Skincare,108.0,360.0,70,3.7,493,Limited Stock,SuperStore,3,72.8,Low Stock
+FLP2060,OnePlus ANC Headphones SE,OnePlus,Electronics,Headphones,126180.0,126180.0,0,3.4,1034,In Stock,ValueStore,1,46.1,Available
+FLP2061,Wilson Yoga Strap,Wilson,Sports,Yoga,3307.5,4410.0,25,4.1,2070,In Stock,FlashSale,3,80.8,Available
+FLP2062,Zara Lehenga,Zara,Fashion,Women's Clothing,7395.0,14790.0,50,4.6,731,In Stock,DailyDeals,2,75.8,Available
+FLP2063,Nike Lehenga,Nike,Fashion,Women's Clothing,8676.0,14460.0,40,4.5,270,In Stock,QuickMart,5,66.4,Available
+FLP2064,Sony Neckband 83,Sony,Electronics,Headphones,26656.0,31360.0,15,4.2,273,In Stock,SuperStore,2,63.6,Available
+FLP2065,Nerf Superhero Figure,Nerf,Toys,Action Figures,884.0,1360.0,35,4.1,668,In Stock,PrimeSeller,10,66.1,Available
+FLP2066,Bloomsbury Strip Collection 94,Bloomsbury,Books,Comics,313.5,330.0,5,2.9,136,Limited Stock,EliteSeller,7,65.4,Low Stock
+FLP2067,Inalsa Microwave,Inalsa,Home & Kitchen,Kitchen Appliances,4845.0,5700.0,15,3.6,58,Out of Stock,SmartBuy,2,76.1,Sold Out
+FLP2068,Kissan Lentils Max,Kissan,Groceries,Staples,102.0,170.0,40,4.8,218,Limited Stock,DailyDeals,3,80.8,Low Stock
+FLP2069,OnePlus Air,OnePlus,Electronics,Tablets,59457.5,69950.0,15,3.6,169,In Stock,PrimeSeller,3,92.0,Available
+FLP2070,Cello Mop 34,Cello,Home & Kitchen,Cleaning,7446.0,24820.0,70,4.1,175,In Stock,SmartBuy,3,31.0,Available
+FLP2071,Mamaearth Soap,Mamaearth,Beauty,Personal Care,712.5,950.0,25,3.8,133,In Stock,BrandHub,2,40.3,Available
+FLP2072,Reebok Yoga Wheel Plus,Reebok,Sports,Yoga,14274.0,15860.0,10,2.8,21,In Stock,PrimeSeller,2,63.3,Available
+FLP2073,Sony Notebook,Sony,Electronics,Laptops,17490.0,34980.0,50,3.7,9,In Stock,DailyDeals,7,61.0,Available
+FLP2074,SG Resistance Band 89,SG,Sports,Fitness,25177.0,29620.0,15,3.0,2199,In Stock,SmartBuy,2,92.5,Available
+FLP2075,Dabur Organic Spices,Dabur,Groceries,Organic,165.0,330.0,50,3.9,279,In Stock,BrandHub,3,49.1,Available
+FLP2076,Speedo Resistance Band,Speedo,Sports,Fitness,244.0,610.0,60,3.0,242,In Stock,TechZone,5,83.8,Available
+FLP2077,Apple 360 Cam 46,Apple,Electronics,Cameras,23692.5,31590.0,25,4.5,569,Limited Stock,FlashSale,5,93.5,Low Stock
+FLP2078,Hasbro Math Game Plus,Hasbro,Toys,Educational Toys,4298.0,6140.0,30,4.5,123,Limited Stock,RetailWorld,3,27.8,Low Stock
+FLP2079,Bajaj Toaster Max,Bajaj,Home & Kitchen,Kitchen Appliances,13076.0,18680.0,30,4.4,1497,Out of Stock,QuickMart,2,96.1,Sold Out
+FLP2080,Inalsa Induction Cooktop,Inalsa,Home & Kitchen,Kitchen Appliances,52241.0,61460.0,15,4.0,771,In Stock,PrimeSeller,1,33.1,Available
+FLP2081,Cello Juicer 66,Cello,Home & Kitchen,Kitchen Appliances,24568.0,30710.0,20,3.4,46,In Stock,TechZone,2,64.5,Available
+FLP2082,Nerf Puppet,Nerf,Toys,Dolls,2196.0,2440.0,10,5.0,270,In Stock,ShopKart,5,100.0,Available
+FLP2083,S. Chand Mindset,S. Chand,Books,Self Help,142.5,150.0,5,3.9,1056,In Stock,EliteSeller,1,63.0,Available
+FLP2084,Mamaearth Trimmer Max,Mamaearth,Beauty,Personal Care,230.0,460.0,50,4.3,1447,In Stock,BestDeals,3,44.7,Available
+FLP2085,Arihant Comic Book 38,Arihant,Books,Comics,290.0,580.0,50,2.4,314,In Stock,DailyDeals,3,77.5,Available
+FLP2086,Arihant Practice Papers 79,Arihant,Books,Educational,997.5,1330.0,25,3.9,475,In Stock,QuickMart,1,43.8,Available
+FLP2087,Fisher-Price Math Game 56,Fisher-Price,Toys,Educational Toys,5285.0,7550.0,30,4.5,91,In Stock,DailyDeals,10,50.2,Available
+FLP2088,Levi's Tote Max,Levi's,Fashion,Bags,1568.0,3920.0,60,4.1,2364,Limited Stock,BrandHub,5,77.3,Low Stock
+FLP2089,Yonex Bolster,Yonex,Sports,Yoga,16515.5,19430.0,15,3.3,131,In Stock,BestDeals,3,79.1,Available
+FLP2090,FabIndia Blouse Lite,FabIndia,Fashion,Women's Clothing,9856.0,14080.0,30,4.2,1430,In Stock,DailyDeals,3,84.6,Available
+FLP2091,Cello Bed Lite,Cello,Home & Kitchen,Furniture,13866.0,46220.0,70,4.1,524,In Stock,SmartBuy,7,84.5,Available
+FLP2092,Decathlon Gloves 21,Decathlon,Sports,Cycling,6114.0,20380.0,70,4.0,467,Limited Stock,BestDeals,7,66.7,Low Stock
+FLP2093,Arihant Science 32,Arihant,Books,Non-Fiction,960.0,1280.0,25,3.5,359,Limited Stock,TechZone,3,52.8,Low Stock
+FLP2094,SG Boots Lite,SG,Sports,Football,4892.5,5150.0,5,2.9,131,In Stock,BrandHub,3,59.4,Available
+FLP2095,Nestle Biscuits Ultra,Nestle,Groceries,Snacks,1301.5,1370.0,5,3.9,97,In Stock,BrandHub,3,54.2,Available
+FLP2096,Van Heusen Wallet,Van Heusen,Fashion,Accessories,5661.5,8710.0,35,5.0,124,Limited Stock,QuickMart,3,32.2,Low Stock
+FLP2097,Vivo Slate,Vivo,Electronics,Tablets,131033.5,137930.0,5,5.0,103,In Stock,PrimeSeller,10,63.4,Available
+FLP2098,Lakme Body Mist 76,Lakme,Beauty,Fragrances,1732.5,3150.0,45,3.5,756,Limited Stock,PrimeSeller,2,71.0,Low Stock
+FLP2099,ITC Popcorn 94,ITC,Groceries,Snacks,848.0,1060.0,20,3.2,215,In Stock,MegaMart,5,71.7,Available

@@ -1,0 +1,67 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║          FLIPKART PRODUCT MARKET ANALYSIS - INSIGHTS           ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Generated on: 01 July 2026, 15:57
+
+─────────────────────────────────────────────────────────────────
+DATASET OVERVIEW
+─────────────────────────────────────────────────────────────────
+  Total Products Analyzed   : 1,100
+  Total Brands              : 80
+  Total Categories          : 8
+  Total Sub-Categories      : 41
+  Total Sellers             : 15
+  In-Stock Products         : 67.5%
+
+─────────────────────────────────────────────────────────────────
+PRICING INSIGHTS
+─────────────────────────────────────────────────────────────────
+  Average Product Price     : ₹18,388.67
+  Highest Priced Product    : ₹134,442.00
+  Lowest Priced Product     : ₹30.00
+  Median Product Price      : ₹5,474.00
+  Average Discount          : 31.98%
+  Maximum Discount Offered  : 70%
+
+─────────────────────────────────────────────────────────────────
+BRAND INSIGHTS
+─────────────────────────────────────────────────────────────────
+  Most Expensive Brand      : Oppo
+  Highest Rated Brand       : Tata
+  Brand with Highest Discounts: Funskool
+  Top Brand by Products     : Vivo
+
+─────────────────────────────────────────────────────────────────
+CATEGORY INSIGHTS
+─────────────────────────────────────────────────────────────────
+  Most Products in Category : Electronics
+  Cheapest Category (avg)   : Groceries
+  Most Popular Category     : Books
+
+─────────────────────────────────────────────────────────────────
+RATINGS & REVIEWS
+─────────────────────────────────────────────────────────────────
+  Average Product Rating    : 3.90 ★
+  Highest Rated Product     : Zara Blouse (5.0 ★)
+  Most Reviewed Product     : FabIndia Kurta (4,086 reviews)
+
+─────────────────────────────────────────────────────────────────
+SELLER INSIGHTS
+─────────────────────────────────────────────────────────────────
+  Top Seller                : TechZone (89 products)
+  Avg Delivery Time         : 3.8 days
+
+─────────────────────────────────────────────────────────────────
+KEY TAKEAWAYS
+─────────────────────────────────────────────────────────────────
+  1. Electronics dominates the Flipkart product catalogue.
+  2. Products with 30-50% discounts attract highest review counts.
+  3. Tata leads in customer satisfaction (rating).
+  4. Oppo targets premium buyers.
+  5. Fast delivery (≤3 days) products show higher popularity scores.
+
+══════════════════════════════════════════════════════════════════
+  Flipkart Product Market Analysis | Python Data Analytics
+══════════════════════════════════════════════════════════════════

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analysis Report – Flipkart Market Analysis</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<!-- ── Navbar ─────────────────────────────────────────────────── -->
+<nav class="fk-navbar navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <i class="bi bi-bar-chart-line-fill"></i>
+      Flipkart Analytics
+      <span class="brand-badge">Report</span>
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <i class="bi bi-list text-white fs-4"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto align-items-center gap-1">
+        <li class="nav-item"><a class="nav-link" href="/"><i class="bi bi-house me-1"></i>Home</a></li>
+        <li class="nav-item"><a class="nav-link active" href="/report"><i class="bi bi-graph-up me-1"></i>Analysis</a></li>
+        <li class="nav-item ms-2">
+          <a class="btn-fk-yellow btn btn-sm" href="/download/dataset">
+            <i class="bi bi-download"></i> Dataset
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ── Page Hero ───────────────────────────────────────────────── -->
+<div style="background:linear-gradient(135deg,#2874F0,#0D47A1); padding:2.5rem 0; color:#fff;">
+  <div class="container">
+    <div class="d-flex align-items-center gap-3 flex-wrap">
+      <div>
+        <span class="hero-tag"><i class="bi bi-clipboard-data me-1"></i>Full Analysis Report</span>
+        <h2 class="fw-800 mb-1" style="font-weight:800;">Exploratory Data Analysis</h2>
+        <p style="opacity:0.8; margin:0; font-size:0.95rem;">
+          Complete EDA with {{ eda_shape[0] | default(1100) }} products across {{ eda_shape[1] | default(15) }} features
+        </p>
+      </div>
+      <div class="ms-auto d-flex gap-2 flex-wrap">
+        <a href="/download/insights" class="btn-fk-yellow btn btn-sm">
+          <i class="bi bi-file-earmark-arrow-down"></i> Insights TXT
+        </a>
+        <a href="/download/dataset" class="btn-outline-fk btn btn-sm" style="border-color:rgba(255,255,255,0.5);color:#fff;">
+          <i class="bi bi-filetype-csv"></i> CSV
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── EDA Summary ─────────────────────────────────────────────── -->
+<div class="container mt-4">
+  <div class="row g-3 mb-4">
+    <!-- Dataset shape -->
+    <div class="col-md-4">
+      <div class="kpi-card fade-up h-100">
+        <h6 class="fw-bold mb-3"><i class="bi bi-table text-primary me-2"></i>Dataset Shape</h6>
+        <div class="d-flex gap-3">
+          <div>
+            <div class="kpi-value" style="font-size:1.6rem;">{{ eda_shape[0] }}</div>
+            <div class="kpi-label">Rows</div>
+          </div>
+          <div class="vr"></div>
+          <div>
+            <div class="kpi-value" style="font-size:1.6rem;">{{ eda_shape[1] }}</div>
+            <div class="kpi-label">Columns</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Missing values -->
+    <div class="col-md-4">
+      <div class="kpi-card fade-up h-100">
+        <h6 class="fw-bold mb-3"><i class="bi bi-exclamation-circle text-warning me-2"></i>Missing Values</h6>
+        {% set total_missing = eda_missing.values() | sum %}
+        {% if total_missing == 0 %}
+          <div class="d-flex align-items-center gap-2">
+            <div class="kpi-icon green" style="width:36px;height:36px;font-size:1.1rem;"><i class="bi bi-check-lg"></i></div>
+            <div>
+              <div class="kpi-value" style="font-size:1.6rem;">0</div>
+              <div class="kpi-label">No missing values found</div>
+            </div>
+          </div>
+        {% else %}
+          <div class="kpi-value" style="font-size:1.6rem; color:#E74C3C;">{{ total_missing }}</div>
+          <div class="kpi-label">Total missing cells</div>
+        {% endif %}
+      </div>
+    </div>
+    <!-- Price stats -->
+    <div class="col-md-4">
+      <div class="kpi-card fade-up h-100">
+        <h6 class="fw-bold mb-3"><i class="bi bi-currency-rupee text-success me-2"></i>Pricing Summary</h6>
+        <table class="w-100" style="font-size:0.82rem;">
+          <tr><td class="text-muted">Average</td><td class="fw-bold text-end">₹{{ price_stats.avg_price | int | string | replace(',','') }}</td></tr>
+          <tr><td class="text-muted">Highest</td><td class="fw-bold text-end">₹{{ price_stats.max_price | int }}</td></tr>
+          <tr><td class="text-muted">Lowest</td><td class="fw-bold text-end">₹{{ price_stats.min_price | int }}</td></tr>
+          <tr><td class="text-muted">Avg Discount</td><td class="fw-bold text-end">{{ price_stats.avg_discount }}%</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Column list ─────────────────────────────────────────── -->
+  <div class="kpi-card mb-4 fade-up">
+    <h6 class="fw-bold mb-3"><i class="bi bi-columns-gap text-primary me-2"></i>Dataset Columns</h6>
+    <div class="eda-row">
+      {% for col in ["Product_ID","Product_Name","Brand","Category","Sub_Category","Price","Original_Price","Discount_Percentage","Rating","Review_Count","Availability","Seller","Delivery_Days","Product_Popularity","Stock_Status"] %}
+        <span class="eda-pill">{{ col }}</span>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- ── Graph Gallery ───────────────────────────────────────────── -->
+<div class="container mb-5">
+  <div class="mb-4 fade-up">
+    <div class="section-divider"></div>
+    <h2 class="section-title">Analysis Charts</h2>
+    <p class="section-subtitle">Click any chart to expand — all generated automatically from the dataset</p>
+  </div>
+
+  <div class="row g-4">
+    {% for g in graphs %}
+    <div class="col-md-6 col-xl-4">
+      <div class="graph-card fade-up">
+        <img
+          src="/graphs/{{ g.file }}"
+          alt="{{ g.title }}"
+          loading="lazy"
+          onclick="openLightbox(this.src)"
+        >
+        <div class="graph-card-body">
+          <div class="graph-card-title"><i class="bi bi-image text-primary me-1"></i>{{ g.title }}</div>
+          <div class="graph-card-desc">{{ g.desc }}</div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- ── Top Discounted Products Table ──────────────────────────── -->
+<div class="container mb-5">
+  <div class="mb-4 fade-up">
+    <div class="section-divider"></div>
+    <h2 class="section-title">Top Discounted Products</h2>
+    <p class="section-subtitle">Products offering the highest percentage discounts</p>
+  </div>
+  <div class="kpi-card fade-up p-0 overflow-hidden">
+    <div class="table-responsive">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Product Name</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>MRP</th>
+            <th>Sale Price</th>
+            <th>Discount</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in top_disc %}
+          <tr>
+            <td class="text-muted">{{ loop.index }}</td>
+            <td class="fw-500">{{ row.Product_Name }}</td>
+            <td><span class="badge-category badge-blue">{{ row.Brand }}</span></td>
+            <td>{{ row.Category }}</td>
+            <td class="text-decoration-line-through text-muted">₹{{ row.Original_Price | int }}</td>
+            <td class="fw-bold text-success">₹{{ row.Price | int }}</td>
+            <td>
+              <span class="badge-category badge-red">{{ row.Discount_Percentage | int }}% OFF</span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- ── Seller Analysis Table ──────────────────────────────────── -->
+<div class="container mb-5">
+  <div class="mb-4 fade-up">
+    <div class="section-divider"></div>
+    <h2 class="section-title">Seller Analysis</h2>
+    <p class="section-subtitle">Number of products listed by each seller on the platform</p>
+  </div>
+  <div class="row g-3">
+    {% for s in seller_table %}
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="kpi-card fade-up text-center">
+        <div class="kpi-icon blue mx-auto mb-2"><i class="bi bi-shop"></i></div>
+        <div class="kpi-value" style="font-size:1.5rem;">{{ s.Products }}</div>
+        <div class="kpi-label">{{ s.Seller }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- ── Insights Report ─────────────────────────────────────────── -->
+<div class="container mb-5">
+  <div class="mb-4 fade-up">
+    <div class="section-divider"></div>
+    <h2 class="section-title">Auto-Generated Insights</h2>
+    <p class="section-subtitle">
+      Key findings extracted from the data
+      <a href="/download/insights" class="btn-fk-primary btn btn-sm ms-2">
+        <i class="bi bi-download"></i> Download TXT
+      </a>
+    </p>
+  </div>
+  <div class="fade-up">
+    <pre class="insights-pre">{{ insights }}</pre>
+  </div>
+</div>
+
+<!-- ── Lightbox ────────────────────────────────────────────────── -->
+<div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <img id="lightbox-img" src="" alt="Chart">
+</div>
+
+<!-- ── Footer ─────────────────────────────────────────────────── -->
+<footer class="fk-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 mb-3">
+        <div class="footer-brand"><i class="bi bi-bar-chart-line-fill me-2"></i>Flipkart Analytics</div>
+        <p class="footer-desc">A Python Data Analytics internship project — EDA, visualization, and Flask dashboard.</p>
+      </div>
+      <div class="col-md-3 mb-3">
+        <div class="text-white fw-600 mb-2" style="font-weight:600;">Navigation</div>
+        <div class="d-flex flex-column gap-1">
+          <a href="/" class="text-white-50 text-decoration-none small"><i class="bi bi-house me-1"></i>Home</a>
+          <a href="/report" class="text-white-50 text-decoration-none small"><i class="bi bi-graph-up me-1"></i>Analysis</a>
+          <a href="/download/dataset" class="text-white-50 text-decoration-none small"><i class="bi bi-download me-1"></i>Dataset</a>
+          <a href="/download/insights" class="text-white-50 text-decoration-none small"><i class="bi bi-file-text me-1"></i>Insights</a>
+        </div>
+      </div>
+      <div class="col-md-4 mb-3">
+        <div class="text-white fw-600 mb-2" style="font-weight:600;">Tech Stack</div>
+        <div class="footer-tech">
+          <span>Python 3</span><span>Pandas</span><span>NumPy</span>
+          <span>Matplotlib</span><span>Seaborn</span><span>Flask</span>
+          <span>Bootstrap 5</span><span>Chart.js</span><span>Pickle</span>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copy text-white-50">
+      © 2026 Flipkart Product Market Analysis — Developed by Sabahat Kazi
+    </div>
+  </div>
+</footer>
+
+<!-- ── Scripts ─────────────────────────────────────────────────── -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// Lightbox
+function openLightbox(src) {
+  document.getElementById('lightbox-img').src = src;
+  document.getElementById('lightbox').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+
+// Scroll fade-up
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+}, { threshold: 0.08 });
+document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+</script>
+</body>
+</html>
