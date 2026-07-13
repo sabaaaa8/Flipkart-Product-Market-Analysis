@@ -6,11 +6,6 @@ and category-wise insights — served through a professional Flask dashboard.
 — served through a professional Flask dashboard.
 
 
-| **Insights Report** | Auto-generated `insights.txt` with 20+ key findings |
-| **Flask Dashboard** | Responsive Bootstrap 5 web dashboard |
-| **Pickle Cache** | Processed data saved for fast subsequent loads |
-
-
 ## 🔮 Future Improvements
 
 1. **Predictive Pricing** — Train a regression model to predict optimal sale price
